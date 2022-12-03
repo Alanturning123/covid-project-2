@@ -1,0 +1,2856 @@
+STATE,DISTRICTS,TYPE,TESTED,RECOVERED,POPULATION,VACCINATED2,VACCINATED1,CONFIRMED ,DECEASED
+AN,Nicobars,delta7,0,0,0,811,62,0,0
+AN,Nicobars,meta,0,0,36842,0,0,0,0
+AN,Nicobars,total,0,0,0,20313,25394,0,0
+AN,North and Middle Andaman,delta,0,0,0,8,0,0,0
+AN,North and Middle Andaman,delta7,0,0,0,1839,90,0,0
+AN,North and Middle Andaman,meta,0,0,105597,0,0,0,0
+AN,North and Middle Andaman,total,0,0,0,59522,78945,0,0
+AN,South Andaman,delta,0,0,0,28,3,0,0
+AN,South Andaman,delta7,0,0,0,8012,732,0,0
+AN,South Andaman,meta,0,0,238142,0,0,0,0
+AN,South Andaman,total,0,0,0,120322,189662,0,0
+AP,Anantapur,delta,0,5,0,5370,4575,4,0
+AP,Anantapur,delta7,0,58,0,140903,92803,38,0
+AP,Anantapur,meta,0,0,4083315,0,0,0,0
+AP,Anantapur,total,787085,156699,0,1611476,2690082,157843,1093
+AP,Chittoor,delta,0,87,0,1306,878,64,1
+AP,Chittoor,delta7,0,629,0,119541,63824,516,6
+AP,Chittoor,meta,0,0,4170468,0,0,0,0
+AP,Chittoor,total,780322,244144,0,1807873,2832987,246935,1947
+AP,East Godavari,delta,0,121,0,237,41,87,0
+AP,East Godavari,delta7,0,520,0,223236,36973,604,0
+AP,East Godavari,meta,0,0,5151549,0,0,0,0
+AP,East Godavari,total,944746,291610,0,1990578,3532220,293836,1290
+AP,Foreign Evacuees,total,0,434,0,0,0,434,0
+AP,Guntur,delta,0,198,0,1248,1119,33,0
+AP,Guntur,delta7,0,619,0,156818,285377,272,4
+AP,Guntur,meta,0,0,4889230,0,0,0,0
+AP,Guntur,total,833823,176629,0,1891773,3440118,178068,1237
+AP,Krishna,delta,0,71,0,337,51,46,1
+AP,Krishna,delta7,0,467,0,230788,75352,422,9
+AP,Krishna,meta,0,0,4529009,0,0,0,0
+AP,Krishna,total,782232,117130,0,1914927,2971604,119348,1430
+AP,Kurnool,delta,0,3,0,1538,4716,6,0
+AP,Kurnool,delta7,0,26,0,73119,178620,25,0
+AP,Kurnool,meta,0,0,4046601,0,0,0,0
+AP,Kurnool,total,867361,123264,0,1290419,2672759,124142,853
+AP,Other State,total,0,2461,0,0,0,2461,0
+AP,Prakasam,delta,0,37,0,5872,3292,6,0
+AP,Prakasam,delta7,0,290,0,130213,137338,103,3
+AP,Prakasam,meta,0,0,3392764,0,0,0,0
+AP,Prakasam,total,697340,136989,0,1521177,2321031,138482,1124
+AP,Srikakulam,delta,0,20,0,6,2,19,0
+AP,Srikakulam,delta7,0,72,0,129575,18883,132,0
+AP,Srikakulam,meta,0,0,2699471,0,0,0,0
+AP,Srikakulam,total,670899,122136,0,974734,1630248,123109,786
+AP,Visakhapatnam,delta,0,30,0,2311,1309,27,0
+AP,Visakhapatnam,delta7,0,227,0,207340,65301,237,1
+AP,Visakhapatnam,meta,0,0,4288113,0,0,0,0
+AP,Visakhapatnam,total,744983,156492,0,1864960,2999432,157737,1127
+AP,Vizianagaram,delta,0,11,0,1855,601,7,1
+AP,Vizianagaram,delta7,0,38,0,123576,44847,53,1
+AP,Vizianagaram,meta,0,0,2342868,0,0,0,0
+AP,Vizianagaram,total,531433,82231,0,996097,1393491,82967,672
+AP,West Godavari,delta,0,44,0,1884,878,40,0
+AP,West Godavari,delta7,0,246,0,146562,61021,234,4
+AP,West Godavari,meta,0,0,3934782,0,0,0,0
+AP,West Godavari,total,793098,177680,0,1778807,2525317,179077,1117
+AR,Anjaw,delta7,0,0,0,452,45,0,0
+AR,Anjaw,meta,0,0,21089,0,0,0,0
+AR,Anjaw,total,2845,1065,0,7957,11695,1068,3
+AR,Capital Complex,total,115210,0,0,0,0,0,0
+AR,Changlang,delta,0,1,0,0,0,0,0
+AR,Changlang,delta7,0,3,0,3803,298,3,0
+AR,Changlang,meta,0,0,147951,0,0,0,0
+AR,Changlang,total,23861,3780,0,55361,88857,3807,22
+AR,East Kameng,delta,0,0,0,1,0,0,0
+AR,East Kameng,delta7,0,0,0,409,76,0,0
+AR,East Kameng,meta,0,0,78413,0,0,0,0
+AR,East Kameng,total,7489,1094,0,15646,22931,1094,0
+AR,East Siang,delta,0,5,0,0,0,0,0
+AR,East Siang,delta7,0,10,0,2013,365,9,0
+AR,East Siang,meta,0,0,99019,0,0,0,0
+AR,East Siang,total,21867,3183,0,39434,54001,3206,17
+AR,Kamle,delta7,0,0,0,185,36,0,0
+AR,Kamle,meta,0,0,22256,0,0,0,0
+AR,Kamle,total,1385,512,0,3874,6946,512,0
+AR,Kra Daadi,delta7,0,0,0,23,5,0,0
+AR,Kra Daadi,total,3218,270,0,3272,6275,270,0
+AR,Kurung Kumey,delta7,0,0,0,255,27,0,0
+AR,Kurung Kumey,meta,0,0,89717,0,0,0,0
+AR,Kurung Kumey,total,4201,510,0,5601,9121,511,1
+AR,Lepa Rada,delta,0,0,0,54,6,0,0
+AR,Lepa Rada,delta7,0,1,0,307,40,0,0
+AR,Lepa Rada,total,6747,871,0,10176,13328,874,3
+AR,Lohit,delta7,0,3,0,1494,221,9,0
+AR,Lohit,meta,0,0,145538,0,0,0,0
+AR,Lohit,total,14945,2851,0,22003,31120,2885,26
+AR,Longding,delta7,0,0,0,356,46,1,0
+AR,Longding,meta,0,0,60000,0,0,0,0
+AR,Longding,total,10342,749,0,7826,19259,752,2
+AR,Lower Dibang Valley,delta,0,0,0,1,19,0,0
+AR,Lower Dibang Valley,delta7,0,3,0,931,171,14,0
+AR,Lower Dibang Valley,meta,0,0,53986,0,0,0,0
+AR,Lower Dibang Valley,total,12169,2397,0,22089,32639,2426,11
+AR,Lower Siang,delta7,0,0,0,317,37,0,0
+AR,Lower Siang,meta,0,0,80597,0,0,0,0
+AR,Lower Siang,total,7070,730,0,9990,16565,738,8
+AR,Lower Subansiri,delta,0,0,0,36,2,0,0
+AR,Lower Subansiri,delta7,0,2,0,767,85,5,0
+AR,Lower Subansiri,meta,0,0,82839,0,0,0,0
+AR,Lower Subansiri,total,10564,3015,0,18827,26916,3036,15
+AR,Namsai,delta7,0,16,0,2436,209,4,0
+AR,Namsai,meta,0,0,95950,0,0,0,0
+AR,Namsai,total,19987,2102,0,47104,63539,2124,17
+AR,Pakke Kessang,delta,0,0,0,14,0,0,0
+AR,Pakke Kessang,delta7,0,0,0,262,25,0,0
+AR,Pakke Kessang,total,3327,453,0,4998,8004,453,0
+AR,Papum Pare,delta,0,1,0,0,0,1,0
+AR,Papum Pare,delta7,0,12,0,3799,1055,7,0
+AR,Papum Pare,meta,0,0,176385,0,0,0,0
+AR,Papum Pare,total,41960,18212,0,100258,141168,18316,98
+AR,Shi Yomi,delta7,0,10,0,153,2,1,0
+AR,Shi Yomi,meta,0,0,13310,0,0,0,0
+AR,Shi Yomi,total,2169,261,0,5663,6910,262,0
+AR,Siang,delta7,0,0,0,197,40,0,0
+AR,Siang,meta,0,0,31920,0,0,0,0
+AR,Siang,total,4270,408,0,9068,14408,411,3
+AR,Tawang,delta7,0,8,0,759,91,12,0
+AR,Tawang,meta,0,0,49950,0,0,0,0
+AR,Tawang,total,14224,2533,0,23287,29553,2577,20
+AR,Tirap,delta7,0,2,0,631,35,0,0
+AR,Tirap,meta,0,0,111997,0,0,0,0
+AR,Tirap,total,14657,1102,0,21200,31565,1109,5
+AR,Upper Dibang Valley,delta7,0,1,0,11,3,0,0
+AR,Upper Dibang Valley,meta,0,0,7948,0,0,0,0
+AR,Upper Dibang Valley,total,1910,335,0,2603,4156,337,2
+AR,Upper Siang,delta7,0,2,0,411,38,0,0
+AR,Upper Siang,meta,0,0,35289,0,0,0,0
+AR,Upper Siang,total,6564,1015,0,13671,18594,1016,1
+AR,Upper Subansiri,delta7,0,0,0,1122,93,0,0
+AR,Upper Subansiri,meta,0,0,83205,0,0,0,0
+AR,Upper Subansiri,total,6217,1952,0,16390,24842,1958,6
+AR,West Kameng,delta,0,7,0,89,15,0,0
+AR,West Kameng,delta7,0,21,0,1914,206,1,0
+AR,West Kameng,meta,0,0,87013,0,0,0,0
+AR,West Kameng,total,28155,3518,0,40321,55710,3545,14
+AR,West Siang,delta,0,-5,0,0,0,0,0
+AR,West Siang,delta7,0,3,0,640,63,0,0
+AR,West Siang,meta,0,0,112272,0,0,0,0
+AR,West Siang,total,13192,1856,0,27867,33773,1868,6
+AS,Baksa,delta,0,0,0,172,39,0,0
+AS,Baksa,delta7,0,0,0,15169,2992,0,0
+AS,Baksa,meta,0,0,953773,0,0,0,0
+AS,Baksa,total,0,0,0,136574,553967,0,0
+AS,Barpeta,delta,0,0,0,1035,369,0,0
+AS,Barpeta,delta7,0,0,0,48544,10495,0,0
+AS,Barpeta,meta,0,0,1693190,0,0,0,0
+AS,Barpeta,total,0,0,0,448006,1095048,0,0
+AS,Biswanath,delta,0,0,0,1655,507,0,0
+AS,Biswanath,delta7,0,0,0,35727,5661,0,0
+AS,Biswanath,meta,0,0,612491,0,0,0,0
+AS,Biswanath,total,0,0,0,213437,456088,0,0
+AS,Bongaigaon,delta,0,0,0,1287,85,0,0
+AS,Bongaigaon,delta7,0,0,0,18356,2784,0,0
+AS,Bongaigaon,meta,0,0,732639,0,0,0,0
+AS,Bongaigaon,total,0,0,0,183782,493242,0,0
+AS,Cachar,delta,0,0,0,966,2149,0,0
+AS,Cachar,delta7,0,0,0,21591,26826,0,0
+AS,Cachar,meta,0,0,1736319,0,0,0,0
+AS,Cachar,total,0,0,0,402535,1101266,0,0
+AS,Charaideo,delta,0,0,0,26,3,0,0
+AS,Charaideo,delta7,0,0,0,16868,1853,0,0
+AS,Charaideo,total,0,0,0,111219,309125,0,0
+AS,Chirang,delta,0,0,0,89,22,0,0
+AS,Chirang,delta7,0,0,0,9573,2488,0,0
+AS,Chirang,meta,0,0,481818,0,0,0,0
+AS,Chirang,total,0,0,0,102397,288696,0,0
+AS,Darrang,delta,0,0,0,270,365,0,0
+AS,Darrang,delta7,0,0,0,21800,17453,0,0
+AS,Darrang,meta,0,0,908090,0,0,0,0
+AS,Darrang,total,0,0,0,183724,596783,0,0
+AS,Dhemaji,delta,0,0,0,47,55,0,0
+AS,Dhemaji,delta7,0,0,0,15318,3423,0,0
+AS,Dhemaji,meta,0,0,688077,0,0,0,0
+AS,Dhemaji,total,0,0,0,184251,431792,0,0
+AS,Dhubri,delta,0,0,0,1906,1042,0,0
+AS,Dhubri,delta7,0,0,0,25644,12450,0,0
+AS,Dhubri,meta,0,0,1948632,0,0,0,0
+AS,Dhubri,total,0,0,0,229696,945264,0,0
+AS,Dibrugarh,delta,0,0,0,4007,699,0,0
+AS,Dibrugarh,delta7,0,0,0,38695,8869,0,0
+AS,Dibrugarh,meta,0,0,1327748,0,0,0,0
+AS,Dibrugarh,total,301657,0,0,430800,914640,0,0
+AS,Dima Hasao,delta,0,0,0,59,160,0,0
+AS,Dima Hasao,delta7,0,0,0,3737,2532,0,0
+AS,Dima Hasao,meta,0,0,213529,0,0,0,0
+AS,Dima Hasao,total,0,0,0,62593,116318,0,0
+AS,Goalpara,delta,0,0,0,81,47,0,0
+AS,Goalpara,delta7,0,0,0,30725,4013,0,0
+AS,Goalpara,meta,0,0,1008959,0,0,0,0
+AS,Goalpara,total,0,0,0,195521,662016,0,0
+AS,Golaghat,delta,0,0,0,2676,504,0,0
+AS,Golaghat,delta7,0,0,0,51417,6525,0,0
+AS,Golaghat,meta,0,0,1058674,0,0,0,0
+AS,Golaghat,total,0,0,0,306745,711564,0,0
+AS,Hailakandi,delta,0,0,0,705,88,0,0
+AS,Hailakandi,delta7,0,0,0,11247,1724,0,0
+AS,Hailakandi,meta,0,0,659260,0,0,0,0
+AS,Hailakandi,total,0,0,0,146888,422295,0,0
+AS,Hojai,delta,0,0,0,2979,512,0,0
+AS,Hojai,delta7,0,0,0,36724,6217,0,0
+AS,Hojai,meta,0,0,931218,0,0,0,0
+AS,Hojai,total,0,0,0,274035,602504,0,0
+AS,Jorhat,delta,0,0,0,2154,225,0,0
+AS,Jorhat,delta7,0,0,0,39677,3383,0,0
+AS,Jorhat,meta,0,0,1091295,0,0,0,0
+AS,Jorhat,total,0,0,0,297724,649267,0,0
+AS,Kamrup,delta,0,0,0,253,231,0,0
+AS,Kamrup,delta7,0,0,0,45828,10451,0,0
+AS,Kamrup,meta,0,0,1517202,0,0,0,0
+AS,Kamrup,total,0,0,0,409628,1079092,0,0
+AS,Kamrup Metropolitan,delta,0,0,0,1713,359,0,0
+AS,Kamrup Metropolitan,delta7,0,0,0,38155,6625,0,0
+AS,Kamrup Metropolitan,meta,0,0,1260419,0,0,0,0
+AS,Kamrup Metropolitan,total,0,0,0,875897,1246239,0,0
+AS,Karbi Anglong,delta,0,0,0,280,342,0,0
+AS,Karbi Anglong,delta7,0,0,0,12778,13744,0,0
+AS,Karbi Anglong,meta,0,0,965280,0,0,0,0
+AS,Karbi Anglong,total,0,0,0,102798,284600,0,0
+AS,Karimganj,delta,0,0,0,1382,331,0,0
+AS,Karimganj,delta7,0,0,0,20659,5088,0,0
+AS,Karimganj,meta,0,0,1217002,0,0,0,0
+AS,Karimganj,total,0,0,0,203575,681216,0,0
+AS,Kokrajhar,delta,0,0,0,823,162,0,0
+AS,Kokrajhar,delta7,0,0,0,19711,3935,0,0
+AS,Kokrajhar,meta,0,0,886999,0,0,0,0
+AS,Kokrajhar,total,0,0,0,156488,538901,0,0
+AS,Lakhimpur,delta,0,0,0,1555,148,0,0
+AS,Lakhimpur,delta7,0,0,0,42164,5870,0,0
+AS,Lakhimpur,meta,0,0,1040644,0,0,0,0
+AS,Lakhimpur,total,0,0,0,301369,681386,0,0
+AS,Majuli,delta,0,0,0,166,36,0,0
+AS,Majuli,delta7,0,0,0,7176,1524,0,0
+AS,Majuli,meta,0,0,167304,0,0,0,0
+AS,Majuli,total,0,0,0,82507,117599,0,0
+AS,Morigaon,delta,0,0,0,482,264,0,0
+AS,Morigaon,delta7,0,0,0,27861,5298,0,0
+AS,Morigaon,meta,0,0,957853,0,0,0,0
+AS,Morigaon,total,0,0,0,212146,592446,0,0
+AS,Nagaon,delta,0,0,0,1481,758,0,0
+AS,Nagaon,delta7,0,0,0,36734,16396,0,0
+AS,Nagaon,meta,0,0,2826006,0,0,0,0
+AS,Nagaon,total,0,0,0,448081,1203831,0,0
+AS,Nalbari,delta,0,0,0,1492,388,0,0
+AS,Nalbari,delta7,0,0,0,25411,6785,0,0
+AS,Nalbari,meta,0,0,769919,0,0,0,0
+AS,Nalbari,total,0,0,0,168392,483076,0,0
+AS,Sivasagar,delta,0,0,0,714,46,0,0
+AS,Sivasagar,delta7,0,0,0,23104,1946,0,0
+AS,Sivasagar,meta,0,0,1150253,0,0,0,0
+AS,Sivasagar,total,0,0,0,223921,478954,0,0
+AS,Sonitpur,delta,0,0,0,2664,448,0,0
+AS,Sonitpur,delta7,0,0,0,48290,8341,0,0
+AS,Sonitpur,meta,0,0,1925975,0,0,0,0
+AS,Sonitpur,total,0,0,0,434213,767841,0,0
+AS,South Salmara Mankachar,delta,0,0,0,1288,260,0,0
+AS,South Salmara Mankachar,delta7,0,0,0,15304,1978,0,0
+AS,South Salmara Mankachar,meta,0,0,555114,0,0,0,0
+AS,South Salmara Mankachar,total,0,0,0,76599,239906,0,0
+AS,Tinsukia,delta,0,0,0,1679,6637,0,0
+AS,Tinsukia,delta7,0,0,0,22410,45002,0,0
+AS,Tinsukia,meta,0,0,1316948,0,0,0,0
+AS,Tinsukia,total,0,0,0,286170,795057,0,0
+AS,Udalguri,delta,0,0,0,1396,1935,0,0
+AS,Udalguri,delta7,0,0,0,19343,17371,0,0
+AS,Udalguri,meta,0,0,832769,0,0,0,0
+AS,Udalguri,total,24661,0,0,133919,504439,0,0
+AS,West Karbi Anglong,delta,0,0,0,147,312,0,0
+AS,West Karbi Anglong,delta7,0,0,0,4186,4593,0,0
+AS,West Karbi Anglong,meta,0,0,300320,0,0,0,0
+AS,West Karbi Anglong,total,0,0,0,42942,127612,0,0
+BR,Araria,delta,0,0,0,3067,5177,0,0
+BR,Araria,delta7,0,0,0,69085,51331,2,0
+BR,Araria,meta,0,0,2806200,0,0,0,0
+BR,Araria,total,219221,14859,0,395227,1177154,14978,116
+BR,Arwal,delta,0,0,0,1360,262,0,0
+BR,Arwal,delta7,0,0,0,17125,4059,0,0
+BR,Arwal,meta,0,0,700843,0,0,0,0
+BR,Arwal,total,101624,7307,0,116424,345175,7381,74
+BR,Aurangabad,delta,0,0,0,2657,1264,0,0
+BR,Aurangabad,delta7,0,0,0,56431,25561,0,0
+BR,Aurangabad,meta,0,0,2511243,0,0,0,0
+BR,Aurangabad,total,412007,19936,0,407913,1132482,20011,75
+BR,Banka,delta,0,0,0,3138,2635,0,0
+BR,Banka,delta7,0,0,0,34077,24239,0,0
+BR,Banka,meta,0,0,2029339,0,0,0,0
+BR,Banka,total,364776,7267,0,351254,935177,7379,112
+BR,Begusarai,delta,0,1,0,2774,1906,0,0
+BR,Begusarai,delta7,0,7,0,65735,33903,2,0
+BR,Begusarai,meta,0,0,2954367,0,0,0,0
+BR,Begusarai,total,213670,26754,0,480982,1430906,27212,457
+BR,Bhagalpur,delta,0,1,0,3458,2122,0,0
+BR,Bhagalpur,delta7,0,1,0,78088,49875,1,0
+BR,Bhagalpur,meta,0,0,3032226,0,0,0,0
+BR,Bhagalpur,total,582113,25531,0,650332,1494951,25840,309
+BR,Bhojpur,delta,0,0,0,4879,3232,0,0
+BR,Bhojpur,delta7,0,0,0,53006,31626,0,0
+BR,Bhojpur,meta,0,0,2720155,0,0,0,0
+BR,Bhojpur,total,466438,10051,0,382719,1291186,10210,159
+BR,Buxar,delta,0,0,0,2516,1083,0,0
+BR,Buxar,delta7,0,0,0,38792,14794,0,0
+BR,Buxar,meta,0,0,1707643,0,0,0,0
+BR,Buxar,total,461428,9066,0,322555,907374,9248,182
+BR,Darbhanga,delta,0,0,0,5306,2858,0,0
+BR,Darbhanga,delta7,0,1,0,82276,39165,0,0
+BR,Darbhanga,meta,0,0,3921971,0,0,0,0
+BR,Darbhanga,total,448442,10567,0,741553,1869372,10937,370
+BR,East Champaran,delta,0,0,0,8014,2434,0,0
+BR,East Champaran,delta7,0,0,0,84760,29316,2,0
+BR,East Champaran,meta,0,0,5082868,0,0,0,0
+BR,East Champaran,total,548132,18585,0,1002939,2498559,19017,430
+BR,Gaya,delta,0,0,0,1689,1708,0,0
+BR,Gaya,delta7,0,1,0,82490,72504,0,0
+BR,Gaya,meta,0,0,4379383,0,0,0,0
+BR,Gaya,total,872359,33672,0,722746,1925234,33952,280
+BR,Gopalganj,delta,0,0,0,8468,5308,0,0
+BR,Gopalganj,delta7,0,1,0,70093,31750,0,0
+BR,Gopalganj,meta,0,0,2558037,0,0,0,0
+BR,Gopalganj,total,562654,16591,0,481968,1286763,16685,94
+BR,Jamui,delta,0,0,0,1416,1435,0,0
+BR,Jamui,delta7,0,1,0,24005,24440,0,0
+BR,Jamui,meta,0,0,1756078,0,0,0,0
+BR,Jamui,total,342005,9312,0,222093,800488,9418,106
+BR,Jehanabad,delta,0,0,0,1617,498,0,0
+BR,Jehanabad,delta7,0,0,0,27200,12986,0,0
+BR,Jehanabad,meta,0,0,1124176,0,0,0,0
+BR,Jehanabad,total,492255,10674,0,184446,498448,10783,109
+BR,Kaimur,delta,0,0,0,2183,1067,0,0
+BR,Kaimur,delta7,0,0,0,28681,19996,0,0
+BR,Kaimur,meta,0,0,1626900,0,0,0,0
+BR,Kaimur,total,442332,4837,0,225437,801438,4984,147
+BR,Katihar,delta,0,0,0,2966,2680,0,0
+BR,Katihar,delta7,0,1,0,75733,53448,0,0
+BR,Katihar,meta,0,0,3068149,0,0,0,0
+BR,Katihar,total,556438,18051,0,403046,1451838,18145,94
+BR,Khagaria,delta,0,0,0,2118,881,0,0
+BR,Khagaria,delta7,0,0,0,32372,15402,0,0
+BR,Khagaria,meta,0,0,1657599,0,0,0,0
+BR,Khagaria,total,148340,9976,0,222012,775019,10064,88
+BR,Kishanganj,delta,0,1,0,1445,1997,3,0
+BR,Kishanganj,delta7,0,2,0,25592,24597,4,0
+BR,Kishanganj,meta,0,0,1690948,0,0,0,0
+BR,Kishanganj,total,294321,10057,0,205274,757066,10128,66
+BR,Lakhisarai,delta,0,0,0,1005,595,0,0
+BR,Lakhisarai,delta7,0,0,0,16437,8894,0,0
+BR,Lakhisarai,meta,0,0,1000717,0,0,0,0
+BR,Lakhisarai,total,332434,7674,0,138407,461970,7776,102
+BR,Madhepura,delta,0,0,0,4459,2700,0,0
+BR,Madhepura,delta7,0,0,0,43563,28832,1,0
+BR,Madhepura,meta,0,0,1994618,0,0,0,0
+BR,Madhepura,total,455482,12435,0,260408,965767,12547,111
+BR,Madhubani,delta,0,0,0,6686,2735,2,0
+BR,Madhubani,delta7,0,0,0,69785,28535,3,0
+BR,Madhubani,meta,0,0,4476044,0,0,0,0
+BR,Madhubani,total,715168,18023,0,680214,1974159,18365,339
+BR,Munger,delta,0,0,0,2867,851,0,0
+BR,Munger,delta7,0,1,0,33005,7445,0,0
+BR,Munger,meta,0,0,1359054,0,0,0,0
+BR,Munger,total,325212,14953,0,264665,707588,15111,158
+BR,Muzaffarpur,delta,0,0,0,7023,3545,0,0
+BR,Muzaffarpur,delta7,0,1,0,80513,40686,0,0
+BR,Muzaffarpur,meta,0,0,4778610,0,0,0,0
+BR,Muzaffarpur,total,722651,30777,0,717015,2253919,31398,621
+BR,Nalanda,delta,0,0,0,1826,2168,0,0
+BR,Nalanda,delta7,0,0,0,66091,36716,0,0
+BR,Nalanda,meta,0,0,2872523,0,0,0,0
+BR,Nalanda,total,591346,22964,0,638181,1393762,23432,468
+BR,Nawada,delta,0,0,0,4338,4176,0,0
+BR,Nawada,delta7,0,0,0,35295,46619,1,0
+BR,Nawada,meta,0,0,2216653,0,0,0,0
+BR,Nawada,total,322514,10174,0,274319,1062349,10353,178
+BR,Patna,delta,0,3,0,2024,737,2,0
+BR,Patna,delta7,0,8,0,159875,35436,14,0
+BR,Patna,meta,0,0,5772804,0,0,0,0
+BR,Patna,total,676238,144651,0,2366474,3421614,147007,2334
+BR,Purnia,delta,0,0,0,1959,2821,0,0
+BR,Purnia,delta7,0,0,0,74531,61212,0,0
+BR,Purnia,meta,0,0,3273127,0,0,0,0
+BR,Purnia,total,568756,24247,0,729224,1603099,24427,180
+BR,Rohtas,delta,0,0,0,4149,4911,0,0
+BR,Rohtas,delta7,0,0,0,59698,40918,2,0
+BR,Rohtas,meta,0,0,2962593,0,0,0,0
+BR,Rohtas,total,521553,13707,0,465660,1498172,13980,271
+BR,Saharsa,delta,0,0,0,18126,28493,0,0
+BR,Saharsa,delta7,0,0,0,80718,106392,0,0
+BR,Saharsa,meta,0,0,1897102,0,0,0,0
+BR,Saharsa,total,356327,17482,0,366567,995618,17616,134
+BR,Samastipur,delta,0,1,0,5157,3216,1,0
+BR,Samastipur,delta7,0,2,0,64119,48167,2,0
+BR,Samastipur,meta,0,0,4254782,0,0,0,0
+BR,Samastipur,total,614569,19864,0,555728,1991102,20020,155
+BR,Saran,delta,0,2,0,6693,4149,0,0
+BR,Saran,delta7,0,2,0,82407,41734,5,0
+BR,Saran,meta,0,0,3943098,0,0,0,0
+BR,Saran,total,761473,23020,0,736766,1868014,23278,255
+BR,Sheikhpura,delta,0,0,0,788,345,0,0
+BR,Sheikhpura,delta7,0,0,0,10739,4942,0,0
+BR,Sheikhpura,meta,0,0,634927,0,0,0,0
+BR,Sheikhpura,total,142348,7618,0,95322,287209,7693,75
+BR,Sheohar,delta,0,0,0,1629,666,0,0
+BR,Sheohar,delta7,0,2,0,7111,2946,0,0
+BR,Sheohar,meta,0,0,656916,0,0,0,0
+BR,Sheohar,total,199431,4368,0,108766,300967,4404,36
+BR,Sitamarhi,delta,0,0,0,5476,3873,0,0
+BR,Sitamarhi,delta7,0,0,0,60677,43474,0,0
+BR,Sitamarhi,meta,0,0,3419622,0,0,0,0
+BR,Sitamarhi,total,453227,9058,0,424182,1511464,9185,127
+BR,Siwan,delta,0,0,0,4030,1163,0,0
+BR,Siwan,delta7,0,0,0,69069,18385,0,0
+BR,Siwan,meta,0,0,3318176,0,0,0,0
+BR,Siwan,total,536438,15025,0,684755,1670590,15195,170
+BR,Supaul,delta,0,0,0,5131,3029,0,0
+BR,Supaul,delta7,0,0,0,71754,35486,0,0
+BR,Supaul,meta,0,0,2228397,0,0,0,0
+BR,Supaul,total,456511,17093,0,369925,1069993,17222,129
+BR,Vaishali,delta,0,0,0,2621,1522,0,0
+BR,Vaishali,delta7,0,0,0,59038,45426,1,0
+BR,Vaishali,meta,0,0,3495021,0,0,0,0
+BR,Vaishali,total,275884,19632,0,478638,1671469,19827,192
+BR,West Champaran,delta,0,0,0,6316,7525,0,0
+BR,West Champaran,delta7,0,0,0,52019,42709,0,0
+BR,West Champaran,meta,0,0,3935042,0,0,0,0
+BR,West Champaran,total,551778,20532,0,469332,1784016,20890,358
+CH,Chandigarh,delta,1403,3,0,1282,211,5,0
+CH,Chandigarh,delta7,10726,20,0,21641,3680,28,0
+CH,Chandigarh,meta,0,0,1055450,0,0,0,0
+CH,Chandigarh,total,792851,64495,0,546981,926035,65351,820
+CT,Balod,delta,0,0,0,762,523,0,0
+CT,Balod,delta7,0,1,0,9451,5983,2,0
+CT,Balod,meta,0,0,826165,0,0,0,0
+CT,Balod,total,2749,26880,0,271570,537459,27278,396
+CT,Baloda Bazar,delta,0,1,0,605,953,0,0
+CT,Baloda Bazar,delta7,0,3,0,17419,25353,0,0
+CT,Baloda Bazar,meta,0,0,1305343,0,0,0,0
+CT,Baloda Bazar,total,3816,42611,0,211945,617777,43085,471
+CT,Balrampur,delta,0,0,0,725,1654,0,0
+CT,Balrampur,delta7,0,0,0,17709,21912,0,0
+CT,Balrampur,meta,0,0,598855,0,0,0,0
+CT,Balrampur,total,21481,20182,0,112777,305554,20302,118
+CT,Bametara,delta,0,0,0,25,25,1,0
+CT,Bametara,delta7,0,0,0,7690,14367,1,0
+CT,Bametara,meta,0,0,197035,0,0,0,0
+CT,Bametara,total,3113,19726,0,132925,405388,19963,236
+CT,Bastar,delta,0,2,0,129,82,2,0
+CT,Bastar,delta7,0,2,0,9616,10696,24,0
+CT,Bastar,meta,0,0,1302253,0,0,0,0
+CT,Bastar,total,4522,20845,0,178775,443759,21066,188
+CT,Bijapur,delta,0,1,0,56,47,3,0
+CT,Bijapur,delta7,0,3,0,913,1251,5,0
+CT,Bijapur,meta,0,0,229832,0,0,0,0
+CT,Bijapur,total,1239,8263,0,44245,103247,8324,55
+CT,Bilaspur,delta,0,3,0,9113,2404,1,0
+CT,Bilaspur,delta7,0,8,0,50320,18318,17,2
+CT,Bilaspur,meta,0,0,1961922,0,0,0,0
+CT,Bilaspur,total,9823,64448,0,525066,1031494,65681,1210
+CT,Dakshin Bastar Dantewada,delta,0,0,0,1299,143,1,0
+CT,Dakshin Bastar Dantewada,delta7,0,2,0,5410,2225,6,0
+CT,Dakshin Bastar Dantewada,meta,0,0,533638,0,0,0,0
+CT,Dakshin Bastar Dantewada,total,1168,10809,0,80855,158243,10840,25
+CT,Dhamtari,delta,0,2,0,18,1,0,0
+CT,Dhamtari,delta7,0,2,0,7319,6188,2,0
+CT,Dhamtari,meta,0,0,799199,0,0,0,0
+CT,Dhamtari,total,1501,26690,0,224591,509782,27239,545
+CT,Durg,delta,0,6,0,908,468,4,0
+CT,Durg,delta7,0,18,0,22719,17012,26,1
+CT,Durg,meta,0,0,3343079,0,0,0,0
+CT,Durg,total,5020,95028,0,525445,1012391,96880,1798
+CT,Gariaband,delta,0,0,0,153,440,0,0
+CT,Gariaband,delta7,0,0,0,5872,9982,1,0
+CT,Gariaband,meta,0,0,597653,0,0,0,0
+CT,Gariaband,total,2096,19506,0,99137,293987,19701,194
+CT,Gaurela Pendra Marwahi,delta,0,0,0,297,257,1,0
+CT,Gaurela Pendra Marwahi,delta7,0,0,0,4587,4045,1,0
+CT,Gaurela Pendra Marwahi,total,273,11864,0,79788,189474,12011,146
+CT,Janjgir Champa,delta,0,4,0,1341,1722,2,0
+CT,Janjgir Champa,delta7,0,8,0,30991,45568,19,1
+CT,Janjgir Champa,meta,0,0,1620632,0,0,0,0
+CT,Janjgir Champa,total,4016,56766,0,317605,896087,57636,838
+CT,Jashpur,delta,0,3,0,383,187,0,0
+CT,Jashpur,delta7,0,6,0,13098,10933,10,0
+CT,Jashpur,meta,0,0,852043,0,0,0,0
+CT,Jashpur,total,2542,26867,0,182747,435884,27093,212
+CT,Kabeerdham,delta,0,0,0,1288,1128,0,0
+CT,Kabeerdham,delta7,0,0,0,17876,17511,1,0
+CT,Kabeerdham,meta,0,0,584667,0,0,0,0
+CT,Kabeerdham,total,2829,22503,0,173494,402362,22771,267
+CT,Kondagaon,delta,0,0,0,184,243,0,0
+CT,Kondagaon,delta7,0,1,0,7999,8359,4,0
+CT,Kondagaon,meta,0,0,578326,0,0,0,0
+CT,Kondagaon,total,1607,13036,0,100468,317695,13139,99
+CT,Korba,delta,0,2,0,1126,1086,5,0
+CT,Korba,delta7,0,11,0,24911,24033,23,0
+CT,Korba,meta,0,0,1206563,0,0,0,0
+CT,Korba,total,10034,54228,0,287588,650457,54847,580
+CT,Koriya,delta,0,0,0,346,2370,0,1
+CT,Koriya,delta7,0,0,0,5751,15621,6,1
+CT,Koriya,meta,0,0,659039,0,0,0,0
+CT,Koriya,total,2689,26798,0,128177,375503,26980,177
+CT,Mahasamund,delta,0,0,0,6309,159,0,0
+CT,Mahasamund,delta7,0,1,0,72466,4416,0,0
+CT,Mahasamund,meta,0,0,1032275,0,0,0,0
+CT,Mahasamund,total,2183,31000,0,428365,738333,31365,365
+CT,Mungeli,delta,0,0,0,981,1330,0,0
+CT,Mungeli,delta7,0,2,0,12880,15254,1,0
+CT,Mungeli,meta,0,0,701707,0,0,0,0
+CT,Mungeli,total,2922,23753,0,109857,282508,23921,167
+CT,Narayanpur,delta,0,0,0,903,1075,0,0
+CT,Narayanpur,delta7,0,1,0,1858,3057,0,0
+CT,Narayanpur,meta,0,0,140206,0,0,0,0
+CT,Narayanpur,total,804,4005,0,19468,53032,4019,14
+CT,Other State,delta,0,0,0,0,0,1,0
+CT,Other State,delta7,0,3,0,0,0,4,0
+CT,Other State,total,0,666,0,0,0,805,131
+CT,Raigarh,delta,0,4,0,6265,752,2,0
+CT,Raigarh,delta7,0,8,0,122838,5114,8,0
+CT,Raigarh,meta,0,0,1493627,0,0,0,0
+CT,Raigarh,total,5084,61597,0,967326,1074306,62590,978
+CT,Raipur,delta,0,3,0,3193,789,9,0
+CT,Raipur,delta7,0,15,0,40794,10441,33,0
+CT,Raipur,meta,0,0,4062160,0,0,0,0
+CT,Raipur,total,12704,154852,0,915437,1557999,158035,3139
+CT,Rajnandgaon,delta,0,0,0,650,596,0,0
+CT,Rajnandgaon,delta7,0,3,0,25270,15753,5,0
+CT,Rajnandgaon,meta,0,0,1537520,0,0,0,0
+CT,Rajnandgaon,total,124947,55557,0,530711,1028876,56077,515
+CT,Sukma,delta,0,1,0,77,140,0,0
+CT,Sukma,delta7,0,4,0,5401,3208,1,0
+CT,Sukma,meta,0,0,249000,0,0,0,0
+CT,Sukma,total,1723,8041,0,81437,134654,8066,20
+CT,Surajpur,delta,0,0,0,322,442,0,0
+CT,Surajpur,delta7,0,0,0,13873,13506,0,0
+CT,Surajpur,meta,0,0,660280,0,0,0,0
+CT,Surajpur,total,1830,28805,0,163526,419247,29029,224
+CT,Surguja,delta,0,0,0,1834,1831,0,0
+CT,Surguja,delta7,0,0,0,33226,29827,2,0
+CT,Surguja,meta,0,0,420661,0,0,0,0
+CT,Surguja,total,103578,33426,0,277031,468885,33673,245
+CT,Uttar Bastar Kanker,delta,0,0,0,645,995,0,0
+CT,Uttar Bastar Kanker,delta7,0,1,0,14621,17930,3,0
+CT,Uttar Bastar Kanker,meta,0,0,748593,0,0,0,0
+CT,Uttar Bastar Kanker,total,2051,23407,0,171484,405744,23636,224
+DL,Delhi,delta,56751,46,0,11839,12482,45,0
+DL,Delhi,delta7,395086,239,0,269146,160323,267,0
+DL,Delhi,meta,0,0,19814000,0,0,0,0
+DL,Delhi,total,29427753,1414431,0,7425404,13055636,1439870,25091
+DN,Dadra and Nagar Haveli,delta,0,0,0,18,3,0,0
+DN,Dadra and Nagar Haveli,delta7,0,0,0,6759,870,0,0
+DN,Dadra and Nagar Haveli,meta,0,0,343709,0,0,0,0
+DN,Dadra and Nagar Haveli,total,44813,5910,0,183553,387772,5920,3
+DN,Daman,delta,0,1,0,0,0,0,0
+DN,Daman,delta7,0,2,0,6793,1880,0,0
+DN,Daman,meta,0,0,191173,0,0,0,0
+DN,Daman,total,19338,3516,0,155547,234202,3543,1
+DN,Diu,delta7,0,0,0,690,52,0,0
+DN,Diu,meta,0,0,52074,0,0,0,0
+DN,Diu,total,8259,1218,0,31153,38779,1218,0
+GA,North Goa,delta,0,0,0,5967,1070,0,0
+GA,North Goa,delta7,0,0,0,23958,4007,0,0
+GA,North Goa,meta,0,0,817761,0,0,0,0
+GA,North Goa,total,0,0,0,424066,600586,0,0
+GA,South Goa,delta,0,0,0,6405,1492,0,0
+GA,South Goa,delta7,0,0,0,22504,4401,0,0
+GA,South Goa,meta,0,0,639962,0,0,0,0
+GA,South Goa,total,0,0,0,487016,661972,0,0
+GJ,Ahmedabad,delta,0,2,0,11394,1765,4,0
+GJ,Ahmedabad,delta7,0,14,0,169891,47316,22,0
+GJ,Ahmedabad,meta,0,0,7208200,0,0,0,0
+GJ,Ahmedabad,total,2556492,234889,0,3439921,5961594,238334,3411
+GJ,Amreli,delta,0,0,0,3792,399,0,0
+GJ,Amreli,delta7,0,0,0,39398,5473,0,0
+GJ,Amreli,meta,0,0,1513614,0,0,0,0
+GJ,Amreli,total,212265,10708,0,551970,927389,10810,102
+GJ,Anand,delta,0,0,0,2866,4876,0,0
+GJ,Anand,delta7,0,1,0,46764,33012,6,0
+GJ,Anand,meta,0,0,2090276,0,0,0,0
+GJ,Anand,total,171851,9581,0,935893,1471865,9637,49
+GJ,Aravalli,delta,0,0,0,106,2,0,0
+GJ,Aravalli,delta7,0,0,0,32201,1439,0,0
+GJ,Aravalli,meta,0,0,1051746,0,0,0,0
+GJ,Aravalli,total,122182,5108,0,522361,717964,5186,78
+GJ,Banaskantha,delta,0,0,0,3521,390,0,0
+GJ,Banaskantha,delta7,0,0,0,82985,16080,0,0
+GJ,Banaskantha,meta,0,0,3116045,0,0,0,0
+GJ,Banaskantha,total,218527,13469,0,1157901,2140492,13631,162
+GJ,Bharuch,delta,0,0,0,2936,1539,0,0
+GJ,Bharuch,delta7,0,0,0,45926,21270,0,0
+GJ,Bharuch,meta,0,0,1550822,0,0,0,0
+GJ,Bharuch,total,156057,11308,0,669742,1217587,11426,118
+GJ,Bhavnagar,delta,0,0,0,1470,359,1,0
+GJ,Bhavnagar,delta7,0,0,0,81374,19467,1,0
+GJ,Bhavnagar,meta,0,0,2877961,0,0,0,0
+GJ,Bhavnagar,total,392834,21143,0,986097,1680398,21447,301
+GJ,Botad,delta,0,0,0,235,13,0,0
+GJ,Botad,delta7,0,0,0,14235,929,0,0
+GJ,Botad,meta,0,0,656005,0,0,0,0
+GJ,Botad,total,98559,2176,0,228691,378232,2218,42
+GJ,Chhota Udaipur,delta,0,0,0,818,4,0,0
+GJ,Chhota Udaipur,delta7,0,0,0,19920,699,0,0
+GJ,Chhota Udaipur,meta,0,0,1071831,0,0,0,0
+GJ,Chhota Udaipur,total,93838,3357,0,420157,635695,3395,38
+GJ,Dahod,delta,0,0,0,1930,8,0,0
+GJ,Dahod,delta7,0,0,0,53547,626,0,0
+GJ,Dahod,meta,0,0,2126558,0,0,0,0
+GJ,Dahod,total,218259,9917,0,631818,1499052,9955,38
+GJ,Dang,delta,0,0,0,1,2,0,0
+GJ,Dang,delta7,0,0,0,3726,4140,0,0
+GJ,Dang,meta,0,0,226769,0,0,0,0
+GJ,Dang,total,31921,848,0,59262,156334,866,18
+GJ,Devbhumi Dwarka,delta,0,0,0,373,315,0,0
+GJ,Devbhumi Dwarka,delta7,0,0,0,24924,4666,0,0
+GJ,Devbhumi Dwarka,meta,0,0,752484,0,0,0,0
+GJ,Devbhumi Dwarka,total,80424,4093,0,309771,504501,4175,82
+GJ,Gandhinagar,delta,0,0,0,367,69,0,0
+GJ,Gandhinagar,delta7,0,0,0,36333,5475,0,0
+GJ,Gandhinagar,meta,0,0,1387478,0,0,0,0
+GJ,Gandhinagar,total,292598,20549,0,706208,1175562,20754,205
+GJ,Gir Somnath,delta,0,0,0,15,912,0,0
+GJ,Gir Somnath,delta7,0,2,0,15341,8524,2,0
+GJ,Gir Somnath,meta,0,0,1217477,0,0,0,0
+GJ,Gir Somnath,total,121948,8499,0,363467,845224,8570,67
+GJ,Jamnagar,delta,0,1,0,1366,367,0,0
+GJ,Jamnagar,delta7,0,3,0,37158,9406,5,0
+GJ,Jamnagar,meta,0,0,2159130,0,0,0,0
+GJ,Jamnagar,total,307911,34494,0,653950,1111813,34978,478
+GJ,Junagadh,delta,0,0,0,1232,62,2,0
+GJ,Junagadh,delta7,0,2,0,71531,2660,6,0
+GJ,Junagadh,meta,0,0,2742291,0,0,0,0
+GJ,Junagadh,total,199699,20226,0,733025,1316479,20505,272
+GJ,Kheda,delta,0,0,0,2105,124,0,0
+GJ,Kheda,delta7,0,1,0,73838,11668,0,0
+GJ,Kheda,meta,0,0,2298934,0,0,0,0
+GJ,Kheda,total,218140,10391,0,893742,1454344,10439,48
+GJ,Kutch,delta,0,0,0,351,15,0,0
+GJ,Kutch,delta7,0,1,0,49662,8920,5,0
+GJ,Kutch,meta,0,0,2090313,0,0,0,0
+GJ,Kutch,total,267060,12474,0,680232,1412923,12631,145
+GJ,Mahisagar,delta,0,0,0,929,1,0,0
+GJ,Mahisagar,delta7,0,0,0,16517,62,0,0
+GJ,Mahisagar,meta,0,0,994624,0,0,0,0
+GJ,Mahisagar,total,122796,8122,0,459520,815594,8194,72
+GJ,Mehsana,delta,0,0,0,723,71,0,0
+GJ,Mehsana,delta7,0,1,0,48550,7523,0,0
+GJ,Mehsana,meta,0,0,2027727,0,0,0,0
+GJ,Mehsana,total,229904,24242,0,869969,1405786,24419,177
+GJ,Morbi,delta,0,0,0,118,31,0,0
+GJ,Morbi,delta7,0,0,0,20297,9950,0,0
+GJ,Morbi,meta,0,0,960329,0,0,0,0
+GJ,Morbi,total,157321,6415,0,308840,674000,6502,87
+GJ,Narmada,delta,0,0,0,12,2,0,0
+GJ,Narmada,delta7,0,2,0,13890,546,0,0
+GJ,Narmada,meta,0,0,590379,0,0,0,0
+GJ,Narmada,total,76134,5940,0,279684,413260,5955,15
+GJ,Navsari,delta,0,1,0,2009,62,0,0
+GJ,Navsari,delta7,0,13,0,29095,1852,5,0
+GJ,Navsari,meta,0,0,1330711,0,0,0,0
+GJ,Navsari,total,129099,7181,0,647484,948673,7215,24
+GJ,Other State,total,108,159,0,0,0,162,3
+GJ,Panchmahal,delta,0,0,0,1246,80,0,0
+GJ,Panchmahal,delta7,0,0,0,44832,7294,0,0
+GJ,Panchmahal,meta,0,0,2388267,0,0,0,0
+GJ,Panchmahal,total,160981,11700,0,626003,1105110,11770,70
+GJ,Patan,delta,0,0,0,259,20,0,0
+GJ,Patan,delta7,0,0,0,37745,3369,0,0
+GJ,Patan,meta,0,0,1342746,0,0,0,0
+GJ,Patan,total,169059,11495,0,533438,850462,11624,129
+GJ,Porbandar,delta,0,0,0,1062,48,0,0
+GJ,Porbandar,delta7,0,0,0,13063,1140,0,0
+GJ,Porbandar,meta,0,0,586062,0,0,0,0
+GJ,Porbandar,total,97912,3467,0,256377,419364,3486,19
+GJ,Rajkot,delta,0,7,0,153,43,0,0
+GJ,Rajkot,delta7,0,7,0,53546,17510,7,0
+GJ,Rajkot,meta,0,0,3157676,0,0,0,0
+GJ,Rajkot,total,731251,57243,0,1255012,2227111,57976,725
+GJ,Sabarkantha,delta,0,0,0,1181,66,0,0
+GJ,Sabarkantha,delta7,0,0,0,45789,4232,1,0
+GJ,Sabarkantha,meta,0,0,2427346,0,0,0,0
+GJ,Sabarkantha,total,182090,9159,0,596705,1000517,9317,157
+GJ,Surat,delta,0,4,0,7090,2525,4,0
+GJ,Surat,delta7,0,30,0,115694,35083,38,1
+GJ,Surat,meta,0,0,4996391,0,0,0,0
+GJ,Surat,total,1938229,141885,0,2529712,4781894,143874,1956
+GJ,Surendranagar,delta,0,0,0,647,51,0,0
+GJ,Surendranagar,delta7,0,0,0,79795,18641,0,0
+GJ,Surendranagar,meta,0,0,1755873,0,0,0,0
+GJ,Surendranagar,total,201153,7985,0,715931,1113845,8121,136
+GJ,Tapi,delta,0,0,0,111,14,0,0
+GJ,Tapi,delta7,0,0,0,23409,3010,0,0
+GJ,Tapi,meta,0,0,806489,0,0,0,0
+GJ,Tapi,total,92524,4417,0,303297,527345,4441,24
+GJ,Vadodara,delta,0,2,0,12194,437,6,0
+GJ,Vadodara,delta7,0,14,0,182027,16527,36,0
+GJ,Vadodara,meta,0,0,3639775,0,0,0,0
+GJ,Vadodara,total,695670,77335,0,1940514,2612578,78159,788
+GJ,Valsad,delta,0,6,0,46,84,3,0
+GJ,Valsad,delta7,0,25,0,36430,6616,25,1
+GJ,Valsad,meta,0,0,1703068,0,0,0,0
+GJ,Valsad,total,155380,6308,0,704675,1232139,6405,53
+HP,Bilaspur,delta,0,12,0,329,6,11,0
+HP,Bilaspur,delta7,0,77,0,15071,695,133,0
+HP,Bilaspur,meta,0,0,382056,0,0,0,0
+HP,Bilaspur,total,39738,14120,0,234916,323204,14374,85
+HP,Chamba,delta,0,2,0,1749,146,0,0
+HP,Chamba,delta7,0,13,0,18796,1439,27,0
+HP,Chamba,meta,0,0,518844,0,0,0,0
+HP,Chamba,total,53505,13492,0,198146,364258,13687,160
+HP,Hamirpur,delta,0,50,0,32,0,11,0
+HP,Hamirpur,delta7,0,228,0,26076,713,288,4
+HP,Hamirpur,meta,0,0,454293,0,0,0,0
+HP,Hamirpur,total,46407,16741,0,269143,377332,17379,287
+HP,Kangra,delta,0,108,0,23,2,40,1
+HP,Kangra,delta7,0,454,0,39940,2399,657,10
+HP,Kangra,meta,0,0,1507223,0,0,0,0
+HP,Kangra,total,94910,48872,0,725754,1182563,50818,1125
+HP,Kinnaur,delta,0,1,0,0,0,0,0
+HP,Kinnaur,delta7,0,6,0,517,95,2,0
+HP,Kinnaur,meta,0,0,84298,0,0,0,0
+HP,Kinnaur,total,6730,3465,0,63209,79673,3507,38
+HP,Kullu,delta,0,3,0,0,0,0,0
+HP,Kullu,delta7,0,18,0,9323,889,19,0
+HP,Kullu,meta,0,0,437474,0,0,0,0
+HP,Kullu,total,12012,9496,0,203549,351261,9692,158
+HP,Lahaul and Spiti,delta7,0,0,0,412,30,0,0
+HP,Lahaul and Spiti,meta,0,0,31528,0,0,0,0
+HP,Lahaul and Spiti,total,540,2935,0,20986,31920,2953,18
+HP,Mandi,delta,0,5,0,2275,99,4,0
+HP,Mandi,delta7,0,141,0,26214,1156,140,3
+HP,Mandi,meta,0,0,999518,0,0,0,0
+HP,Mandi,total,41895,30983,0,479355,775242,31606,448
+HP,Shimla,delta,0,9,0,1688,20,4,0
+HP,Shimla,delta7,0,66,0,37351,2224,100,3
+HP,Shimla,meta,0,0,813384,0,0,0,0
+HP,Shimla,total,32922,26786,0,412640,678341,27549,641
+HP,Sirmaur,delta,0,0,0,1185,52,0,0
+HP,Sirmaur,delta7,0,0,0,22247,1388,1,0
+HP,Sirmaur,meta,0,0,530164,0,0,0,0
+HP,Sirmaur,total,42564,15244,0,209631,423793,15456,211
+HP,Solan,delta,0,2,0,493,33,4,0
+HP,Solan,delta7,0,27,0,21242,1393,25,0
+HP,Solan,meta,0,0,576670,0,0,0,0
+HP,Solan,total,57200,22472,0,339630,691163,22817,314
+HP,Una,delta,0,6,0,396,24,11,0
+HP,Una,delta7,0,124,0,16782,824,145,0
+HP,Una,meta,0,0,521057,0,0,0,0
+HP,Una,total,52905,13804,0,286819,434945,14268,253
+HR,Ambala,delta,0,0,0,587,100,0,0
+HR,Ambala,delta7,0,1,0,25458,3021,2,0
+HR,Ambala,meta,0,0,1136784,0,0,0,0
+HR,Ambala,total,206003,29639,0,571772,873020,30150,509
+HR,Bhiwani,delta,0,0,0,2454,578,0,0
+HR,Bhiwani,delta7,0,0,0,25664,6166,0,0
+HR,Bhiwani,meta,0,0,1629109,0,0,0,0
+HR,Bhiwani,total,176225,21757,0,317765,741251,22409,652
+HR,Charkhi Dadri,delta,0,0,0,35,2,0,0
+HR,Charkhi Dadri,delta7,0,2,0,11884,941,0,0
+HR,Charkhi Dadri,meta,0,0,502276,0,0,0,0
+HR,Charkhi Dadri,total,58525,4939,0,262184,364599,5078,139
+HR,Faridabad,delta,0,0,0,1577,818,1,0
+HR,Faridabad,delta7,0,7,0,30156,17515,18,0
+HR,Faridabad,meta,0,0,1798954,0,0,0,0
+HR,Faridabad,total,504970,99157,0,840997,1658940,99902,716
+HR,Fatehabad,delta,0,0,0,37,30,0,0
+HR,Fatehabad,delta7,0,0,0,7458,1800,0,0
+HR,Fatehabad,meta,0,0,941522,0,0,0,0
+HR,Fatehabad,total,27456,17394,0,201763,574546,17875,481
+HR,Gurugram,delta,0,8,0,1637,264,7,0
+HR,Gurugram,delta7,0,48,0,48107,20221,55,0
+HR,Gurugram,meta,0,0,1514085,0,0,0,0
+HR,Gurugram,total,742619,180454,0,1377160,2193114,181428,922
+HR,Hisar,delta,0,0,0,111,58,0,0
+HR,Hisar,delta7,0,0,0,12364,5821,2,0
+HR,Hisar,meta,0,0,1742815,0,0,0,0
+HR,Hisar,total,322039,52857,0,332162,994213,53995,1136
+HR,Jhajjar,delta,0,0,0,996,569,0,0
+HR,Jhajjar,delta7,0,0,0,19599,8229,1,0
+HR,Jhajjar,meta,0,0,956907,0,0,0,0
+HR,Jhajjar,total,186853,18514,0,293496,684511,18849,328
+HR,Jind,delta,0,0,0,567,490,0,0
+HR,Jind,delta7,0,0,0,21662,13366,1,0
+HR,Jind,meta,0,0,1332042,0,0,0,0
+HR,Jind,total,11157,20675,0,250859,704573,21209,533
+HR,Kaithal,delta,0,0,0,149,69,0,0
+HR,Kaithal,delta7,0,2,0,11836,4183,0,0
+HR,Kaithal,meta,0,0,1072861,0,0,0,0
+HR,Kaithal,total,11687,10898,0,217439,615168,11244,346
+HR,Karnal,delta,0,0,0,217,617,1,0
+HR,Karnal,delta7,0,0,0,23328,8109,1,0
+HR,Karnal,meta,0,0,1506323,0,0,0,0
+HR,Karnal,total,185147,39484,0,451876,1000120,40037,552
+HR,Kurukshetra,delta,0,0,0,199,55,0,0
+HR,Kurukshetra,delta7,0,1,0,9522,4064,1,0
+HR,Kurukshetra,meta,0,0,964231,0,0,0,0
+HR,Kurukshetra,total,198881,21789,0,248125,610380,22147,357
+HR,Mahendragarh,delta,0,0,0,529,205,0,0
+HR,Mahendragarh,delta7,0,0,0,10632,4857,0,0
+HR,Mahendragarh,meta,0,0,921680,0,0,0,0
+HR,Mahendragarh,total,143253,21534,0,264911,576527,21689,155
+HR,Nuh,delta,0,0,0,583,2433,0,0
+HR,Nuh,delta7,0,0,0,3789,10812,0,0
+HR,Nuh,meta,0,0,1089406,0,0,0,0
+HR,Nuh,total,93389,4890,0,78081,354422,5014,123
+HR,Palwal,delta,0,0,0,259,358,0,0
+HR,Palwal,delta7,0,0,0,9496,7558,0,0
+HR,Palwal,meta,0,0,1040493,0,0,0,0
+HR,Palwal,total,139809,10872,0,221786,608874,11025,153
+HR,Panchkula,delta,0,2,0,1033,127,1,0
+HR,Panchkula,delta7,0,12,0,10743,1786,10,0
+HR,Panchkula,meta,0,0,558890,0,0,0,0
+HR,Panchkula,total,118725,30379,0,279951,456675,30770,378
+HR,Panipat,delta,0,0,0,1054,375,1,0
+HR,Panipat,delta7,0,0,0,12888,7950,1,0
+HR,Panipat,meta,0,0,1202811,0,0,0,0
+HR,Panipat,total,58863,30510,0,273172,830805,31150,638
+HR,Rewari,delta,0,0,0,353,83,0,0
+HR,Rewari,delta7,0,4,0,9877,2550,0,0
+HR,Rewari,meta,0,0,896129,0,0,0,0
+HR,Rewari,total,151363,20106,0,294989,648724,20327,221
+HR,Rohtak,delta,0,0,0,953,311,0,0
+HR,Rohtak,delta7,0,1,0,17219,11409,0,0
+HR,Rohtak,meta,0,0,1058683,0,0,0,0
+HR,Rohtak,total,25894,25350,0,305282,674649,25903,534
+HR,Sirsa,delta,0,0,0,92,47,0,0
+HR,Sirsa,delta7,0,2,0,8228,4263,3,0
+HR,Sirsa,meta,0,0,1295114,0,0,0,0
+HR,Sirsa,total,150193,28771,0,278920,786205,29282,508
+HR,Sonipat,delta,0,0,0,2190,785,0,0
+HR,Sonipat,delta7,0,1,0,21065,9421,0,0
+HR,Sonipat,meta,0,0,1480080,0,0,0,0
+HR,Sonipat,total,238963,46884,0,411915,989125,47138,254
+HR,Yamunanagar,delta,0,0,0,185,102,0,0
+HR,Yamunanagar,delta7,0,6,0,16554,6471,0,0
+HR,Yamunanagar,meta,0,0,1214162,0,0,0,0
+HR,Yamunanagar,total,196131,24215,0,340196,831598,24631,414
+JH,Bokaro,delta,0,0,0,4363,3236,0,0
+JH,Bokaro,delta7,0,13,0,34375,27554,15,0
+JH,Bokaro,meta,0,0,2061918,0,0,0,0
+JH,Bokaro,total,11798,19170,0,333330,994497,19461,286
+JH,Chatra,delta,0,0,0,1813,909,0,0
+JH,Chatra,delta7,0,0,0,11402,5946,0,0
+JH,Chatra,meta,0,0,1042304,0,0,0,0
+JH,Chatra,total,0,5977,0,126700,454807,6033,53
+JH,Deoghar,delta,0,0,0,2299,985,0,0
+JH,Deoghar,delta7,0,1,0,19008,9801,2,0
+JH,Deoghar,meta,0,0,1491879,0,0,0,0
+JH,Deoghar,total,6951,10721,0,230458,569167,10835,113
+JH,Dhanbad,delta,0,1,0,3597,2811,0,0
+JH,Dhanbad,delta7,0,13,0,34095,33374,24,0
+JH,Dhanbad,meta,0,0,2682662,0,0,0,0
+JH,Dhanbad,total,0,16196,0,446946,1185934,16589,382
+JH,Dumka,delta,0,1,0,2659,1460,0,0
+JH,Dumka,delta7,0,2,0,22872,12679,2,0
+JH,Dumka,meta,0,0,1321096,0,0,0,0
+JH,Dumka,total,5400,4589,0,229944,638722,4636,47
+JH,East Singhbhum,delta,0,3,0,4669,1925,0,0
+JH,East Singhbhum,delta7,0,42,0,29238,11994,47,2
+JH,East Singhbhum,meta,0,0,2291032,0,0,0,0
+JH,East Singhbhum,total,0,50907,0,661091,1424376,51974,1046
+JH,Garhwa,delta,0,1,0,3027,4770,0,0
+JH,Garhwa,delta7,0,7,0,15386,17210,6,0
+JH,Garhwa,meta,0,0,1322387,0,0,0,0
+JH,Garhwa,total,0,6801,0,148421,456056,6895,94
+JH,Giridih,delta,0,0,0,3577,2411,0,0
+JH,Giridih,delta7,0,0,0,29823,16994,0,0
+JH,Giridih,meta,0,0,2445203,0,0,0,0
+JH,Giridih,total,11132,8834,0,301193,994417,8964,130
+JH,Godda,delta,0,0,0,1883,906,0,0
+JH,Godda,delta7,0,1,0,16537,7385,1,0
+JH,Godda,meta,0,0,1311382,0,0,0,0
+JH,Godda,total,10980,5753,0,198198,527710,5840,87
+JH,Gumla,delta,0,0,0,744,465,0,0
+JH,Gumla,delta7,0,0,0,8696,4900,5,0
+JH,Gumla,meta,0,0,1025656,0,0,0,0
+JH,Gumla,total,0,9857,0,156364,387738,9900,38
+JH,Hazaribagh,delta,0,0,0,1243,678,0,0
+JH,Hazaribagh,delta7,0,3,0,21857,11940,3,0
+JH,Hazaribagh,meta,0,0,1734005,0,0,0,0
+JH,Hazaribagh,total,0,19404,0,317137,865943,19593,186
+JH,Jamtara,delta,0,0,0,1373,973,0,0
+JH,Jamtara,delta7,0,3,0,12331,9614,4,1
+JH,Jamtara,meta,0,0,790207,0,0,0,0
+JH,Jamtara,total,2880,5534,0,137216,381155,5599,61
+JH,Khunti,delta,0,0,0,367,354,0,0
+JH,Khunti,delta7,0,0,0,3834,3335,0,0
+JH,Khunti,meta,0,0,530299,0,0,0,0
+JH,Khunti,total,3852,7724,0,107053,227503,7820,96
+JH,Koderma,delta,0,0,0,235,45,0,0
+JH,Koderma,delta7,0,0,0,11488,3393,0,0
+JH,Koderma,meta,0,0,717169,0,0,0,0
+JH,Koderma,total,0,12736,0,140609,363078,12872,136
+JH,Latehar,delta,0,0,0,773,1158,0,0
+JH,Latehar,delta7,0,0,0,7719,9565,0,0
+JH,Latehar,meta,0,0,725673,0,0,0,0
+JH,Latehar,total,0,7814,0,84919,294989,7871,57
+JH,Lohardaga,delta,0,0,0,166,188,0,0
+JH,Lohardaga,delta7,0,2,0,3563,3444,0,0
+JH,Lohardaga,meta,0,0,461738,0,0,0,0
+JH,Lohardaga,total,7526,6621,0,63130,173109,6709,88
+JH,Pakur,delta,0,0,0,2636,3009,0,0
+JH,Pakur,delta7,0,0,0,9107,9945,0,0
+JH,Pakur,meta,0,0,899200,0,0,0,0
+JH,Pakur,total,6429,2539,0,108941,378048,2552,12
+JH,Palamu,delta,0,0,0,6713,5270,0,0
+JH,Palamu,delta7,0,0,0,37375,21657,0,0
+JH,Palamu,meta,0,0,1936319,0,0,0,0
+JH,Palamu,total,0,12184,0,311074,788026,12294,110
+JH,Ramgarh,delta,0,0,0,944,645,0,0
+JH,Ramgarh,delta7,0,0,0,10927,5306,7,0
+JH,Ramgarh,meta,0,0,949159,0,0,0,0
+JH,Ramgarh,total,0,13714,0,185442,522017,13923,197
+JH,Ranchi,delta,0,2,0,4594,4743,10,0
+JH,Ranchi,delta7,0,228,0,38856,35099,182,0
+JH,Ranchi,meta,0,0,2912022,0,0,0,0
+JH,Ranchi,total,0,84495,0,656001,1512114,86116,1585
+JH,Sahibganj,delta,0,0,0,947,1336,0,0
+JH,Sahibganj,delta7,0,0,0,13687,10449,0,0
+JH,Sahibganj,meta,0,0,1150038,0,0,0,0
+JH,Sahibganj,total,5029,4792,0,132560,430948,4834,42
+JH,Saraikela-Kharsawan,delta,0,0,0,490,682,0,0
+JH,Saraikela-Kharsawan,delta7,0,0,0,12399,11215,0,0
+JH,Saraikela-Kharsawan,meta,0,0,1063458,0,0,0,0
+JH,Saraikela-Kharsawan,total,161796,7137,0,167980,505417,7207,67
+JH,Simdega,delta,0,0,0,189,67,0,0
+JH,Simdega,delta7,0,0,0,4126,1694,0,0
+JH,Simdega,meta,0,0,599813,0,0,0,0
+JH,Simdega,total,0,7101,0,112059,277357,7193,92
+JH,West Singhbhum,delta,0,0,0,962,895,0,0
+JH,West Singhbhum,delta7,0,5,0,16980,12587,5,0
+JH,West Singhbhum,meta,0,0,1501619,0,0,0,0
+JH,West Singhbhum,total,0,12918,0,225607,630437,13054,133
+JK,Anantnag,delta,0,2,0,4677,69,2,0
+JK,Anantnag,delta7,0,12,0,30949,1472,10,0
+JK,Anantnag,meta,0,0,1070144,0,0,0,0
+JK,Anantnag,total,0,16378,0,402717,759605,16603,205
+JK,Bandipora,delta,0,0,0,639,12,1,0
+JK,Bandipora,delta7,0,19,0,6835,349,13,0
+JK,Bandipora,meta,0,0,385099,0,0,0,0
+JK,Bandipora,total,0,9693,0,154345,303665,9814,102
+JK,Baramulla,delta,0,6,0,2327,42,10,0
+JK,Baramulla,delta7,0,64,0,29357,1665,96,0
+JK,Baramulla,meta,0,0,1015503,0,0,0,0
+JK,Baramulla,total,0,24196,0,450002,776258,24613,282
+JK,Budgam,delta,0,10,0,2657,113,10,0
+JK,Budgam,delta7,0,53,0,22456,1409,63,0
+JK,Budgam,meta,0,0,735753,0,0,0,0
+JK,Budgam,total,0,23548,0,319587,592075,23844,207
+JK,Doda,delta,0,0,0,1079,74,2,0
+JK,Doda,delta7,0,26,0,19212,1065,18,0
+JK,Doda,meta,0,0,409576,0,0,0,0
+JK,Doda,total,0,7704,0,158751,313983,7869,133
+JK,Ganderbal,delta,0,2,0,1116,33,7,0
+JK,Ganderbal,delta7,0,12,0,9271,370,31,0
+JK,Ganderbal,meta,0,0,297003,0,0,0,0
+JK,Ganderbal,total,0,10313,0,133812,227349,10436,79
+JK,Jammu,delta,0,6,0,593,86,3,0
+JK,Jammu,delta7,0,37,0,16781,4121,20,0
+JK,Jammu,meta,0,0,1526406,0,0,0,0
+JK,Jammu,total,0,52145,0,610537,1168448,53324,1145
+JK,Kathua,delta,0,0,0,2053,108,0,0
+JK,Kathua,delta7,0,5,0,22270,1867,0,1
+JK,Kathua,meta,0,0,615711,0,0,0,0
+JK,Kathua,total,0,9175,0,249588,482584,9327,152
+JK,Kishtwar,delta,0,0,0,320,85,0,0
+JK,Kishtwar,delta7,0,0,0,3385,3948,1,0
+JK,Kishtwar,meta,0,0,230696,0,0,0,0
+JK,Kishtwar,total,0,4773,0,78041,164754,4819,44
+JK,Kulgam,delta,0,2,0,1610,39,1,0
+JK,Kulgam,delta7,0,5,0,20244,632,2,0
+JK,Kulgam,meta,0,0,422786,0,0,0,0
+JK,Kulgam,total,0,11367,0,202260,401091,11489,117
+JK,Kupwara,delta,0,4,0,8743,165,5,0
+JK,Kupwara,delta7,0,25,0,42820,3959,25,0
+JK,Kupwara,meta,0,0,875564,0,0,0,0
+JK,Kupwara,total,0,14268,0,348327,673594,14463,166
+JK,Pulwama,delta,0,0,0,1414,24,4,0
+JK,Pulwama,delta7,0,5,0,16829,1021,5,0
+JK,Pulwama,meta,0,0,570060,0,0,0,0
+JK,Pulwama,total,139552,15309,0,244300,430622,15512,194
+JK,Punch,delta,0,0,0,3190,45,0,0
+JK,Punch,delta7,0,14,0,27765,695,7,0
+JK,Punch,meta,0,0,476820,0,0,0,0
+JK,Punch,total,0,6371,0,234540,386098,6482,98
+JK,Rajouri,delta,0,0,0,752,56,0,0
+JK,Rajouri,delta7,0,7,0,9544,1247,4,0
+JK,Rajouri,meta,0,0,619266,0,0,0,0
+JK,Rajouri,total,0,11031,0,241407,498787,11272,237
+JK,Ramban,delta,0,0,0,829,155,1,0
+JK,Ramban,delta7,0,0,0,10369,1498,3,0
+JK,Ramban,meta,0,0,283313,0,0,0,0
+JK,Ramban,total,0,5971,0,147086,220690,6043,67
+JK,Reasi,delta,0,2,0,1808,240,0,0
+JK,Reasi,delta7,0,10,0,15636,1644,4,0
+JK,Reasi,meta,0,0,314714,0,0,0,0
+JK,Reasi,total,0,6575,0,133971,244379,6626,43
+JK,Samba,delta,0,0,0,468,40,0,0
+JK,Samba,delta7,0,2,0,6224,1207,0,0
+JK,Samba,meta,0,0,318611,0,0,0,0
+JK,Samba,total,0,7032,0,122554,280700,7152,120
+JK,Shopiyan,delta,0,0,0,302,6,0,0
+JK,Shopiyan,delta7,0,0,0,7669,139,0,0
+JK,Shopiyan,meta,0,0,265960,0,0,0,0
+JK,Shopiyan,total,0,5549,0,95122,203036,5607,58
+JK,Srinagar,delta,0,45,0,11547,394,49,0
+JK,Srinagar,delta7,0,274,0,80075,2788,305,2
+JK,Srinagar,meta,0,0,1269751,0,0,0,0
+JK,Srinagar,total,0,74242,0,592016,957347,75539,846
+JK,Udhampur,delta,0,0,0,700,76,0,0
+JK,Udhampur,delta7,0,2,0,14763,2420,4,0
+JK,Udhampur,meta,0,0,555357,0,0,0,0
+JK,Udhampur,total,0,11275,0,227785,425945,11415,137
+KA,Bagalkote,delta,0,0,0,98,823,0,0
+KA,Bagalkote,delta7,0,0,0,22844,57683,0,0
+KA,Bagalkote,meta,0,0,1890826,0,0,0,0
+KA,Bagalkote,total,49851,34843,0,613422,1188016,35178,333
+KA,Ballari,delta,0,2,0,483,2415,0,0
+KA,Ballari,delta7,0,14,0,84805,54006,9,0
+KA,Ballari,meta,0,0,2532383,0,0,0,0
+KA,Ballari,total,402407,95961,0,864065,1758198,97763,1689
+KA,Belagavi,delta,0,1,0,825,427,6,0
+KA,Belagavi,delta7,0,21,0,98350,39701,20,1
+KA,Belagavi,meta,0,0,4778439,0,0,0,0
+KA,Belagavi,total,396565,78879,0,1386668,3165252,79900,938
+KA,Bengaluru Rural,delta,0,3,0,994,118,3,0
+KA,Bengaluru Rural,delta7,0,27,0,22700,5196,23,2
+KA,Bengaluru Rural,meta,0,0,987257,0,0,0,0
+KA,Bengaluru Rural,total,240277,61073,0,385704,700825,62005,890
+KA,Bengaluru Urban,delta,0,204,0,11462,2109,137,7
+KA,Bengaluru Urban,delta7,0,1093,0,247281,48836,1165,37
+KA,Bengaluru Urban,meta,0,0,9588910,0,0,0,0
+KA,Bengaluru Urban,total,6883888,1229059,0,5903791,9219875,1251872,16281
+KA,Bidar,delta,0,0,0,740,408,0,0
+KA,Bidar,delta7,0,5,0,30558,13739,0,0
+KA,Bidar,meta,0,0,1700018,0,0,0,0
+KA,Bidar,total,67689,23936,0,515993,929776,24340,400
+KA,Chamarajanagara,delta,0,4,0,399,25,0,0
+KA,Chamarajanagara,delta7,0,15,0,36658,2102,6,0
+KA,Chamarajanagara,meta,0,0,1020962,0,0,0,0
+KA,Chamarajanagara,total,5156,32469,0,351940,647951,33001,500
+KA,Chikkaballapura,delta,0,0,0,22,16,2,1
+KA,Chikkaballapura,delta7,0,8,0,19860,4700,11,3
+KA,Chikkaballapura,meta,0,0,1254377,0,0,0,0
+KA,Chikkaballapura,total,15089,43501,0,497674,852473,43951,429
+KA,Chikkamagaluru,delta,0,4,0,29,14,3,0
+KA,Chikkamagaluru,delta7,0,93,0,13010,4830,28,0
+KA,Chikkamagaluru,meta,0,0,1137753,0,0,0,0
+KA,Chikkamagaluru,total,5467,50662,0,346002,737417,51126,395
+KA,Chitradurga,delta,0,3,0,1956,2340,3,0
+KA,Chitradurga,delta7,0,12,0,47252,45062,17,0
+KA,Chitradurga,meta,0,0,1660378,0,0,0,0
+KA,Chitradurga,total,4393,36412,0,618156,1020280,36666,206
+KA,Dakshina Kannada,delta,0,20,0,858,139,24,0
+KA,Dakshina Kannada,delta7,0,193,0,38765,5124,192,9
+KA,Dakshina Kannada,meta,0,0,2083625,0,0,0,0
+KA,Dakshina Kannada,total,131281,113515,0,848253,1531107,115478,1680
+KA,Davanagere,delta,0,1,0,33,16,2,0
+KA,Davanagere,delta7,0,11,0,28149,7079,10,1
+KA,Davanagere,meta,0,0,1946905,0,0,0,0
+KA,Davanagere,total,17483,50359,0,495371,1016827,50989,608
+KA,Dharwad,delta,0,3,0,323,459,0,1
+KA,Dharwad,delta7,0,10,0,35313,24515,4,3
+KA,Dharwad,meta,0,0,1846993,0,0,0,0
+KA,Dharwad,total,137696,59639,0,561504,1212295,60970,1315
+KA,Gadag,delta,0,0,0,167,1176,0,0
+KA,Gadag,delta7,0,0,0,16257,12373,0,0
+KA,Gadag,meta,0,0,1065235,0,0,0,0
+KA,Gadag,total,8904,25747,0,328477,691646,26066,319
+KA,Hassan,delta,0,28,0,123,37,26,0
+KA,Hassan,delta7,0,125,0,26697,5434,147,5
+KA,Hassan,meta,0,0,1776221,0,0,0,0
+KA,Hassan,total,10800,110294,0,614828,1224599,111785,1256
+KA,Haveri,delta,0,1,0,7,2,1,0
+KA,Haveri,delta7,0,2,0,36386,8794,1,1
+KA,Haveri,meta,0,0,1598506,0,0,0,0
+KA,Haveri,total,11714,21301,0,383705,999178,21947,644
+KA,Kalaburagi,delta,0,0,0,1001,1631,3,0
+KA,Kalaburagi,delta7,0,5,0,44220,35135,9,0
+KA,Kalaburagi,meta,0,0,2564892,0,0,0,0
+KA,Kalaburagi,total,409596,61087,0,641641,1323039,61926,819
+KA,Kodagu,delta,0,7,0,202,26,11,0
+KA,Kodagu,delta7,0,67,0,12680,1558,112,0
+KA,Kodagu,meta,0,0,554762,0,0,0,0
+KA,Kodagu,total,143982,36616,0,212033,385482,37095,329
+KA,Kolar,delta,0,5,0,1088,748,2,0
+KA,Kolar,delta7,0,31,0,34211,13745,18,3
+KA,Kolar,meta,0,0,1540231,0,0,0,0
+KA,Kolar,total,91924,46266,0,625918,991957,46916,638
+KA,Koppal,delta,0,0,0,321,116,0,0
+KA,Koppal,delta7,0,5,0,33794,16045,1,0
+KA,Koppal,meta,0,0,1391292,0,0,0,0
+KA,Koppal,total,8708,34660,0,411092,814373,35198,521
+KA,Mandya,delta,0,2,0,123,8,8,0
+KA,Mandya,delta7,0,36,0,28944,5411,48,0
+KA,Mandya,meta,0,0,1808680,0,0,0,0
+KA,Mandya,total,14874,73029,0,659066,1189318,73753,650
+KA,Mysuru,delta,0,34,0,1258,798,33,2
+KA,Mysuru,delta7,0,247,0,111457,46664,234,7
+KA,Mysuru,meta,0,0,2994744,0,0,0,0
+KA,Mysuru,total,107338,176447,0,1239770,2141764,179167,2416
+KA,Other State,total,0,33,0,0,0,36,3
+KA,Raichur,delta,0,1,0,433,151,0,0
+KA,Raichur,delta7,0,4,0,34897,19900,1,0
+KA,Raichur,meta,0,0,1924773,0,0,0,0
+KA,Raichur,total,21011,39641,0,448501,1021603,39973,331
+KA,Ramanagara,delta,0,0,0,61,11,0,0
+KA,Ramanagara,delta7,0,10,0,28767,6303,8,2
+KA,Ramanagara,meta,0,0,1082739,0,0,0,0
+KA,Ramanagara,total,103399,23869,0,469335,754463,24204,320
+KA,Shivamogga,delta,0,0,0,957,417,3,0
+KA,Shivamogga,delta7,0,66,0,47086,23220,30,0
+KA,Shivamogga,meta,0,0,1755512,0,0,0,0
+KA,Shivamogga,total,48760,68239,0,535447,1162073,69444,1088
+KA,Tumakuru,delta,0,12,0,3742,1842,17,0
+KA,Tumakuru,delta7,0,112,0,66650,31038,136,1
+KA,Tumakuru,meta,0,0,2681449,0,0,0,0
+KA,Tumakuru,total,106564,119420,0,881580,1672730,120836,1127
+KA,Udupi,delta,0,6,0,137,16,2,0
+KA,Udupi,delta7,0,75,0,27889,2422,49,0
+KA,Udupi,meta,0,0,1177908,0,0,0,0
+KA,Udupi,total,86092,76181,0,529427,919074,76718,489
+KA,Uttara Kannada,delta,0,4,0,155,11,6,0
+KA,Uttara Kannada,delta7,0,48,0,32067,3955,66,0
+KA,Uttara Kannada,meta,0,0,1353299,0,0,0,0
+KA,Uttara Kannada,total,13833,55339,0,505589,980496,56218,766
+KA,Vijayapura,delta,0,0,0,583,340,0,0
+KA,Vijayapura,delta7,0,2,0,50033,59571,2,0
+KA,Vijayapura,meta,0,0,2175102,0,0,0,0
+KA,Vijayapura,total,25108,35764,0,634270,1535235,36267,495
+KA,Yadgir,delta,0,0,0,62,108,0,0
+KA,Yadgir,delta7,0,2,0,15460,18060,0,0
+KA,Yadgir,meta,0,0,1172985,0,0,0,0
+KA,Yadgir,total,221485,27337,0,348094,708887,27545,207
+KL,Alappuzha,delta,0,455,0,502,65,270,1
+KL,Alappuzha,delta7,0,2526,0,51712,5337,2035,228
+KL,Alappuzha,meta,0,0,2121943,0,0,0,0
+KL,Alappuzha,total,0,313515,0,855411,1518055,316160,1862
+KL,Ernakulam,delta,0,918,0,1977,573,1046,11
+KL,Ernakulam,delta7,0,8539,0,91762,13018,7647,742
+KL,Ernakulam,meta,0,0,3279860,0,0,0,0
+KL,Ernakulam,total,0,583842,0,1759232,2953482,602800,3555
+KL,Idukki,delta,0,195,0,208,26,550,1
+KL,Idukki,delta7,0,1866,0,27218,2211,2876,71
+KL,Idukki,meta,0,0,1107453,0,0,0,0
+KL,Idukki,total,237691,140292,0,481911,859116,147118,519
+KL,Kannur,delta,0,451,0,325,38,304,0
+KL,Kannur,delta7,0,3143,0,71089,7636,2611,301
+KL,Kannur,meta,0,0,2525637,0,0,0,0
+KL,Kannur,total,392136,269475,0,959656,1891004,275264,2325
+KL,Kasaragod,delta,0,147,0,1861,389,137,0
+KL,Kasaragod,delta7,0,1082,0,24290,4942,1054,31
+KL,Kasaragod,meta,0,0,1302600,0,0,0,0
+KL,Kasaragod,total,0,134824,0,521754,910194,138815,617
+KL,Kollam,delta,0,848,0,215,13,592,0
+KL,Kollam,delta7,0,6283,0,62100,7368,4753,161
+KL,Kollam,meta,0,0,2629703,0,0,0,0
+KL,Kollam,total,0,383923,0,1047951,1951077,390872,2451
+KL,Kottayam,delta,0,155,0,125,11,506,5
+KL,Kottayam,delta7,0,1611,0,58083,5298,4187,101
+KL,Kottayam,meta,0,0,1979384,0,0,0,0
+KL,Kottayam,total,0,315759,0,841596,1477425,322484,1356
+KL,Kozhikode,delta,0,760,0,449,55,742,23
+KL,Kozhikode,delta7,0,5059,0,57479,11449,5386,513
+KL,Kozhikode,meta,0,0,3089543,0,0,0,0
+KL,Kozhikode,total,955060,519030,0,1154561,2341296,527346,3374
+KL,Malappuram,delta,0,560,0,523,152,334,48
+KL,Malappuram,delta7,0,2929,0,52896,20840,2634,108
+KL,Malappuram,meta,0,0,4110956,0,0,0,0
+KL,Malappuram,total,469850,562111,0,1103557,2833303,567584,2576
+KL,Palakkad,delta,0,423,0,397,37,339,16
+KL,Palakkad,delta7,0,2544,0,57261,8712,2560,175
+KL,Palakkad,meta,0,0,2810892,0,0,0,0
+KL,Palakkad,total,226562,364351,0,950909,1989222,373839,2881
+KL,Pathanamthitta,delta,0,406,0,1275,149,447,2
+KL,Pathanamthitta,delta7,0,2635,0,29343,2637,2953,122
+KL,Pathanamthitta,meta,0,0,1195537,0,0,0,0
+KL,Pathanamthitta,total,306034,184979,0,677224,1048352,193406,1076
+KL,Thiruvananthapuram,delta,0,754,0,2986,418,878,1
+KL,Thiruvananthapuram,delta7,0,4851,0,89297,9284,7056,118
+KL,Thiruvananthapuram,meta,0,0,3307284,0,0,0,0
+KL,Thiruvananthapuram,total,436661,448304,0,1562343,2578575,463977,4996
+KL,Thrissur,delta,0,38,0,977,107,753,59
+KL,Thrissur,delta7,0,3647,0,87643,8853,5751,388
+KL,Thrissur,meta,0,0,3110327,0,0,0,0
+KL,Thrissur,total,639055,515481,0,1305873,2295947,523260,3575
+KL,Wayanad,delta,0,329,0,243,12,269,0
+KL,Wayanad,delta7,0,1691,0,32359,2223,1823,30
+KL,Wayanad,meta,0,0,816558,0,0,0,0
+KL,Wayanad,total,211953,121295,0,436359,659451,125732,518
+LA,Kargil,delta,0,0,0,3,0,0,0
+LA,Kargil,delta7,0,0,0,748,205,4,0
+LA,Kargil,meta,0,0,143000,0,0,0,0
+LA,Kargil,total,37471,3556,0,64300,87221,3619,58
+LA,Leh,delta,0,9,0,0,0,11,0
+LA,Leh,delta7,0,28,0,785,320,54,0
+LA,Leh,meta,0,0,147000,0,0,0,0
+LA,Leh,total,72597,17131,0,87980,121577,17343,150
+LD,Lakshadweep,delta,31,0,0,4,0,0,0
+LD,Lakshadweep,delta7,1625,0,0,796,69,0,0
+LD,Lakshadweep,meta,0,0,64473,0,0,0,0
+LD,Lakshadweep,total,263541,10270,0,45951,55129,10365,51
+MH,Ahmednagar,delta,0,11,0,661,535,138,2
+MH,Ahmednagar,delta7,0,728,0,28319,44180,866,26
+MH,Ahmednagar,meta,0,0,4543083,0,0,0,0
+MH,Ahmednagar,total,11077,330122,0,881402,2468837,339457,7043
+MH,Akola,delta,0,1,0,200,576,0,0
+MH,Akola,delta7,0,7,0,10081,26579,3,0
+MH,Akola,meta,0,0,1818617,0,0,0,0
+MH,Akola,total,0,57318,0,357931,760099,58764,1425
+MH,Amravati,delta,0,0,0,66,112,1,0
+MH,Amravati,delta7,0,0,0,21747,29961,3,0
+MH,Amravati,meta,0,0,2887826,0,0,0,0
+MH,Amravati,total,0,94618,0,548807,1241168,96231,1594
+MH,Aurangabad,delta,0,0,0,246,759,27,0
+MH,Aurangabad,delta7,0,157,0,34109,46323,156,1
+MH,Aurangabad,meta,0,0,3695928,0,0,0,0
+MH,Aurangabad,total,11800,150615,0,723304,1772420,155331,4251
+MH,Beed,delta,0,7,0,473,411,12,0
+MH,Beed,delta7,0,35,0,24584,34333,69,5
+MH,Beed,meta,0,0,2585962,0,0,0,0
+MH,Beed,total,111488,100803,0,485615,1145382,103749,2806
+MH,Bhandara,delta,0,0,0,13,7,0,0
+MH,Bhandara,delta7,0,1,0,16415,5080,0,0
+MH,Bhandara,meta,0,0,1198810,0,0,0,0
+MH,Bhandara,total,54195,58945,0,421585,825867,60080,1123
+MH,Buldhana,delta,0,1,0,153,402,3,0
+MH,Buldhana,delta7,0,16,0,24089,34272,16,1
+MH,Buldhana,meta,0,0,2588039,0,0,0,0
+MH,Buldhana,total,115874,84710,0,512944,1136679,85520,797
+MH,Chandrapur,delta,0,0,0,24,54,2,0
+MH,Chandrapur,delta7,0,0,0,18994,22248,7,0
+MH,Chandrapur,meta,0,0,2194262,0,0,0,0
+MH,Chandrapur,total,199809,87387,0,458690,1335017,88968,1560
+MH,Dhule,delta,0,0,0,230,121,0,0
+MH,Dhule,delta7,0,4,0,19364,23261,5,0
+MH,Dhule,meta,0,0,2048781,0,0,0,0
+MH,Dhule,total,90092,45501,0,476051,1007007,46172,654
+MH,Gadchiroli,delta,0,0,0,255,424,0,0
+MH,Gadchiroli,delta7,0,5,0,10994,14790,2,0
+MH,Gadchiroli,meta,0,0,1071795,0,0,0,0
+MH,Gadchiroli,total,11993,29735,0,231208,540319,30440,669
+MH,Gondia,delta,0,0,0,45,32,0,0
+MH,Gondia,delta7,0,3,0,23092,8593,2,0
+MH,Gondia,meta,0,0,1322331,0,0,0,0
+MH,Gondia,total,130146,39941,0,469980,888961,40519,569
+MH,Hingoli,delta,0,0,0,166,459,0,0
+MH,Hingoli,delta7,0,3,0,16145,42054,0,0
+MH,Hingoli,meta,0,0,1178973,0,0,0,0
+MH,Hingoli,total,6797,17949,0,201000,537442,18475,506
+MH,Jalgaon,delta,0,2,0,19,6,0,0
+MH,Jalgaon,delta7,0,11,0,21599,37870,4,0
+MH,Jalgaon,meta,0,0,4224442,0,0,0,0
+MH,Jalgaon,total,429198,137178,0,699544,2085101,139934,2714
+MH,Jalna,delta,0,0,0,16,121,0,0
+MH,Jalna,delta7,0,47,0,35713,112537,15,0
+MH,Jalna,meta,0,0,1958483,0,0,0,0
+MH,Jalna,total,117047,59382,0,413822,1081253,60615,1209
+MH,Kolhapur,delta,0,5,0,337,152,12,0
+MH,Kolhapur,delta7,0,115,0,23088,19104,55,2
+MH,Kolhapur,meta,0,0,3874015,0,0,0,0
+MH,Kolhapur,total,0,200699,0,1043329,2536731,206671,5847
+MH,Latur,delta,0,0,0,1424,4676,5,1
+MH,Latur,delta7,0,0,0,33519,82644,39,3
+MH,Latur,meta,0,0,2455543,0,0,0,0
+MH,Latur,total,0,89608,0,507616,1182476,92133,2437
+MH,Mumbai,delta,0,429,0,2540,2725,308,3
+MH,Mumbai,delta7,0,2604,0,219736,98915,2242,34
+MH,Mumbai,meta,0,0,12442373,0,0,0,0
+MH,Mumbai,total,2789713,733318,0,5564204,9115615,756749,16247
+MH,Nagpur,delta,0,5,0,3360,3039,4,0
+MH,Nagpur,delta7,0,43,0,71818,58567,35,0
+MH,Nagpur,meta,0,0,4653171,0,0,0,0
+MH,Nagpur,total,382083,484334,0,1460890,3006439,493607,9128
+MH,Nanded,delta,0,3,0,2618,8820,2,0
+MH,Nanded,delta7,0,22,0,41697,144423,28,0
+MH,Nanded,meta,0,0,3356566,0,0,0,0
+MH,Nanded,total,117319,87721,0,560812,1560558,90409,2658
+MH,Nandurbar,delta,0,0,0,178,738,0,0
+MH,Nandurbar,delta7,0,1,0,12517,19572,2,0
+MH,Nandurbar,meta,0,0,1646177,0,0,0,0
+MH,Nandurbar,total,37740,39054,0,342054,723850,40006,948
+MH,Nashik,delta,0,32,0,473,2116,60,3
+MH,Nashik,delta7,0,519,0,58112,143768,456,12
+MH,Nashik,meta,0,0,6109052,0,0,0,0
+MH,Nashik,total,498397,401418,0,1299122,3471046,410681,8679
+MH,Osmanabad,delta,0,3,0,1039,5549,16,0
+MH,Osmanabad,delta7,0,154,0,11658,44954,89,1
+MH,Osmanabad,meta,0,0,1660311,0,0,0,0
+MH,Osmanabad,total,109450,65577,0,308210,803192,67828,1963
+MH,Other State,total,0,31,0,0,0,144,111
+MH,Palghar,delta,0,6,0,1749,863,28,0
+MH,Palghar,delta7,0,326,0,39231,32112,204,0
+MH,Palghar,meta,0,0,2990116,0,0,0,0
+MH,Palghar,total,319724,134309,0,678741,1869199,138013,3282
+MH,Parbhani,delta,0,1,0,1361,4016,0,0
+MH,Parbhani,delta7,0,9,0,20480,44477,13,1
+MH,Parbhani,meta,0,0,1835982,0,0,0,0
+MH,Parbhani,total,110937,51078,0,378183,905874,52362,1233
+MH,Pune,delta,0,300,0,4885,2900,245,0
+MH,Pune,delta7,0,5294,0,136336,85256,1536,20
+MH,Pune,meta,0,0,9426959,0,0,0,0
+MH,Pune,total,97127,1131401,0,4264808,7843130,1154776,19594
+MH,Raigad,delta,0,34,0,1214,326,26,0
+MH,Raigad,delta7,0,359,0,31684,21737,267,10
+MH,Raigad,meta,0,0,2635394,0,0,0,0
+MH,Raigad,total,304088,190759,0,774913,1859507,195958,4551
+MH,Ratnagiri,delta,0,14,0,224,83,8,0
+MH,Ratnagiri,delta7,0,160,0,7924,10880,91,4
+MH,Ratnagiri,meta,0,0,1612672,0,0,0,0
+MH,Ratnagiri,total,0,76292,0,388703,920151,78950,2478
+MH,Sangli,delta,0,0,0,120,128,19,0
+MH,Sangli,delta7,0,375,0,19041,11974,155,4
+MH,Sangli,meta,0,0,2820575,0,0,0,0
+MH,Sangli,total,0,203673,0,802877,1810980,209771,5613
+MH,Satara,delta,0,4,0,298,225,35,1
+MH,Satara,delta7,0,501,0,30950,16690,157,17
+MH,Satara,meta,0,0,3003922,0,0,0,0
+MH,Satara,total,312742,243482,0,865197,1963730,250414,6428
+MH,Sindhudurg,delta,0,6,0,1,-1,12,0
+MH,Sindhudurg,delta7,0,259,0,5195,3915,91,4
+MH,Sindhudurg,meta,0,0,848868,0,0,0,0
+MH,Sindhudurg,total,0,50987,0,279051,524896,52783,1434
+MH,Solapur,delta,0,7,0,1381,5956,51,4
+MH,Solapur,delta7,0,370,0,34204,77398,253,11
+MH,Solapur,meta,0,0,4315527,0,0,0,0
+MH,Solapur,total,629266,204364,0,690069,2242339,210466,5551
+MH,Thane,delta,0,525,0,5578,3664,153,6
+MH,Thane,delta7,0,3002,0,120708,108643,1241,44
+MH,Thane,meta,0,0,11060148,0,0,0,0
+MH,Thane,total,1229625,597141,0,2751182,5484839,610128,11462
+MH,Wardha,delta,0,2,0,65,18,2,0
+MH,Wardha,delta7,0,4,0,14040,16481,5,0
+MH,Wardha,meta,0,0,1296157,0,0,0,0
+MH,Wardha,total,52365,55956,0,314899,755863,57344,1217
+MH,Washim,delta,0,0,0,516,1016,1,0
+MH,Washim,delta7,0,5,0,19238,30932,4,0
+MH,Washim,meta,0,0,1196714,0,0,0,0
+MH,Washim,total,0,41020,0,321710,579042,41663,637
+MH,Yavatmal,delta,0,1,0,697,2588,2,0
+MH,Yavatmal,delta7,0,7,0,26091,56233,6,0
+MH,Yavatmal,meta,0,0,2775457,0,0,0,0
+MH,Yavatmal,total,141551,74159,0,496306,1211321,75967,1798
+ML,East Garo Hills,delta,0,1,0,0,0,0,0
+ML,East Garo Hills,delta7,0,2,0,1424,482,5,0
+ML,East Garo Hills,meta,0,0,317618,0,0,0,0
+ML,East Garo Hills,total,0,1844,0,20648,47655,1867,13
+ML,East Jaintia Hills,delta7,0,3,0,2964,483,2,0
+ML,East Jaintia Hills,meta,0,0,122436,0,0,0,0
+ML,East Jaintia Hills,total,0,2395,0,33259,64432,2430,31
+ML,East Khasi Hills,delta,0,18,0,17,0,14,1
+ML,East Khasi Hills,delta7,0,286,0,10698,1847,171,2
+ML,East Khasi Hills,meta,0,0,824059,0,0,0,0
+ML,East Khasi Hills,total,0,39754,0,225526,318381,41025,987
+ML,North Garo Hills,delta,0,0,0,0,0,1,0
+ML,North Garo Hills,delta7,0,2,0,3614,596,3,0
+ML,North Garo Hills,meta,0,0,118325,0,0,0,0
+ML,North Garo Hills,total,0,1674,0,28288,62675,1685,8
+ML,Ribhoi,delta,0,3,0,65,15,1,0
+ML,Ribhoi,delta7,0,23,0,3492,884,14,0
+ML,Ribhoi,meta,0,0,258380,0,0,0,0
+ML,Ribhoi,total,0,9584,0,48460,92049,9697,89
+ML,South Garo Hills,delta,0,0,0,67,13,0,0
+ML,South Garo Hills,delta7,0,1,0,1346,329,0,0
+ML,South Garo Hills,meta,0,0,142574,0,0,0,0
+ML,South Garo Hills,total,0,1203,0,18937,40103,1216,12
+ML,South West Garo Hills,delta,0,1,0,0,0,0,0
+ML,South West Garo Hills,delta7,0,3,0,4509,924,3,0
+ML,South West Garo Hills,meta,0,0,172495,0,0,0,0
+ML,South West Garo Hills,total,0,1852,0,39210,73397,1872,17
+ML,South West Khasi Hills,delta7,0,1,0,552,61,6,0
+ML,South West Khasi Hills,meta,0,0,110152,0,0,0,0
+ML,South West Khasi Hills,total,0,2525,0,17117,33372,2548,17
+ML,West Garo Hills,delta,0,1,0,32,7,3,0
+ML,West Garo Hills,delta7,0,11,0,8093,1409,8,0
+ML,West Garo Hills,meta,0,0,642923,0,0,0,0
+ML,West Garo Hills,total,0,8943,0,119725,209662,9027,72
+ML,West Jaintia Hills,delta,0,0,0,0,0,1,0
+ML,West Jaintia Hills,delta7,0,31,0,3480,411,11,2
+ML,West Jaintia Hills,meta,0,0,270352,0,0,0,0
+ML,West Jaintia Hills,total,0,6642,0,47646,84529,6803,133
+ML,West Khasi Hills,delta,0,27,0,20,1,2,0
+ML,West Khasi Hills,delta7,0,97,0,1763,443,33,0
+ML,West Khasi Hills,meta,0,0,385601,0,0,0,0
+ML,West Khasi Hills,total,0,5330,0,43000,77018,5457,71
+MN,Bishnupur,delta7,0,0,0,8679,685,0,0
+MN,Bishnupur,meta,0,0,240363,0,0,0,0
+MN,Bishnupur,total,0,0,0,64791,128902,0,0
+MN,Chandel,delta,0,0,0,134,5,0,0
+MN,Chandel,delta7,0,0,0,1337,98,0,0
+MN,Chandel,meta,0,0,144028,0,0,0,0
+MN,Chandel,total,0,0,0,15197,26634,0,0
+MN,Churachandpur,delta,0,0,0,370,27,0,0
+MN,Churachandpur,delta7,0,0,0,3560,345,0,0
+MN,Churachandpur,meta,0,0,271274,0,0,0,0
+MN,Churachandpur,total,13542,0,0,62208,104247,0,0
+MN,Imphal East,delta,0,0,0,1268,183,0,0
+MN,Imphal East,delta7,0,0,0,19169,2402,0,0
+MN,Imphal East,meta,0,0,452661,0,0,0,0
+MN,Imphal East,total,0,0,0,148953,251626,0,0
+MN,Imphal West,delta,0,0,0,841,74,0,0
+MN,Imphal West,delta7,0,0,0,17353,1861,0,0
+MN,Imphal West,meta,0,0,514683,0,0,0,0
+MN,Imphal West,total,0,0,0,199404,308782,0,0
+MN,Jiribam,delta7,0,0,0,1927,70,0,0
+MN,Jiribam,meta,0,0,43818,0,0,0,0
+MN,Jiribam,total,0,0,0,17262,27911,0,0
+MN,Kakching,delta7,0,0,0,2450,214,0,0
+MN,Kakching,meta,0,0,135481,0,0,0,0
+MN,Kakching,total,0,0,0,49653,84702,0,0
+MN,Kamjong,delta,0,0,0,371,75,0,0
+MN,Kamjong,delta7,0,0,0,736,129,0,0
+MN,Kamjong,meta,0,0,45616,0,0,0,0
+MN,Kamjong,total,0,0,0,5370,10502,0,0
+MN,Kangpokpi,delta,0,0,0,26,73,0,0
+MN,Kangpokpi,delta7,0,0,0,1472,291,0,0
+MN,Kangpokpi,total,0,0,0,19015,39027,0,0
+MN,Noney,delta,0,0,0,388,29,0,0
+MN,Noney,delta7,0,0,0,1211,98,0,0
+MN,Noney,total,0,0,0,9819,16798,0,0
+MN,Pherzawl,delta,0,0,0,52,0,0,0
+MN,Pherzawl,delta7,0,0,0,711,55,0,0
+MN,Pherzawl,meta,0,0,47250,0,0,0,0
+MN,Pherzawl,total,0,0,0,9888,12417,0,0
+MN,Senapati,delta,0,0,0,291,105,0,0
+MN,Senapati,delta7,0,0,0,1940,425,0,0
+MN,Senapati,meta,0,0,354772,0,0,0,0
+MN,Senapati,total,0,0,0,18288,28247,0,0
+MN,Tamenglong,delta,0,0,0,76,53,0,0
+MN,Tamenglong,delta7,0,0,0,1204,174,0,0
+MN,Tamenglong,meta,0,0,140143,0,0,0,0
+MN,Tamenglong,total,0,0,0,10361,19931,0,0
+MN,Tengnoupal,delta,0,0,0,183,14,0,0
+MN,Tengnoupal,delta7,0,0,0,1176,93,0,0
+MN,Tengnoupal,total,0,0,0,12163,26209,0,0
+MN,Thoubal,delta,0,0,0,22,1,0,0
+MN,Thoubal,delta7,0,0,0,6574,378,0,0
+MN,Thoubal,meta,0,0,420517,0,0,0,0
+MN,Thoubal,total,0,0,0,62279,141308,0,0
+MN,Ukhrul,delta,0,0,0,258,66,0,0
+MN,Ukhrul,delta7,0,0,0,1775,362,0,0
+MN,Ukhrul,meta,0,0,183115,0,0,0,0
+MN,Ukhrul,total,0,0,0,14759,22193,0,0
+MP,Agar Malwa,delta,0,0,0,107,12,0,0
+MP,Agar Malwa,delta7,0,0,0,16911,965,0,0
+MP,Agar Malwa,total,0,3235,0,128822,424846,3303,68
+MP,Alirajpur,delta,0,0,0,40,10,0,0
+MP,Alirajpur,delta7,0,0,0,8076,921,0,0
+MP,Alirajpur,meta,0,0,728677,0,0,0,0
+MP,Alirajpur,total,0,3453,0,114601,369571,3505,48
+MP,Anuppur,delta,0,0,0,1328,73,0,0
+MP,Anuppur,delta7,0,0,0,18360,995,0,0
+MP,Anuppur,meta,0,0,749521,0,0,0,0
+MP,Anuppur,total,3424,9140,0,164712,481238,9238,89
+MP,Ashoknagar,delta,0,0,0,131,10,0,0
+MP,Ashoknagar,delta7,0,0,0,17334,1258,0,0
+MP,Ashoknagar,meta,0,0,844979,0,0,0,0
+MP,Ashoknagar,total,55792,3613,0,186066,550087,3670,57
+MP,Balaghat,delta,0,0,0,342,25,2,0
+MP,Balaghat,delta7,0,0,0,71692,15838,2,0
+MP,Balaghat,meta,0,0,1701156,0,0,0,0
+MP,Balaghat,total,9654,9017,0,549643,1278183,9100,64
+MP,Barwani,delta,0,0,0,542,76,0,0
+MP,Barwani,delta7,0,0,0,16619,1615,0,0
+MP,Barwani,meta,0,0,1385659,0,0,0,0
+MP,Barwani,total,41588,8267,0,225336,788872,8366,90
+MP,Betul,delta,0,0,0,547,22,0,0
+MP,Betul,delta7,0,0,0,31953,2361,1,0
+MP,Betul,meta,0,0,1575247,0,0,0,0
+MP,Betul,total,68036,12590,0,343674,1042931,12905,277
+MP,Bhind,delta,0,0,0,1176,29,0,0
+MP,Bhind,delta7,0,0,0,30042,1525,0,0
+MP,Bhind,meta,0,0,1703562,0,0,0,0
+MP,Bhind,total,44395,2960,0,351065,1034374,2995,32
+MP,Bhopal,delta,0,0,0,646,66,2,0
+MP,Bhopal,delta7,0,0,0,38750,4130,38,0
+MP,Bhopal,meta,0,0,2368145,0,0,0,0
+MP,Bhopal,total,245166,122121,0,1168682,2012966,123552,972
+MP,Burhanpur,delta,0,0,0,138,49,0,0
+MP,Burhanpur,delta7,0,0,0,6561,762,0,0
+MP,Burhanpur,meta,0,0,756993,0,0,0,0
+MP,Burhanpur,total,13040,2529,0,220909,493618,2568,39
+MP,Chhatarpur,delta,0,0,0,1310,56,0,0
+MP,Chhatarpur,delta7,0,0,0,27937,3103,0,0
+MP,Chhatarpur,meta,0,0,1762857,0,0,0,0
+MP,Chhatarpur,total,50518,7506,0,336309,1093616,7609,91
+MP,Chhindwara,delta,0,0,0,261,18,0,0
+MP,Chhindwara,delta7,0,0,0,93453,4654,2,0
+MP,Chhindwara,meta,0,0,2090306,0,0,0,0
+MP,Chhindwara,total,79090,6612,0,591843,1624355,6734,120
+MP,Damoh,delta,0,0,0,982,39,0,0
+MP,Damoh,delta7,0,0,0,52314,4298,0,0
+MP,Damoh,meta,0,0,1263703,0,0,0,0
+MP,Damoh,total,16564,7841,0,326505,844557,8120,186
+MP,Datia,delta,0,0,0,10316,521,0,0
+MP,Datia,delta7,0,0,0,45226,1963,0,0
+MP,Datia,meta,0,0,786375,0,0,0,0
+MP,Datia,total,40322,6874,0,296233,560238,6959,78
+MP,Dewas,delta,0,0,0,386,11,0,0
+MP,Dewas,delta7,0,0,0,22992,1804,0,0
+MP,Dewas,meta,0,0,1563107,0,0,0,0
+MP,Dewas,total,96155,7672,0,477219,1005266,7723,51
+MP,Dhar,delta,0,0,0,306,39,1,0
+MP,Dhar,delta7,0,0,0,83699,5034,7,0
+MP,Dhar,meta,0,0,2184672,0,0,0,0
+MP,Dhar,total,62597,12388,0,536214,1371226,12572,130
+MP,Dindori,delta,0,0,0,96,4,0,0
+MP,Dindori,delta7,0,0,0,21481,1342,0,0
+MP,Dindori,meta,0,0,704218,0,0,0,0
+MP,Dindori,total,3557,4588,0,186341,481366,4623,29
+MP,Guna,delta,0,0,0,5023,630,0,0
+MP,Guna,delta7,0,0,0,32837,3347,0,0
+MP,Guna,meta,0,0,1240938,0,0,0,0
+MP,Guna,total,40229,5085,0,284155,821399,5132,44
+MP,Gwalior,delta,0,0,0,1715,531,0,0
+MP,Gwalior,delta7,0,0,0,41193,8800,2,0
+MP,Gwalior,meta,0,0,2030543,0,0,0,0
+MP,Gwalior,total,206696,52427,0,730150,1452149,53106,633
+MP,Harda,delta,0,0,0,210,14,0,0
+MP,Harda,delta7,0,0,0,24810,1075,0,0
+MP,Harda,meta,0,0,570302,0,0,0,0
+MP,Harda,total,36708,4954,0,159293,394641,5055,96
+MP,Hoshangabad,delta,0,0,0,206,10,0,0
+MP,Hoshangabad,delta7,0,0,0,39507,1498,0,0
+MP,Hoshangabad,meta,0,0,1240975,0,0,0,0
+MP,Hoshangabad,total,46294,10570,0,369945,865566,10688,99
+MP,Indore,delta,0,0,0,894,76,8,0
+MP,Indore,delta7,0,0,0,45203,4233,39,0
+MP,Indore,meta,0,0,3272335,0,0,0,0
+MP,Indore,total,780266,151410,0,1728945,2951024,153230,1391
+MP,Jabalpur,delta,0,0,0,19681,726,0,0
+MP,Jabalpur,delta7,0,0,0,156306,5968,3,0
+MP,Jabalpur,meta,0,0,2460714,0,0,0,0
+MP,Jabalpur,total,293923,49896,0,1099359,1957070,50779,670
+MP,Jhabua,delta,0,0,0,222,50,0,0
+MP,Jhabua,delta7,0,0,0,21040,3578,1,0
+MP,Jhabua,meta,0,0,1024091,0,0,0,0
+MP,Jhabua,total,52146,7619,0,185320,607542,7691,64
+MP,Katni,delta,0,0,0,879,57,0,0
+MP,Katni,delta7,0,0,0,42360,2926,0,0
+MP,Katni,meta,0,0,1291684,0,0,0,0
+MP,Katni,total,56828,9242,0,306259,865274,9366,120
+MP,Khandwa,delta7,0,0,0,13668,880,0,0
+MP,Khandwa,meta,0,0,1309443,0,0,0,0
+MP,Khandwa,total,17090,3946,0,310248,862885,4044,94
+MP,Khargone,delta,0,0,0,5304,922,0,0
+MP,Khargone,delta7,0,0,0,32932,3049,0,0
+MP,Khargone,meta,0,0,1872413,0,0,0,0
+MP,Khargone,total,38413,13716,0,411114,1147444,13970,239
+MP,Mandla,delta,0,0,0,72,6,0,0
+MP,Mandla,delta7,0,0,0,53670,2286,0,0
+MP,Mandla,meta,0,0,1053522,0,0,0,0
+MP,Mandla,total,0,5159,0,246724,684882,5188,25
+MP,Mandsaur,delta,0,0,0,130,4,0,0
+MP,Mandsaur,delta7,0,0,0,37337,2058,0,0
+MP,Mandsaur,meta,0,0,1339832,0,0,0,0
+MP,Mandsaur,total,52733,8552,0,330902,948065,8637,84
+MP,Morena,delta,0,0,0,1667,50,0,0
+MP,Morena,delta7,0,0,0,112629,2814,0,0
+MP,Morena,meta,0,0,1965137,0,0,0,0
+MP,Morena,total,90967,8135,0,582833,1295658,8236,95
+MP,Narsinghpur,delta,0,0,0,224,10,0,0
+MP,Narsinghpur,delta7,0,0,0,34365,1266,5,0
+MP,Narsinghpur,meta,0,0,1092141,0,0,0,0
+MP,Narsinghpur,total,90600,11115,0,318284,803225,11209,81
+MP,Neemuch,delta,0,0,0,359,16,0,0
+MP,Neemuch,delta7,0,0,0,17955,970,0,0
+MP,Neemuch,meta,0,0,825958,0,0,0,0
+MP,Neemuch,total,57292,7828,0,229183,579489,7926,84
+MP,Niwari,total,22574,3654,0,0,0,3715,48
+MP,Panna,delta,0,0,0,985,144,0,0
+MP,Panna,delta7,0,0,0,18657,2633,0,0
+MP,Panna,meta,0,0,1016028,0,0,0,0
+MP,Panna,total,0,7250,0,168120,600823,7331,63
+MP,Raigarh,total,0,0,0,0,0,1,0
+MP,Raisen,delta,0,0,0,222,39,0,0
+MP,Raisen,delta7,0,0,0,22044,1644,0,0
+MP,Raisen,meta,0,0,1331699,0,0,0,0
+MP,Raisen,total,44343,9030,0,333022,885585,9238,194
+MP,Rajgarh,delta,0,0,0,144,10,1,0
+MP,Rajgarh,delta7,0,0,0,41531,2483,1,0
+MP,Rajgarh,meta,0,0,1546541,0,0,0,0
+MP,Rajgarh,total,46604,8490,0,450099,1025584,8729,172
+MP,Ratlam,delta,0,0,0,251,14,0,0
+MP,Ratlam,delta7,0,0,0,51080,1894,0,0
+MP,Ratlam,meta,0,0,1454483,0,0,0,0
+MP,Ratlam,total,51736,17438,0,457972,1026416,17860,385
+MP,Rewa,delta,0,0,0,1574,85,0,0
+MP,Rewa,delta7,0,0,0,104963,6664,0,0
+MP,Rewa,meta,0,0,2363744,0,0,0,0
+MP,Rewa,total,22690,16270,0,674779,1639826,16433,155
+MP,Sagar,delta,0,0,0,343,23,2,0
+MP,Sagar,delta7,0,0,0,60800,6321,2,0
+MP,Sagar,meta,0,0,2378295,0,0,0,0
+MP,Sagar,total,64801,16154,0,760746,1563245,16622,390
+MP,Satna,delta,0,0,0,303,37,0,0
+MP,Satna,delta7,0,0,0,40519,3426,0,0
+MP,Satna,meta,0,0,2228619,0,0,0,0
+MP,Satna,total,28159,11829,0,481540,1532585,11965,133
+MP,Sehore,delta,0,0,0,256,5,0,0
+MP,Sehore,delta7,0,0,0,32101,2325,0,0
+MP,Sehore,meta,0,0,1311008,0,0,0,0
+MP,Sehore,total,45061,10057,0,396375,909045,10136,73
+MP,Seoni,delta,0,0,0,402,15,0,0
+MP,Seoni,delta7,0,0,0,38081,2162,0,0
+MP,Seoni,meta,0,0,1378876,0,0,0,0
+MP,Seoni,total,15024,6739,0,341871,945564,6775,28
+MP,Shahdol,delta,0,0,0,426,20,0,0
+MP,Shahdol,delta7,0,0,0,22928,857,0,0
+MP,Shahdol,meta,0,0,1064989,0,0,0,0
+MP,Shahdol,total,18177,9958,0,337272,723227,10085,118
+MP,Shajapur,delta,0,0,0,851,43,0,0
+MP,Shajapur,delta7,0,0,0,51596,1971,0,0
+MP,Shajapur,meta,0,0,1512353,0,0,0,0
+MP,Shajapur,total,56805,6273,0,278912,620316,6349,74
+MP,Sheopur,delta,0,0,0,1788,236,0,0
+MP,Sheopur,delta7,0,0,0,16952,1338,0,0
+MP,Sheopur,meta,0,0,687952,0,0,0,0
+MP,Sheopur,total,31449,3919,0,140296,413195,4000,78
+MP,Shivpuri,delta,0,0,0,13988,883,0,0
+MP,Shivpuri,delta7,0,0,0,38901,3082,0,0
+MP,Shivpuri,meta,0,0,1725818,0,0,0,0
+MP,Shivpuri,total,47270,12261,0,391707,1109976,12398,125
+MP,Sidhi,delta,0,0,0,512,58,0,0
+MP,Sidhi,delta7,0,0,0,19145,1867,0,0
+MP,Sidhi,meta,0,0,1126515,0,0,0,0
+MP,Sidhi,total,4660,9132,0,226632,679862,9219,87
+MP,Singrauli,delta,0,0,0,305,43,0,0
+MP,Singrauli,delta7,0,0,0,21200,3052,1,0
+MP,Singrauli,meta,0,0,1178132,0,0,0,0
+MP,Singrauli,total,0,8706,0,224966,740335,8801,82
+MP,Tikamgarh,delta,0,0,0,297,60,0,0
+MP,Tikamgarh,delta7,0,0,0,24497,3331,0,0
+MP,Tikamgarh,meta,0,0,1444920,0,0,0,0
+MP,Tikamgarh,total,43011,6742,0,293885,919592,6863,114
+MP,Ujjain,delta,0,0,0,1323,27,0,0
+MP,Ujjain,delta7,0,0,0,65566,4210,1,0
+MP,Ujjain,meta,0,0,1986864,0,0,0,0
+MP,Ujjain,total,31631,18720,0,836514,1452247,18903,172
+MP,Umaria,delta,0,0,0,93,9,0,0
+MP,Umaria,delta7,0,0,0,28084,955,0,0
+MP,Umaria,meta,0,0,643579,0,0,0,0
+MP,Umaria,total,54811,6224,0,196492,455492,6294,63
+MP,Vidisha,delta,0,0,0,253,11,0,0
+MP,Vidisha,delta7,0,0,0,26130,1222,0,0
+MP,Vidisha,meta,0,0,1458212,0,0,0,0
+MP,Vidisha,total,65935,11677,0,349024,975291,11922,237
+MZ,Aizawl,delta,0,365,0,0,0,361,1
+MZ,Aizawl,delta7,0,3014,0,3740,443,1996,6
+MZ,Aizawl,meta,0,0,404054,0,0,0,0
+MZ,Aizawl,total,0,71337,0,239593,315706,75111,300
+MZ,Champhai,delta,0,40,0,0,0,33,0
+MZ,Champhai,delta7,0,319,0,572,344,299,3
+MZ,Champhai,meta,0,0,125370,0,0,0,0
+MZ,Champhai,total,0,4745,0,55251,74122,5188,11
+MZ,Hnahthial,delta,0,29,0,0,0,1,0
+MZ,Hnahthial,delta7,0,185,0,0,0,143,0
+MZ,Hnahthial,total,0,857,0,0,0,1020,3
+MZ,Khawzawl,delta,0,0,0,0,0,2,0
+MZ,Khawzawl,delta7,0,26,0,0,0,42,0
+MZ,Khawzawl,total,0,688,0,0,0,733,0
+MZ,Kolasib,delta,0,2,0,0,0,10,0
+MZ,Kolasib,delta7,0,154,0,738,153,94,0
+MZ,Kolasib,meta,0,0,83054,0,0,0,0
+MZ,Kolasib,total,0,7561,0,33101,50525,7721,30
+MZ,Lawngtlai,delta,0,13,0,0,129,14,0
+MZ,Lawngtlai,delta7,0,245,0,1838,2765,98,1
+MZ,Lawngtlai,meta,0,0,117444,0,0,0,0
+MZ,Lawngtlai,total,0,6553,0,25870,55877,6740,23
+MZ,Lunglei,delta,0,36,0,0,0,71,0
+MZ,Lunglei,delta7,0,507,0,1493,263,662,1
+MZ,Lunglei,meta,0,0,154094,0,0,0,0
+MZ,Lunglei,total,0,9053,0,73298,95129,9842,27
+MZ,Mamit,delta,0,0,0,0,0,19,0
+MZ,Mamit,delta7,0,265,0,1322,228,241,5
+MZ,Mamit,meta,0,0,85757,0,0,0,0
+MZ,Mamit,total,0,4448,0,28873,43678,4854,12
+MZ,Saiha,delta,0,37,0,39,0,0,1
+MZ,Saiha,delta7,0,345,0,1116,68,107,5
+MZ,Saiha,meta,0,0,56366,0,0,0,0
+MZ,Saiha,total,0,5304,0,19984,34626,5469,14
+MZ,Saitual,delta,0,21,0,0,0,3,0
+MZ,Saitual,delta7,0,53,0,0,0,30,0
+MZ,Saitual,total,0,420,0,0,0,471,2
+MZ,Serchhip,delta,0,67,0,0,0,65,0
+MZ,Serchhip,delta7,0,572,0,431,36,386,0
+MZ,Serchhip,meta,0,0,64875,0,0,0,0
+MZ,Serchhip,total,0,3646,0,36047,41932,4210,10
+NL,Dimapur,delta,0,13,0,2,-1,3,1
+NL,Dimapur,delta7,0,73,0,12731,2827,68,2
+NL,Dimapur,meta,0,0,379769,0,0,0,0
+NL,Dimapur,total,47020,13471,0,175502,268405,14684,421
+NL,Kiphire,delta,0,0,0,124,61,0,0
+NL,Kiphire,delta7,0,1,0,357,116,2,0
+NL,Kiphire,meta,0,0,74033,0,0,0,0
+NL,Kiphire,total,1002,246,0,8141,13017,258,9
+NL,Kohima,delta,0,0,0,0,0,4,0
+NL,Kohima,delta7,0,24,0,3038,509,23,0
+NL,Kohima,meta,0,0,270063,0,0,0,0
+NL,Kohima,total,33986,9095,0,82602,105758,9461,123
+NL,Longleng,delta7,0,7,0,181,26,0,0
+NL,Longleng,meta,0,0,50593,0,0,0,0
+NL,Longleng,total,1193,286,0,15446,20577,307,2
+NL,Mokokchung,delta,0,2,0,0,0,3,0
+NL,Mokokchung,delta7,0,5,0,2026,146,23,2
+NL,Mokokchung,meta,0,0,193171,0,0,0,0
+NL,Mokokchung,total,3976,2186,0,54730,69198,2333,54
+NL,Mon,delta,0,0,0,28,20,0,0
+NL,Mon,delta7,0,0,0,1864,243,1,0
+NL,Mon,meta,0,0,259604,0,0,0,0
+NL,Mon,total,12278,1124,0,48331,70054,1159,14
+NL,Peren,delta,0,0,0,29,1,0,0
+NL,Peren,delta7,0,1,0,613,189,1,0
+NL,Peren,meta,0,0,163294,0,0,0,0
+NL,Peren,total,5717,897,0,12514,19956,920,6
+NL,Phek,delta,0,0,0,168,21,0,0
+NL,Phek,delta7,0,1,0,496,99,4,0
+NL,Phek,meta,0,0,163294,0,0,0,0
+NL,Phek,total,2779,568,0,20746,31241,601,18
+NL,Tuensang,delta,0,6,0,122,41,1,0
+NL,Tuensang,delta7,0,28,0,525,106,2,1
+NL,Tuensang,meta,0,0,414801,0,0,0,0
+NL,Tuensang,total,4887,1077,0,26725,38130,1094,12
+NL,Wokha,delta,0,0,0,232,11,0,0
+NL,Wokha,delta7,0,4,0,1074,122,6,0
+NL,Wokha,meta,0,0,166239,0,0,0,0
+NL,Wokha,total,1390,361,0,23577,35138,402,11
+NL,Zunheboto,delta,0,0,0,106,36,0,0
+NL,Zunheboto,delta7,0,0,0,807,331,0,1
+NL,Zunheboto,meta,0,0,141014,0,0,0,0
+NL,Zunheboto,total,2131,593,0,22337,38077,623,15
+OR,Angul,delta,0,3,0,38,9,1,0
+OR,Angul,delta7,0,20,0,23378,21629,16,2
+OR,Angul,meta,0,0,1271703,0,0,0,0
+OR,Angul,total,172873,43506,0,291800,786278,43920,393
+OR,Balangir,delta7,0,15,0,39059,20119,4,0
+OR,Balangir,meta,0,0,1648574,0,0,0,0
+OR,Balangir,total,87867,23257,0,299153,960786,23397,126
+OR,Balasore,delta,0,14,0,519,929,5,0
+OR,Balasore,delta7,0,80,0,35314,78274,67,1
+OR,Balasore,meta,0,0,2317419,0,0,0,0
+OR,Balasore,total,9843,40389,0,534318,1351099,40787,299
+OR,Bargarh,delta,0,1,0,30,169,0,0
+OR,Bargarh,delta7,0,16,0,32028,52192,18,0
+OR,Bargarh,meta,0,0,1478833,0,0,0,0
+OR,Bargarh,total,0,30762,0,283966,829092,31126,335
+OR,Bhadrak,delta,0,7,0,17,0,3,0
+OR,Bhadrak,delta7,0,39,0,38206,14511,44,1
+OR,Bhadrak,meta,0,0,1506522,0,0,0,0
+OR,Bhadrak,total,258173,26260,0,367945,1026493,26480,150
+OR,Boudh,delta,0,0,0,1585,496,0,0
+OR,Boudh,delta7,0,4,0,16754,7009,0,0
+OR,Boudh,meta,0,0,439917,0,0,0,0
+OR,Boudh,total,496,12488,0,92297,259325,12634,112
+OR,Cuttack,delta,0,29,0,1129,2729,54,0
+OR,Cuttack,delta7,0,304,0,45717,75381,277,1
+OR,Cuttack,meta,0,0,2618708,0,0,0,0
+OR,Cuttack,total,5720,93404,0,702278,1434524,94631,857
+OR,Deogarh,delta,0,3,0,136,1,2,0
+OR,Deogarh,delta7,0,10,0,4779,1126,41,0
+OR,Deogarh,meta,0,0,312164,0,0,0,0
+OR,Deogarh,total,682,6460,0,63727,223405,6553,50
+OR,Dhenkanal,delta,0,0,0,104,92,5,0
+OR,Dhenkanal,delta7,0,16,0,23327,18302,25,0
+OR,Dhenkanal,meta,0,0,1192948,0,0,0,0
+OR,Dhenkanal,total,179477,19598,0,282859,738406,19871,243
+OR,Gajapati,delta,0,0,0,1193,296,5,0
+OR,Gajapati,delta7,0,11,0,10942,4770,15,0
+OR,Gajapati,meta,0,0,575880,0,0,0,0
+OR,Gajapati,total,715,9555,0,115535,288963,9657,84
+OR,Ganjam,delta,0,2,0,1848,438,8,0
+OR,Ganjam,delta7,0,18,0,112716,27002,22,0
+OR,Ganjam,meta,0,0,3520151,0,0,0,0
+OR,Ganjam,total,750442,33342,0,1698328,2214981,33849,485
+OR,Jagatsinghpur,delta,0,12,0,2,-2,9,0
+OR,Jagatsinghpur,delta7,0,78,0,25051,28276,76,1
+OR,Jagatsinghpur,meta,0,0,1136604,0,0,0,0
+OR,Jagatsinghpur,total,46648,27510,0,272499,677675,27920,316
+OR,Jajpur,delta,0,8,0,9,2,9,0
+OR,Jajpur,delta7,0,73,0,37471,30726,75,0
+OR,Jajpur,meta,0,0,1826275,0,0,0,0
+OR,Jajpur,total,53956,43461,0,383313,1087735,43735,172
+OR,Jharsuguda,delta,0,0,0,0,0,3,0
+OR,Jharsuguda,delta7,0,10,0,14725,7187,13,0
+OR,Jharsuguda,meta,0,0,579499,0,0,0,0
+OR,Jharsuguda,total,1663,23673,0,189682,399523,23863,176
+OR,Kalahandi,delta,0,0,0,537,1476,2,0
+OR,Kalahandi,delta7,0,1,0,26926,38214,15,0
+OR,Kalahandi,meta,0,0,1573054,0,0,0,0
+OR,Kalahandi,total,1458,24082,0,304778,921185,24314,210
+OR,Kandhamal,delta,0,0,0,529,847,0,0
+OR,Kandhamal,delta7,0,5,0,12319,12881,0,0
+OR,Kandhamal,meta,0,0,731952,0,0,0,0
+OR,Kandhamal,total,1516,11453,0,150737,384009,11537,83
+OR,Kendrapara,delta,0,8,0,1179,1452,8,0
+OR,Kendrapara,delta7,0,52,0,34297,28635,62,1
+OR,Kendrapara,meta,0,0,1439891,0,0,0,0
+OR,Kendrapara,total,382732,24545,0,347854,916169,24860,252
+OR,Kendujhar,delta,0,2,0,613,483,1,0
+OR,Kendujhar,delta7,0,3,0,46488,25529,4,2
+OR,Kendujhar,meta,0,0,1802777,0,0,0,0
+OR,Kendujhar,total,474504,20798,0,376311,1087285,20980,175
+OR,Khordha,delta,0,243,0,1482,568,250,2
+OR,Khordha,delta7,0,1654,0,49859,34733,1492,8
+OR,Khordha,meta,0,0,2246341,0,0,0,0
+OR,Khordha,total,0,171938,0,1502538,2063646,175335,1552
+OR,Koraput,delta,0,2,0,2024,935,1,0
+OR,Koraput,delta7,0,20,0,35701,13011,11,0
+OR,Koraput,meta,0,0,1376934,0,0,0,0
+OR,Koraput,total,1401,19044,0,399063,860773,19137,78
+OR,Malkangiri,delta,0,3,0,2000,2497,0,0
+OR,Malkangiri,delta7,0,4,0,16141,13449,2,0
+OR,Malkangiri,meta,0,0,612727,0,0,0,0
+OR,Malkangiri,total,1841,11613,0,137925,391790,11667,49
+OR,Mayurbhanj,delta,0,8,0,654,2985,19,1
+OR,Mayurbhanj,delta7,0,93,0,36315,86170,126,5
+OR,Mayurbhanj,meta,0,0,2513895,0,0,0,0
+OR,Mayurbhanj,total,3307,40416,0,413698,1222153,40844,286
+OR,Nabarangapur,delta7,0,2,0,18025,13213,1,0
+OR,Nabarangapur,meta,0,0,1218762,0,0,0,0
+OR,Nabarangapur,total,162154,23461,0,188457,675601,23549,86
+OR,Nayagarh,delta,0,3,0,117,29,2,0
+OR,Nayagarh,delta7,0,24,0,22575,7145,28,1
+OR,Nayagarh,meta,0,0,962215,0,0,0,0
+OR,Nayagarh,total,1104,23261,0,222606,593612,23505,212
+OR,Nuapada,delta,0,3,0,58,6,1,0
+OR,Nuapada,delta7,0,5,0,14721,3391,36,0
+OR,Nuapada,meta,0,0,606490,0,0,0,0
+OR,Nuapada,total,310,22803,0,129685,402248,22924,84
+OR,Puri,delta,0,7,0,6548,2991,15,1
+OR,Puri,delta7,0,69,0,40854,25187,68,1
+OR,Puri,meta,0,0,1697983,0,0,0,0
+OR,Puri,total,173340,44903,0,523160,1078666,45431,459
+OR,Rayagada,delta,0,3,0,2019,537,6,0
+OR,Rayagada,delta7,0,16,0,16558,5781,18,0
+OR,Rayagada,meta,0,0,961959,0,0,0,0
+OR,Rayagada,total,578,19981,0,184420,549767,20224,167
+OR,Sambalpur,delta,0,24,0,1479,574,13,0
+OR,Sambalpur,delta7,0,113,0,31518,8960,88,0
+OR,Sambalpur,meta,0,0,1044410,0,0,0,0
+OR,Sambalpur,total,2007,31315,0,418110,768989,31651,240
+OR,State Pool,delta,0,57,0,0,0,53,0
+OR,State Pool,delta7,0,401,0,0,0,338,0
+OR,State Pool,total,0,31587,0,0,0,32048,0
+OR,Subarnapur,delta7,0,3,0,31803,8102,5,0
+OR,Subarnapur,meta,0,0,652107,0,0,0,0
+OR,Subarnapur,total,0,13115,0,192102,418336,13187,61
+OR,Sundargarh,delta,0,8,0,340,824,13,0
+OR,Sundargarh,delta7,0,71,0,22587,19935,59,0
+OR,Sundargarh,meta,0,0,2080664,0,0,0,0
+OR,Sundargarh,total,0,61167,0,490428,1122762,61841,594
+PB,Amritsar,delta,0,1,0,251,232,4,0
+PB,Amritsar,delta7,0,9,0,18084,23376,23,2
+PB,Amritsar,meta,0,0,2490891,0,0,0,0
+PB,Amritsar,total,89227,45757,0,446487,1263073,47379,1598
+PB,Barnala,delta,0,0,0,291,629,0,0
+PB,Barnala,delta7,0,0,0,5253,9552,2,0
+PB,Barnala,meta,0,0,596294,0,0,0,0
+PB,Barnala,total,63447,5696,0,104197,328464,5950,244
+PB,Bathinda,delta,0,0,0,182,110,1,0
+PB,Bathinda,delta7,0,8,0,6940,8246,15,0
+PB,Bathinda,meta,0,0,1388859,0,0,0,0
+PB,Bathinda,total,118489,40668,0,202311,623604,41728,1042
+PB,Faridkot,delta,0,1,0,241,154,1,0
+PB,Faridkot,delta7,0,7,0,4201,3048,7,0
+PB,Faridkot,meta,0,0,618008,0,0,0,0
+PB,Faridkot,total,23635,13602,0,128653,330654,13927,315
+PB,Fatehgarh Sahib,delta,0,0,0,17,9,0,0
+PB,Fatehgarh Sahib,delta7,0,1,0,4804,2513,2,1
+PB,Fatehgarh Sahib,meta,0,0,599814,0,0,0,0
+PB,Fatehgarh Sahib,total,68436,8538,0,135247,354921,8876,335
+PB,Fazilka,delta,0,1,0,177,249,1,0
+PB,Fazilka,delta7,0,4,0,5707,8408,8,0
+PB,Fazilka,meta,0,0,1180483,0,0,0,0
+PB,Fazilka,total,63589,19729,0,131519,490080,20271,528
+PB,Ferozepur,delta,0,3,0,73,130,4,0
+PB,Ferozepur,delta7,0,9,0,4723,4483,13,0
+PB,Ferozepur,meta,0,0,2026831,0,0,0,0
+PB,Ferozepur,total,74880,13832,0,128043,476343,14347,504
+PB,Gurdaspur,delta,0,0,0,351,459,0,0
+PB,Gurdaspur,delta7,0,3,0,26825,18212,3,1
+PB,Gurdaspur,meta,0,0,2299026,0,0,0,0
+PB,Gurdaspur,total,249039,21576,0,415351,862133,22381,801
+PB,Hoshiarpur,delta,0,2,0,211,87,2,1
+PB,Hoshiarpur,delta7,0,12,0,17487,6567,10,2
+PB,Hoshiarpur,meta,0,0,1582793,0,0,0,0
+PB,Hoshiarpur,total,221261,29828,0,574716,1000636,30822,986
+PB,Jalandhar,delta,0,1,0,507,167,1,0
+PB,Jalandhar,delta7,0,12,0,22309,13877,20,1
+PB,Jalandhar,meta,0,0,2181753,0,0,0,0
+PB,Jalandhar,total,443735,61864,0,681370,1433553,63396,1496
+PB,Kapurthala,delta,0,0,0,174,93,0,0
+PB,Kapurthala,delta7,0,7,0,6146,5387,2,0
+PB,Kapurthala,meta,0,0,817668,0,0,0,0
+PB,Kapurthala,total,38658,17294,0,187476,465285,17852,556
+PB,Ludhiana,delta,0,4,0,276,327,0,0
+PB,Ludhiana,delta7,0,24,0,30055,41184,16,1
+PB,Ludhiana,meta,0,0,3487882,0,0,0,0
+PB,Ludhiana,total,514691,85484,0,943401,2473646,87608,2106
+PB,Mansa,delta,0,0,0,166,128,0,0
+PB,Mansa,delta7,0,1,0,4111,5340,0,0
+PB,Mansa,meta,0,0,768808,0,0,0,0
+PB,Mansa,total,26878,15226,0,89830,372366,15606,380
+PB,Moga,delta,0,0,0,7,9,0,0
+PB,Moga,delta7,0,8,0,6757,5076,1,0
+PB,Moga,meta,0,0,992289,0,0,0,0
+PB,Moga,total,77307,8440,0,178908,541556,8675,233
+PB,Pathankot,delta,0,1,0,278,52,6,0
+PB,Pathankot,delta7,0,7,0,6090,1762,20,0
+PB,Pathankot,meta,0,0,626154,0,0,0,0
+PB,Pathankot,total,29112,18373,0,196822,424889,18814,419
+PB,Patiala,delta,0,2,0,526,239,0,0
+PB,Patiala,delta7,0,15,0,10721,7659,6,0
+PB,Patiala,meta,0,0,2892282,0,0,0,0
+PB,Patiala,total,273344,47561,0,396473,1051467,48927,1358
+PB,Rupnagar,delta,0,3,0,202,88,2,0
+PB,Rupnagar,delta7,0,7,0,5708,1965,20,0
+PB,Rupnagar,meta,0,0,683349,0,0,0,0
+PB,Rupnagar,total,97745,12517,0,182919,384637,12963,423
+PB,Sangrur,delta,0,1,0,157,219,1,0
+PB,Sangrur,delta7,0,3,0,9058,13224,3,0
+PB,Sangrur,meta,0,0,1654408,0,0,0,0
+PB,Sangrur,total,166332,14884,0,218820,730511,15762,875
+PB,Shahid Bhagat Singh Nagar,delta,0,0,0,78,54,0,0
+PB,Shahid Bhagat Singh Nagar,delta7,0,1,0,4917,2473,1,0
+PB,Shahid Bhagat Singh Nagar,meta,0,0,614362,0,0,0,0
+PB,Shahid Bhagat Singh Nagar,total,77715,11080,0,172294,392113,11469,388
+PB,Sri Muktsar Sahib,delta,0,0,0,149,91,0,0
+PB,Sri Muktsar Sahib,delta7,0,0,0,5830,3942,2,0
+PB,Sri Muktsar Sahib,meta,0,0,902702,0,0,0,0
+PB,Sri Muktsar Sahib,total,67979,18257,0,142901,473193,18784,524
+PB,Tarn Taran,delta,0,0,0,127,251,0,0
+PB,Tarn Taran,delta7,0,3,0,8145,8846,0,0
+PB,Tarn Taran,meta,0,0,1120070,0,0,0,0
+PB,Tarn Taran,total,111446,7659,0,178839,597303,8043,380
+PY,Karaikal,delta,0,9,0,22,2,6,0
+PY,Karaikal,delta7,0,63,0,2980,763,53,0
+PY,Karaikal,meta,0,0,200222,0,0,0,0
+PY,Karaikal,total,73142,16150,0,57491,111152,16488,250
+PY,Mahe,delta,0,10,0,0,0,10,0
+PY,Mahe,delta7,0,46,0,1003,109,58,0
+PY,Mahe,meta,0,0,41816,0,0,0,0
+PY,Mahe,total,42415,5744,0,25943,34018,5867,47
+PY,Puducherry,delta,0,25,0,477,159,22,0
+PY,Puducherry,delta7,0,202,0,15005,7191,163,0
+PY,Puducherry,meta,0,0,950289,0,0,0,0
+PY,Puducherry,total,425639,97171,0,305464,558708,98885,1453
+PY,Yanam,delta,0,1,0,31,8,0,0
+PY,Yanam,delta7,0,4,0,1082,259,4,0
+PY,Yanam,meta,0,0,55626,0,0,0,0
+PY,Yanam,total,26727,6661,0,15489,30079,6773,107
+RJ,Ajmer,delta,0,0,0,1101,110,0,0
+RJ,Ajmer,delta7,0,8,0,56199,9133,6,0
+RJ,Ajmer,meta,0,0,2584913,0,0,0,0
+RJ,Ajmer,total,261215,37352,0,1042482,1752308,37769,410
+RJ,Alwar,delta,0,0,0,1002,376,0,0
+RJ,Alwar,delta7,0,0,0,29417,21681,0,0
+RJ,Alwar,meta,0,0,3671999,0,0,0,0
+RJ,Alwar,total,291879,59387,0,1029095,2237787,59694,307
+RJ,Banswara,delta,0,0,0,1105,986,0,0
+RJ,Banswara,delta7,0,0,0,22206,10612,0,0
+RJ,Banswara,meta,0,0,1798194,0,0,0,0
+RJ,Banswara,total,48781,9901,0,525793,1024293,10005,104
+RJ,Baran,delta,0,0,0,212,44,0,0
+RJ,Baran,delta7,0,0,0,15157,6599,1,0
+RJ,Baran,meta,0,0,1223921,0,0,0,0
+RJ,Baran,total,46168,11934,0,297741,763006,11996,61
+RJ,Barmer,delta,0,0,0,247,64,0,0
+RJ,Barmer,delta7,0,0,0,16673,5670,1,0
+RJ,Barmer,meta,0,0,2604453,0,0,0,0
+RJ,Barmer,total,113868,15377,0,621465,1455732,15563,185
+RJ,Bharatpur,delta,0,0,0,176,59,0,0
+RJ,Bharatpur,delta7,0,0,0,22595,10069,0,0
+RJ,Bharatpur,meta,0,0,2549121,0,0,0,0
+RJ,Bharatpur,total,201441,19341,0,590401,1351114,19601,260
+RJ,Bhilwara,delta,0,0,0,1752,161,0,0
+RJ,Bhilwara,delta7,0,0,0,26146,5405,0,0
+RJ,Bhilwara,meta,0,0,2410459,0,0,0,0
+RJ,Bhilwara,total,148764,29625,0,723691,1525323,29781,156
+RJ,Bikaner,delta,0,1,0,275,76,0,0
+RJ,Bikaner,delta7,0,1,0,17712,6565,2,0
+RJ,Bikaner,meta,0,0,2367745,0,0,0,0
+RJ,Bikaner,total,278302,39792,0,714590,1461174,40339,545
+RJ,BSF Camp,total,0,85,0,0,0,85,0
+RJ,Bundi,delta,0,0,0,1216,424,0,0
+RJ,Bundi,delta7,0,0,0,24243,12488,0,0
+RJ,Bundi,meta,0,0,1113725,0,0,0,0
+RJ,Bundi,total,58167,7919,0,362835,709316,7967,48
+RJ,Chittorgarh,delta,0,0,0,43,21,0,0
+RJ,Chittorgarh,delta7,0,0,0,29167,6118,0,0
+RJ,Chittorgarh,meta,0,0,1544392,0,0,0,0
+RJ,Chittorgarh,total,116002,19670,0,482350,978713,19809,139
+RJ,Churu,delta,0,0,0,32,5,0,0
+RJ,Churu,delta7,0,0,0,26038,5483,0,0
+RJ,Churu,meta,0,0,2041172,0,0,0,0
+RJ,Churu,total,131700,16613,0,582443,1301558,16720,107
+RJ,Dausa,delta,0,0,0,1072,182,0,0
+RJ,Dausa,delta7,0,0,0,29672,5627,0,0
+RJ,Dausa,meta,0,0,1637226,0,0,0,0
+RJ,Dausa,total,61680,13289,0,395584,941513,13351,62
+RJ,Dholpur,delta,0,1,0,83,45,0,0
+RJ,Dholpur,delta7,0,2,0,11868,4270,0,0
+RJ,Dholpur,meta,0,0,1207293,0,0,0,0
+RJ,Dholpur,total,121308,10962,0,279501,660103,11010,48
+RJ,Dungarpur,delta,0,0,0,246,90,0,0
+RJ,Dungarpur,delta7,0,0,0,19241,6673,0,0
+RJ,Dungarpur,meta,0,0,1388906,0,0,0,0
+RJ,Dungarpur,total,121917,18276,0,349762,737200,18407,131
+RJ,Evacuees,total,0,61,0,0,0,61,0
+RJ,Ganganagar,delta,0,0,0,1957,749,0,0
+RJ,Ganganagar,delta7,0,0,0,29478,11153,1,0
+RJ,Ganganagar,meta,0,0,1969520,0,0,0,0
+RJ,Ganganagar,total,80706,19203,0,525137,1278952,19354,150
+RJ,Hanumangarh,delta,0,0,0,478,72,0,0
+RJ,Hanumangarh,delta7,0,0,0,30733,5057,0,0
+RJ,Hanumangarh,meta,0,0,1779650,0,0,0,0
+RJ,Hanumangarh,total,82542,15942,0,588688,1230511,16053,111
+RJ,Italians,total,0,2,0,0,0,2,0
+RJ,Jaipur,delta,0,0,0,1871,570,2,0
+RJ,Jaipur,delta7,0,9,0,63582,24518,16,0
+RJ,Jaipur,meta,0,0,6663971,0,0,0,0
+RJ,Jaipur,total,968783,185816,0,2189042,4582410,187804,1970
+RJ,Jaisalmer,delta,0,0,0,474,199,0,0
+RJ,Jaisalmer,delta7,0,0,0,9700,2951,0,0
+RJ,Jaisalmer,meta,0,0,672008,0,0,0,0
+RJ,Jaisalmer,total,80082,13573,0,194163,416014,13639,66
+RJ,Jalore,delta,0,0,0,738,309,0,0
+RJ,Jalore,delta7,0,0,0,26896,9304,0,0
+RJ,Jalore,meta,0,0,1830151,0,0,0,0
+RJ,Jalore,total,184172,9995,0,393953,987519,10067,72
+RJ,Jhalawar,delta,0,0,0,2133,359,0,0
+RJ,Jhalawar,delta7,0,0,0,16443,2527,0,0
+RJ,Jhalawar,meta,0,0,1411327,0,0,0,0
+RJ,Jhalawar,total,97163,13425,0,363082,922646,13612,187
+RJ,Jhunjhunu,delta,0,0,0,1682,267,0,0
+RJ,Jhunjhunu,delta7,0,0,0,42099,7946,0,0
+RJ,Jhunjhunu,meta,0,0,2139658,0,0,0,0
+RJ,Jhunjhunu,total,123433,14653,0,787196,1449967,14811,158
+RJ,Jodhpur,delta,0,0,0,93,26,0,0
+RJ,Jodhpur,delta7,0,3,0,22507,7707,0,0
+RJ,Jodhpur,meta,0,0,3685681,0,0,0,0
+RJ,Jodhpur,total,600959,111308,0,1036743,2263325,112412,1103
+RJ,Karauli,delta,0,0,0,993,1578,0,0
+RJ,Karauli,delta7,0,0,0,20813,19063,0,0
+RJ,Karauli,meta,0,0,1458459,0,0,0,0
+RJ,Karauli,total,64481,7086,0,395700,813922,7156,70
+RJ,Kota,delta,0,0,0,2306,170,0,0
+RJ,Kota,delta7,0,0,0,26626,2612,0,0
+RJ,Kota,meta,0,0,1950491,0,0,0,0
+RJ,Kota,total,355509,56603,0,655588,1269245,57053,449
+RJ,Nagaur,delta,0,0,0,3335,636,0,0
+RJ,Nagaur,delta7,0,0,0,36157,6806,0,0
+RJ,Nagaur,meta,0,0,3309234,0,0,0,0
+RJ,Nagaur,total,229822,17560,0,1016874,2077555,17737,177
+RJ,Other State,total,0,150,0,0,0,189,39
+RJ,Pali,delta,0,0,0,3089,704,0,0
+RJ,Pali,delta7,0,1,0,26853,7082,0,0
+RJ,Pali,meta,0,0,2038533,0,0,0,0
+RJ,Pali,total,179463,27037,0,513058,1200554,27324,287
+RJ,Pratapgarh,delta,0,0,0,298,39,0,0
+RJ,Pratapgarh,delta7,0,0,0,25717,1130,0,0
+RJ,Pratapgarh,meta,0,0,868231,0,0,0,0
+RJ,Pratapgarh,total,52208,7080,0,345189,655140,7143,63
+RJ,Rajsamand,delta,0,0,0,988,345,0,0
+RJ,Rajsamand,delta7,0,0,0,14945,4092,0,0
+RJ,Rajsamand,meta,0,0,1158283,0,0,0,0
+RJ,Rajsamand,total,91975,16875,0,299553,691497,17044,169
+RJ,Sawai Madhopur,delta,0,0,0,844,268,0,0
+RJ,Sawai Madhopur,delta7,0,2,0,18843,8475,0,0
+RJ,Sawai Madhopur,meta,0,0,1338114,0,0,0,0
+RJ,Sawai Madhopur,total,84683,10557,0,347992,756544,10618,61
+RJ,Sikar,delta,0,0,0,130,39,0,0
+RJ,Sikar,delta7,0,0,0,20308,4520,0,0
+RJ,Sikar,meta,0,0,2677737,0,0,0,0
+RJ,Sikar,total,165042,30283,0,821713,1838263,30618,335
+RJ,Sirohi,delta,0,0,0,589,480,0,0
+RJ,Sirohi,delta7,0,0,0,15482,9007,0,0
+RJ,Sirohi,meta,0,0,1037185,0,0,0,0
+RJ,Sirohi,total,84616,13653,0,348789,610090,13732,79
+RJ,Tonk,delta,0,0,0,268,48,0,0
+RJ,Tonk,delta7,0,0,0,16223,2623,0,0
+RJ,Tonk,meta,0,0,1421711,0,0,0,0
+RJ,Tonk,total,74225,9406,0,419023,884688,9498,92
+RJ,Udaipur,delta,0,0,0,2727,1169,0,0
+RJ,Udaipur,delta7,0,0,0,51655,16803,0,0
+RJ,Udaipur,meta,0,0,3067549,0,0,0,0
+RJ,Udaipur,total,251522,55652,0,854773,1715072,56405,753
+SK,East Sikkim,delta7,0,0,0,10519,528,0,0
+SK,East Sikkim,meta,0,0,281293,0,0,0,0
+SK,East Sikkim,total,0,0,0,229361,263526,0,0
+SK,North Sikkim,delta7,0,0,0,447,23,0,0
+SK,North Sikkim,meta,0,0,43354,0,0,0,0
+SK,North Sikkim,total,0,0,0,27820,33137,0,0
+SK,South Sikkim,delta7,0,0,0,2223,164,0,0
+SK,South Sikkim,meta,0,0,146742,0,0,0,0
+SK,South Sikkim,total,0,0,0,105432,121481,0,0
+SK,West Sikkim,delta7,0,0,0,855,67,0,0
+SK,West Sikkim,meta,0,0,136299,0,0,0,0
+SK,West Sikkim,total,0,0,0,88896,103619,0,0
+TG,Adilabad,delta,0,0,0,138,165,0,0
+TG,Adilabad,delta7,0,0,0,12694,11894,0,0
+TG,Adilabad,meta,0,0,708952,0,0,0,0
+TG,Adilabad,total,0,0,0,89337,376263,0,0
+TG,Bhadradri Kothagudem,delta,0,0,0,1314,1570,0,0
+TG,Bhadradri Kothagudem,delta7,0,0,0,31905,30988,0,0
+TG,Bhadradri Kothagudem,meta,0,0,1304811,0,0,0,0
+TG,Bhadradri Kothagudem,total,0,0,0,204318,599183,0,0
+TG,Hyderabad,delta,0,0,0,5427,3334,0,0
+TG,Hyderabad,delta7,0,0,0,123025,48855,0,0
+TG,Hyderabad,meta,0,0,3441992,0,0,0,0
+TG,Hyderabad,total,0,0,0,1893217,3150245,0,0
+TG,Jagtial,delta7,0,0,0,17153,50253,0,0
+TG,Jagtial,meta,0,0,983414,0,0,0,0
+TG,Jagtial,total,0,0,0,190526,580926,0,0
+TG,Jangaon,delta,0,0,0,363,2637,0,0
+TG,Jangaon,delta7,0,0,0,11508,20821,0,0
+TG,Jangaon,meta,0,0,582457,0,0,0,0
+TG,Jangaon,total,0,0,0,128207,327527,0,0
+TG,Jayashankar Bhupalapally,delta,0,0,0,262,125,0,0
+TG,Jayashankar Bhupalapally,delta7,0,0,0,23712,4191,0,0
+TG,Jayashankar Bhupalapally,meta,0,0,712257,0,0,0,0
+TG,Jayashankar Bhupalapally,total,0,0,0,127108,262313,0,0
+TG,Jogulamba Gadwal,delta,0,0,0,253,496,0,0
+TG,Jogulamba Gadwal,delta7,0,0,0,6281,23908,0,0
+TG,Jogulamba Gadwal,meta,0,0,664971,0,0,0,0
+TG,Jogulamba Gadwal,total,0,0,0,59886,306919,0,0
+TG,Kamareddy,delta,0,0,0,78,320,0,0
+TG,Kamareddy,delta7,0,0,0,16918,14692,0,0
+TG,Kamareddy,meta,0,0,972625,0,0,0,0
+TG,Kamareddy,total,0,0,0,183176,557684,0,0
+TG,Karimnagar,delta,0,0,0,486,65,0,0
+TG,Karimnagar,delta7,0,0,0,45384,12731,0,0
+TG,Karimnagar,meta,0,0,1016063,0,0,0,0
+TG,Karimnagar,total,0,0,0,384862,657167,0,0
+TG,Khammam,delta,0,0,0,1134,789,0,0
+TG,Khammam,delta7,0,0,0,68994,41893,0,0
+TG,Khammam,meta,0,0,1401639,0,0,0,0
+TG,Khammam,total,0,0,0,333812,856707,0,0
+TG,Komaram Bheem,delta,0,0,0,136,569,0,0
+TG,Komaram Bheem,delta7,0,0,0,4048,17465,0,0
+TG,Komaram Bheem,meta,0,0,515835,0,0,0,0
+TG,Komaram Bheem,total,0,0,0,51593,275644,0,0
+TG,Mahabubabad,delta,0,0,0,1107,3715,0,0
+TG,Mahabubabad,delta7,0,0,0,27419,36700,0,0
+TG,Mahabubabad,meta,0,0,1318110,0,0,0,0
+TG,Mahabubabad,total,0,0,0,172007,468199,0,0
+TG,Mahabubnagar,delta,0,0,0,184,609,0,0
+TG,Mahabubnagar,delta7,0,0,0,19635,32811,0,0
+TG,Mahabubnagar,total,0,0,0,150640,482547,0,0
+TG,Mancherial,delta,0,0,0,27,65,0,0
+TG,Mancherial,delta7,0,0,0,15600,22489,0,0
+TG,Mancherial,meta,0,0,807037,0,0,0,0
+TG,Mancherial,total,0,0,0,170258,480069,0,0
+TG,Medak,delta,0,0,0,589,704,0,0
+TG,Medak,delta7,0,0,0,25162,34422,0,0
+TG,Medak,meta,0,0,767428,0,0,0,0
+TG,Medak,total,0,0,0,140778,458648,0,0
+TG,Medchal Malkajgiri,delta,0,0,0,8370,5804,0,0
+TG,Medchal Malkajgiri,delta7,0,0,0,93893,54568,0,0
+TG,Medchal Malkajgiri,meta,0,0,2542203,0,0,0,0
+TG,Medchal Malkajgiri,total,0,0,0,1317832,2149958,0,0
+TG,Mulugu,delta,0,0,0,85,71,0,0
+TG,Mulugu,delta7,0,0,0,10660,4190,0,0
+TG,Mulugu,meta,0,0,294671,0,0,0,0
+TG,Mulugu,total,0,0,0,76648,186104,0,0
+TG,Nagarkurnool,delta,0,0,0,18,730,0,0
+TG,Nagarkurnool,delta7,0,0,0,5469,30265,0,0
+TG,Nagarkurnool,meta,0,0,893308,0,0,0,0
+TG,Nagarkurnool,total,0,0,0,106589,464888,0,0
+TG,Nalgonda,delta,0,0,0,448,859,0,0
+TG,Nalgonda,delta7,0,0,0,33747,105864,0,0
+TG,Nalgonda,meta,0,0,1631399,0,0,0,0
+TG,Nalgonda,total,0,0,0,254218,891308,0,0
+TG,Narayanpet,delta,0,0,0,48,585,0,0
+TG,Narayanpet,delta7,0,0,0,3428,14266,0,0
+TG,Narayanpet,meta,0,0,566874,0,0,0,0
+TG,Narayanpet,total,0,0,0,50219,288388,0,0
+TG,Nirmal,delta,0,0,0,255,744,0,0
+TG,Nirmal,delta7,0,0,0,8396,16044,0,0
+TG,Nirmal,meta,0,0,709415,0,0,0,0
+TG,Nirmal,total,0,0,0,130107,378315,0,0
+TG,Nizamabad,delta,0,0,0,42,276,0,0
+TG,Nizamabad,delta7,0,0,0,21328,67852,0,0
+TG,Nizamabad,meta,0,0,1534428,0,0,0,0
+TG,Nizamabad,total,0,0,0,250862,858574,0,0
+TG,Peddapalli,delta,0,0,0,40,79,0,0
+TG,Peddapalli,delta7,0,0,0,19908,18954,0,0
+TG,Peddapalli,meta,0,0,795332,0,0,0,0
+TG,Peddapalli,total,0,0,0,201940,463510,0,0
+TG,Rajanna Sircilla,delta,0,0,0,100,10,0,0
+TG,Rajanna Sircilla,delta7,0,0,0,17056,7398,0,0
+TG,Rajanna Sircilla,meta,0,0,546121,0,0,0,0
+TG,Rajanna Sircilla,total,0,0,0,144680,372065,0,0
+TG,Ranga Reddy,delta,0,0,0,1168,217,0,0
+TG,Ranga Reddy,delta7,0,0,0,93482,76853,0,0
+TG,Ranga Reddy,meta,0,0,2551731,0,0,0,0
+TG,Ranga Reddy,total,0,0,0,1291404,2348542,0,0
+TG,Sangareddy,delta,0,0,0,3083,7628,0,0
+TG,Sangareddy,delta7,0,0,0,32539,77693,0,0
+TG,Sangareddy,meta,0,0,1527628,0,0,0,0
+TG,Sangareddy,total,0,0,0,299316,851395,0,0
+TG,Siddipet,delta,0,0,0,187,197,0,0
+TG,Siddipet,delta7,0,0,0,25015,35164,0,0
+TG,Siddipet,meta,0,0,993376,0,0,0,0
+TG,Siddipet,total,0,0,0,242462,582450,0,0
+TG,Suryapet,delta,0,0,0,1,20,0,0
+TG,Suryapet,delta7,0,0,0,24793,38975,0,0
+TG,Suryapet,meta,0,0,1099560,0,0,0,0
+TG,Suryapet,total,0,0,0,208278,610724,0,0
+TG,Vikarabad,delta,0,0,0,12,111,0,0
+TG,Vikarabad,delta7,0,0,0,5848,20014,0,0
+TG,Vikarabad,meta,0,0,881250,0,0,0,0
+TG,Vikarabad,total,0,0,0,87989,427669,0,0
+TG,Wanaparthy,delta,0,0,0,119,243,0,0
+TG,Wanaparthy,delta7,0,0,0,10313,13905,0,0
+TG,Wanaparthy,meta,0,0,751553,0,0,0,0
+TG,Wanaparthy,total,0,0,0,81870,289412,0,0
+TG,Warangal Rural,delta,0,0,0,1350,2416,0,0
+TG,Warangal Rural,delta7,0,0,0,13208,25045,0,0
+TG,Warangal Rural,meta,0,0,716457,0,0,0,0
+TG,Warangal Rural,total,0,0,0,105289,342881,0,0
+TG,Warangal Urban,delta,0,0,0,101,42,0,0
+TG,Warangal Urban,delta7,0,0,0,63907,21854,0,0
+TG,Warangal Urban,meta,0,0,1135707,0,0,0,0
+TG,Warangal Urban,total,0,0,0,418947,687410,0,0
+TG,Yadadri Bhuvanagiri,delta,0,0,0,739,4429,0,0
+TG,Yadadri Bhuvanagiri,delta7,0,0,0,28567,38752,0,0
+TG,Yadadri Bhuvanagiri,meta,0,0,726465,0,0,0,0
+TG,Yadadri Bhuvanagiri,total,0,0,0,223506,463854,0,0
+TN,Airport Quarantine,delta7,0,1,0,0,0,1,0
+TN,Airport Quarantine,total,0,2107,0,0,0,2113,2
+TN,Ariyalur,delta,0,3,0,3941,1127,5,0
+TN,Ariyalur,delta7,0,44,0,29689,19203,35,1
+TN,Ariyalur,meta,0,0,752481,0,0,0,0
+TN,Ariyalur,total,18285,16548,0,157166,475390,16854,261
+TN,Chengalpattu,delta,0,93,0,3415,3145,83,2
+TN,Chengalpattu,delta7,0,706,0,39438,26704,627,5
+TN,Chengalpattu,meta,0,0,2556244,0,0,0,0
+TN,Chengalpattu,total,51771,168327,0,604784,1337641,171777,2506
+TN,Chennai,delta,0,143,0,8535,4126,118,4
+TN,Chennai,delta7,0,1093,0,124932,52515,880,12
+TN,Chennai,meta,0,0,7100000,0,0,0,0
+TN,Chennai,total,2667777,544701,0,2671294,4532809,554672,8546
+TN,Coimbatore,delta,0,126,0,2853,770,120,1
+TN,Coimbatore,delta7,0,988,0,79387,20971,869,15
+TN,Coimbatore,meta,0,0,3472578,0,0,0,0
+TN,Coimbatore,total,102107,243070,0,1205484,2717202,246780,2416
+TN,Cuddalore,delta,0,18,0,22186,9299,16,0
+TN,Cuddalore,delta7,0,132,0,101735,51773,129,0
+TN,Cuddalore,meta,0,0,2600880,0,0,0,0
+TN,Cuddalore,total,36434,62997,0,646400,1529591,64085,867
+TN,Dharmapuri,delta,0,21,0,1674,811,16,0
+TN,Dharmapuri,delta7,0,161,0,27153,13388,110,1
+TN,Dharmapuri,meta,0,0,1502900,0,0,0,0
+TN,Dharmapuri,total,163803,27957,0,279901,770955,28425,274
+TN,Dindigul,delta,0,7,0,1040,321,9,0
+TN,Dindigul,delta7,0,51,0,57260,19630,58,1
+TN,Dindigul,meta,0,0,2161367,0,0,0,0
+TN,Dindigul,total,27800,32348,0,493453,1236504,33099,645
+TN,Erode,delta,0,94,0,899,244,68,2
+TN,Erode,delta7,0,573,0,46724,16741,477,4
+TN,Erode,meta,0,0,2259608,0,0,0,0
+TN,Erode,total,66240,102836,0,552624,1370925,104303,686
+TN,Kallakurichi,delta,0,23,0,7322,4089,14,0
+TN,Kallakurichi,delta7,0,118,0,52087,22603,66,0
+TN,Kallakurichi,meta,0,0,1370281,0,0,0,0
+TN,Kallakurichi,total,28314,31056,0,299822,696213,31364,210
+TN,Kancheepuram,delta,0,37,0,1040,679,30,0
+TN,Kancheepuram,delta7,0,259,0,24360,13961,225,2
+TN,Kancheepuram,meta,0,0,1166401,0,0,0,0
+TN,Kancheepuram,total,37505,73386,0,250181,663206,74970,1258
+TN,Kanyakumari,delta,0,12,0,1276,431,17,0
+TN,Kanyakumari,delta7,0,102,0,51185,17732,120,0
+TN,Kanyakumari,meta,0,0,1863178,0,0,0,0
+TN,Kanyakumari,total,79600,61112,0,450620,1100888,62362,1048
+TN,Karur,delta,0,16,0,834,74,20,0
+TN,Karur,delta7,0,90,0,32339,5882,136,1
+TN,Karur,meta,0,0,1076588,0,0,0,0
+TN,Karur,total,17190,23523,0,289120,626136,24091,356
+TN,Krishnagiri,delta,0,19,0,1731,404,16,0
+TN,Krishnagiri,delta7,0,160,0,37027,15883,134,1
+TN,Krishnagiri,meta,0,0,1883731,0,0,0,0
+TN,Krishnagiri,total,14284,43036,0,407695,1040491,43570,348
+TN,Madurai,delta,0,17,0,2012,1060,13,0
+TN,Madurai,delta7,0,122,0,42498,26340,99,3
+TN,Madurai,meta,0,0,3991038,0,0,0,0
+TN,Madurai,total,97279,73853,0,583138,1500331,75215,1172
+TN,Mayiladuthurai,delta,0,10,0,0,0,3,0
+TN,Mayiladuthurai,delta7,0,80,0,0,0,41,0
+TN,Mayiladuthurai,meta,0,0,901000,0,0,0,0
+TN,Mayiladuthurai,total,0,22878,0,0,0,23280,316
+TN,Nagapattinam,delta,0,20,0,953,273,16,1
+TN,Nagapattinam,delta7,0,121,0,23176,8662,97,10
+TN,Nagapattinam,meta,0,0,1614069,0,0,0,0
+TN,Nagapattinam,total,20984,20561,0,289588,813495,21074,346
+TN,Namakkal,delta,0,51,0,442,168,43,0
+TN,Namakkal,delta7,0,397,0,28265,12694,315,2
+TN,Namakkal,meta,0,0,1721179,0,0,0,0
+TN,Namakkal,total,24758,51253,0,397079,987830,52245,498
+TN,Nilgiris,delta,0,25,0,1092,71,20,2
+TN,Nilgiris,delta7,0,220,0,31952,1613,124,3
+TN,Nilgiris,meta,0,0,735071,0,0,0,0
+TN,Nilgiris,total,45839,33164,0,343811,501986,33566,212
+TN,Perambalur,delta,0,5,0,2161,383,2,0
+TN,Perambalur,delta7,0,27,0,17440,4307,26,0
+TN,Perambalur,meta,0,0,564511,0,0,0,0
+TN,Perambalur,total,7981,11790,0,136491,326872,12067,243
+TN,Pudukkottai,delta,0,8,0,2862,554,12,0
+TN,Pudukkottai,delta7,0,68,0,34202,10691,75,2
+TN,Pudukkottai,meta,0,0,1918725,0,0,0,0
+TN,Pudukkottai,total,20835,29627,0,314780,827320,30183,416
+TN,Railway Quarantine,total,0,428,0,0,0,428,0
+TN,Ramanathapuram,delta,0,6,0,2329,852,3,0
+TN,Ramanathapuram,delta7,0,55,0,32447,9961,25,0
+TN,Ramanathapuram,meta,0,0,1337560,0,0,0,0
+TN,Ramanathapuram,total,23389,20158,0,280037,660673,20564,357
+TN,Ranipet,delta,0,14,0,485,506,14,0
+TN,Ranipet,delta7,0,73,0,13744,10793,69,2
+TN,Ranipet,meta,0,0,1210277,0,0,0,0
+TN,Ranipet,total,20118,42557,0,174051,557267,43436,775
+TN,Salem,delta,0,67,0,2125,396,62,1
+TN,Salem,delta7,0,442,0,66134,25814,427,3
+TN,Salem,meta,0,0,3480008,0,0,0,0
+TN,Salem,total,79660,97619,0,791376,1925084,99893,1685
+TN,Sivaganga,delta,0,9,0,564,195,13,0
+TN,Sivaganga,delta7,0,78,0,31816,10170,82,0
+TN,Sivaganga,meta,0,0,1341250,0,0,0,0
+TN,Sivaganga,total,25824,19854,0,287468,726010,20195,206
+TN,Tenkasi,delta,0,4,0,446,291,4,0
+TN,Tenkasi,delta7,0,14,0,21454,16935,25,0
+TN,Tenkasi,meta,0,0,1407627,0,0,0,0
+TN,Tenkasi,total,26338,26834,0,233177,736882,27357,484
+TN,Thanjavur,delta,0,59,0,2378,12155,37,0
+TN,Thanjavur,delta7,0,428,0,31228,49025,310,6
+TN,Thanjavur,meta,0,0,2402781,0,0,0,0
+TN,Thanjavur,total,67445,73874,0,486660,1224986,75352,972
+TN,Theni,delta,0,5,0,1536,379,1,1
+TN,Theni,delta7,0,23,0,33309,11199,15,1
+TN,Theni,meta,0,0,1243684,0,0,0,0
+TN,Theni,total,45839,43018,0,304832,660187,43571,521
+TN,Thiruvallur,delta,0,55,0,4382,2328,28,0
+TN,Thiruvallur,delta7,0,396,0,47695,25332,252,3
+TN,Thiruvallur,meta,0,0,3725697,0,0,0,0
+TN,Thiruvallur,total,67948,117138,0,563426,1425728,119370,1842
+TN,Thiruvarur,delta,0,22,0,624,291,23,2
+TN,Thiruvarur,delta7,0,253,0,29614,13453,170,5
+TN,Thiruvarur,meta,0,0,1268094,0,0,0,0
+TN,Thiruvarur,total,67445,40760,0,246969,630274,41461,442
+TN,Thoothukkudi,delta,0,9,0,1612,11497,11,1
+TN,Thoothukkudi,delta7,0,90,0,22453,46323,85,1
+TN,Thoothukkudi,meta,0,0,1738376,0,0,0,0
+TN,Thoothukkudi,total,49288,55757,0,328797,984706,56304,409
+TN,Tiruchirappalli,delta,0,49,0,892,2445,37,0
+TN,Tiruchirappalli,delta7,0,334,0,48874,32150,302,5
+TN,Tiruchirappalli,meta,0,0,2713858,0,0,0,0
+TN,Tiruchirappalli,total,92586,76038,0,636356,1468456,77534,1059
+TN,Tirunelveli,delta,0,13,0,627,940,11,1
+TN,Tirunelveli,delta7,0,125,0,19904,22582,93,1
+TN,Tirunelveli,meta,0,0,1665253,0,0,0,0
+TN,Tirunelveli,total,54208,48812,0,275985,815687,49374,432
+TN,Tirupathur,delta,0,8,0,525,311,10,0
+TN,Tirupathur,delta7,0,66,0,24743,11111,50,0
+TN,Tirupathur,meta,0,0,1111812,0,0,0,0
+TN,Tirupathur,total,23998,28600,0,205219,541496,29301,625
+TN,Tiruppur,delta,0,53,0,443,133,69,1
+TN,Tiruppur,delta7,0,537,0,50762,20414,504,5
+TN,Tiruppur,meta,0,0,2471222,0,0,0,0
+TN,Tiruppur,total,36301,93683,0,611015,1671392,95405,979
+TN,Tiruvannamalai,delta,0,28,0,10228,4455,18,0
+TN,Tiruvannamalai,delta7,0,158,0,73235,31415,120,0
+TN,Tiruvannamalai,meta,0,0,2468965,0,0,0,0
+TN,Tiruvannamalai,total,76170,54122,0,533376,1270049,54968,667
+TN,Vellore,delta,0,15,0,1825,953,12,0
+TN,Vellore,delta7,0,139,0,31716,18978,117,1
+TN,Vellore,meta,0,0,1614242,0,0,0,0
+TN,Vellore,total,47936,48564,0,336366,763735,49864,1131
+TN,Viluppuram,delta,0,11,0,11812,12953,10,0
+TN,Viluppuram,delta7,0,83,0,67153,53748,79,1
+TN,Viluppuram,meta,0,0,2093003,0,0,0,0
+TN,Viluppuram,total,52064,45382,0,444502,1085842,45857,356
+TN,Virudhunagar,delta,0,8,0,3437,1007,5,0
+TN,Virudhunagar,delta7,0,45,0,50467,16628,38,0
+TN,Virudhunagar,meta,0,0,1943309,0,0,0,0
+TN,Virudhunagar,total,28620,45687,0,505098,1072788,46294,548
+TR,Dhalai,delta,0,0,0,531,5,0,0
+TR,Dhalai,delta7,0,2,0,11234,264,1,0
+TR,Dhalai,meta,0,0,377988,0,0,0,0
+TR,Dhalai,total,61582,7000,0,164654,258334,7037,35
+TR,Gomati,delta,0,0,0,1,0,0,0
+TR,Gomati,delta7,0,3,0,9611,319,8,0
+TR,Gomati,meta,0,0,436868,0,0,0,0
+TR,Gomati,total,47437,8043,0,161408,279099,8134,74
+TR,Khowai,delta,0,0,0,0,0,2,0
+TR,Khowai,delta7,0,0,0,5866,373,3,0
+TR,Khowai,meta,0,0,327391,0,0,0,0
+TR,Khowai,total,24046,4500,0,111955,202148,4559,54
+TR,North Tripura,delta,0,0,0,0,0,2,0
+TR,North Tripura,delta7,0,8,0,4099,352,4,0
+TR,North Tripura,meta,0,0,415946,0,0,0,0
+TR,North Tripura,total,100931,7199,0,190594,283802,7250,34
+TR,Sipahijala,delta,0,0,0,9,0,0,0
+TR,Sipahijala,delta7,0,4,0,10397,451,8,0
+TR,Sipahijala,meta,0,0,484233,0,0,0,0
+TR,Sipahijala,total,53067,6273,0,211903,330932,6360,75
+TR,South Tripura,delta,0,0,0,1,0,1,0
+TR,South Tripura,delta7,0,1,0,5639,267,4,0
+TR,South Tripura,meta,0,0,433737,0,0,0,0
+TR,South Tripura,total,83030,10104,0,209259,303987,10168,53
+TR,Unokoti,delta,0,0,0,5,0,1,0
+TR,Unokoti,delta7,0,3,0,10307,762,4,0
+TR,Unokoti,meta,0,0,277335,0,0,0,0
+TR,Unokoti,total,34930,8530,0,101178,173390,8609,68
+TR,West Tripura,delta,0,2,0,13,5,6,0
+TR,West Tripura,delta7,0,41,0,17141,1366,55,0
+TR,West Tripura,meta,0,0,917534,0,0,0,0
+TR,West Tripura,total,202939,31817,0,470030,676784,32351,420
+UP,Agra,delta,0,0,0,265,178,0,0
+UP,Agra,delta7,0,2,0,42953,23657,0,0
+UP,Agra,meta,0,0,4380793,0,0,0,0
+UP,Agra,total,491361,25308,0,746386,2172907,25765,457
+UP,Aligarh,delta,0,0,0,25,9,0,0
+UP,Aligarh,delta7,0,0,0,57576,34650,0,0
+UP,Aligarh,meta,0,0,3673849,0,0,0,0
+UP,Aligarh,total,482825,21172,0,498586,1589498,21280,108
+UP,Ambedkar Nagar,delta,0,0,0,145,138,0,0
+UP,Ambedkar Nagar,delta7,0,0,0,32042,21528,1,0
+UP,Ambedkar Nagar,meta,0,0,2398709,0,0,0,0
+UP,Ambedkar Nagar,total,123151,4885,0,349925,1135268,5040,152
+UP,Amethi,delta,0,0,0,11,165,0,0
+UP,Amethi,delta7,0,2,0,37617,19777,0,0
+UP,Amethi,meta,0,0,2549935,0,0,0,0
+UP,Amethi,total,267014,9828,0,375261,1015454,9972,143
+UP,Amroha,delta,0,0,0,8,6,0,0
+UP,Amroha,delta7,0,0,0,23048,16080,0,0
+UP,Amroha,meta,0,0,1838771,0,0,0,0
+UP,Amroha,total,254038,16412,0,265607,871164,16616,203
+UP,Auraiya,delta7,0,0,0,16443,6878,0,0
+UP,Auraiya,meta,0,0,1372287,0,0,0,0
+UP,Auraiya,total,107079,9887,0,180775,614711,10090,203
+UP,Ayodhya,delta,0,0,0,452,217,0,0
+UP,Ayodhya,delta7,0,1,0,37279,26036,0,0
+UP,Ayodhya,meta,0,0,2468371,0,0,0,0
+UP,Ayodhya,total,376735,16629,0,418182,1270889,16919,290
+UP,Azamgarh,delta,0,0,0,3111,1764,0,0
+UP,Azamgarh,delta7,0,0,0,63205,41754,2,0
+UP,Azamgarh,meta,0,0,4616509,0,0,0,0
+UP,Azamgarh,total,12474,17675,0,643824,2165409,17906,228
+UP,Baghpat,delta,0,0,0,52,10,0,0
+UP,Baghpat,delta7,0,0,0,24151,7829,0,0
+UP,Baghpat,meta,0,0,1302156,0,0,0,0
+UP,Baghpat,total,327192,8991,0,337171,692255,9132,141
+UP,Bahraich,delta,0,0,0,1565,648,0,0
+UP,Bahraich,delta7,0,0,0,106010,54069,0,0
+UP,Bahraich,meta,0,0,2384239,0,0,0,0
+UP,Bahraich,total,308225,11371,0,642554,1752196,11549,178
+UP,Ballia,delta,0,0,0,170,86,0,0
+UP,Ballia,delta7,0,0,0,48334,29248,0,0
+UP,Ballia,meta,0,0,3223642,0,0,0,0
+UP,Ballia,total,267420,21376,0,388341,1433455,21610,234
+UP,Balrampur,delta,0,0,0,630,747,1,0
+UP,Balrampur,delta7,0,0,0,56322,21033,2,0
+UP,Balrampur,meta,0,0,2149066,0,0,0,0
+UP,Balrampur,total,276237,7354,0,438892,995084,7494,138
+UP,Banda,delta,0,0,0,432,486,0,0
+UP,Banda,delta7,0,0,0,36938,38560,1,0
+UP,Banda,meta,0,0,1799541,0,0,0,0
+UP,Banda,total,303185,10832,0,236840,795903,10992,158
+UP,Barabanki,delta,0,0,0,44,11,0,0
+UP,Barabanki,delta7,0,0,0,59870,51121,1,0
+UP,Barabanki,meta,0,0,3257983,0,0,0,0
+UP,Barabanki,total,147422,19624,0,448292,1589704,19850,225
+UP,Bareilly,delta,0,0,0,255,6458,0,0
+UP,Bareilly,delta7,0,1,0,64148,68245,1,0
+UP,Bareilly,meta,0,0,4465344,0,0,0,0
+UP,Bareilly,total,465209,43650,0,749751,2221830,44028,377
+UP,Basti,delta,0,0,0,4769,3555,1,0
+UP,Basti,delta7,0,0,0,39395,24797,2,0
+UP,Basti,meta,0,0,2461056,0,0,0,0
+UP,Basti,total,296570,11385,0,399451,1189235,11717,330
+UP,Bhadohi,delta,0,0,0,7,6,0,0
+UP,Bhadohi,delta7,0,1,0,20211,15479,0,0
+UP,Bhadohi,meta,0,0,1554203,0,0,0,0
+UP,Bhadohi,total,119023,7557,0,244431,793094,7720,163
+UP,Bijnor,delta,0,0,0,1,-1,0,0
+UP,Bijnor,delta7,0,0,0,53680,27491,0,0
+UP,Bijnor,meta,0,0,3683896,0,0,0,0
+UP,Bijnor,total,312985,14668,0,600482,1756682,14794,126
+UP,Budaun,delta,0,0,0,417,581,0,0
+UP,Budaun,delta7,0,0,0,43678,53729,0,0
+UP,Budaun,meta,0,0,3712738,0,0,0,0
+UP,Budaun,total,224207,14843,0,364360,1408673,14941,98
+UP,Bulandshahr,delta,0,0,0,46,2,0,0
+UP,Bulandshahr,delta7,0,0,0,42644,18195,0,1
+UP,Bulandshahr,meta,0,0,3498507,0,0,0,0
+UP,Bulandshahr,total,269090,19972,0,646236,1647985,20215,243
+UP,Chandauli,delta,0,0,0,395,192,0,0
+UP,Chandauli,delta7,0,1,0,31247,19998,0,0
+UP,Chandauli,meta,0,0,1952713,0,0,0,0
+UP,Chandauli,total,211249,15852,0,238646,939599,16208,356
+UP,Chitrakoot,delta,0,0,0,536,329,0,0
+UP,Chitrakoot,delta7,0,0,0,16383,13007,0,0
+UP,Chitrakoot,meta,0,0,990626,0,0,0,0
+UP,Chitrakoot,total,234060,7031,0,129157,447303,7110,79
+UP,Deoria,delta,0,0,0,167,81,0,0
+UP,Deoria,delta7,0,0,0,67895,29495,0,0
+UP,Deoria,meta,0,0,3098637,0,0,0,0
+UP,Deoria,total,304520,20003,0,537293,1597034,20223,220
+UP,Etah,delta,0,0,0,170,475,0,0
+UP,Etah,delta7,0,0,0,25756,16622,0,0
+UP,Etah,meta,0,0,1761152,0,0,0,0
+UP,Etah,total,263295,9868,0,213371,788675,9968,99
+UP,Etawah,delta,0,0,0,984,873,0,0
+UP,Etawah,delta7,0,0,0,35349,52312,0,0
+UP,Etawah,meta,0,0,1579160,0,0,0,0
+UP,Etawah,total,297761,13640,0,253661,708258,13933,293
+UP,Farrukhabad,delta,0,0,0,439,81,0,0
+UP,Farrukhabad,delta7,0,0,0,28433,15703,1,0
+UP,Farrukhabad,meta,0,0,1887577,0,0,0,0
+UP,Farrukhabad,total,231856,10153,0,229745,833824,10348,194
+UP,Fatehpur,delta,0,0,0,168,53,0,0
+UP,Fatehpur,delta7,0,0,0,42615,13675,1,0
+UP,Fatehpur,meta,0,0,2632684,0,0,0,0
+UP,Fatehpur,total,82928,6674,0,410120,1246314,6814,139
+UP,Firozabad,delta,0,0,0,3105,5881,0,0
+UP,Firozabad,delta7,0,0,0,47728,66838,0,0
+UP,Firozabad,meta,0,0,2496761,0,0,0,0
+UP,Firozabad,total,322656,8585,0,328351,1005224,8720,135
+UP,Gautam Buddha Nagar,delta,0,2,0,816,100,1,0
+UP,Gautam Buddha Nagar,delta7,0,13,0,43162,22023,6,0
+UP,Gautam Buddha Nagar,meta,0,0,1674714,0,0,0,0
+UP,Gautam Buddha Nagar,total,675396,62876,0,974353,1799728,63353,467
+UP,Ghaziabad,delta,0,0,0,4330,3698,1,0
+UP,Ghaziabad,delta7,0,2,0,71692,47837,3,0
+UP,Ghaziabad,meta,0,0,4661452,0,0,0,0
+UP,Ghaziabad,total,712611,55207,0,1071908,2247039,55673,461
+UP,Ghazipur,delta,0,0,0,524,241,0,0
+UP,Ghazipur,delta7,0,2,0,43797,22615,0,0
+UP,Ghazipur,meta,0,0,3622727,0,0,0,0
+UP,Ghazipur,total,265737,21359,0,509886,1690195,21641,282
+UP,Gonda,delta,0,0,0,1698,40,0,0
+UP,Gonda,delta7,0,0,0,51150,22042,0,0
+UP,Gonda,meta,0,0,3431386,0,0,0,0
+UP,Gonda,total,241234,12016,0,555773,1604382,12282,266
+UP,Gorakhpur,delta,0,1,0,377,96,0,0
+UP,Gorakhpur,delta7,0,4,0,69539,33169,1,0
+UP,Gorakhpur,meta,0,0,4436275,0,0,0,0
+UP,Gorakhpur,total,480536,58588,0,889085,2347051,59439,848
+UP,Hamirpur,delta,0,0,0,0,3,0,0
+UP,Hamirpur,delta7,0,0,0,14350,11985,0,0
+UP,Hamirpur,meta,0,0,1104021,0,0,0,0
+UP,Hamirpur,total,240382,5130,0,185949,561456,5232,102
+UP,Hapur,delta,0,0,0,307,127,0,0
+UP,Hapur,delta7,0,2,0,21964,15823,0,0
+UP,Hapur,meta,0,0,1338211,0,0,0,0
+UP,Hapur,total,299725,12421,0,254519,658863,12638,217
+UP,Hardoi,delta,0,0,0,594,221,0,0
+UP,Hardoi,delta7,0,0,0,66612,29546,0,0
+UP,Hardoi,meta,0,0,4091380,0,0,0,0
+UP,Hardoi,total,224784,13406,0,537647,1852490,13755,349
+UP,Hathras,delta,0,0,0,1,0,0,0
+UP,Hathras,delta7,0,0,0,25542,16507,0,0
+UP,Hathras,meta,0,0,1565678,0,0,0,0
+UP,Hathras,total,260525,2877,0,234481,701190,2920,43
+UP,Jalaun,delta,0,0,0,30,18,0,0
+UP,Jalaun,delta7,0,0,0,21614,14119,3,0
+UP,Jalaun,meta,0,0,1670718,0,0,0,0
+UP,Jalaun,total,221719,11482,0,251406,819651,11687,202
+UP,Jaunpur,delta,0,0,0,3689,209,0,0
+UP,Jaunpur,delta7,0,2,0,67101,41689,0,0
+UP,Jaunpur,meta,0,0,4476072,0,0,0,0
+UP,Jaunpur,total,322824,22349,0,667013,2189622,22584,235
+UP,Jhansi,delta,0,0,0,14,14,1,0
+UP,Jhansi,delta7,0,0,0,25914,10719,1,0
+UP,Jhansi,meta,0,0,2000755,0,0,0,0
+UP,Jhansi,total,312540,35892,0,379818,1132511,36556,663
+UP,Kannauj,delta,0,0,0,431,82,0,0
+UP,Kannauj,delta7,0,0,0,44639,24440,0,0
+UP,Kannauj,meta,0,0,1658005,0,0,0,0
+UP,Kannauj,total,124019,9115,0,257048,755119,9231,114
+UP,Kanpur Dehat,delta,0,0,0,85,47,0,0
+UP,Kanpur Dehat,delta7,0,0,0,38783,27985,0,0
+UP,Kanpur Dehat,meta,0,0,1795092,0,0,0,0
+UP,Kanpur Dehat,total,344697,6087,0,290898,923661,6197,110
+UP,Kanpur Nagar,delta,0,0,0,96,38,0,0
+UP,Kanpur Nagar,delta7,0,1,0,66517,64788,3,0
+UP,Kanpur Nagar,meta,0,0,4572951,0,0,0,0
+UP,Kanpur Nagar,total,685820,81024,0,859280,2251558,82933,1905
+UP,Kasganj,delta,0,0,0,29,51,0,0
+UP,Kasganj,delta7,0,0,0,13675,8148,0,0
+UP,Kasganj,meta,0,0,1438156,0,0,0,0
+UP,Kasganj,total,271969,4197,0,147948,608818,4250,53
+UP,Kaushambi,delta,0,0,0,35,94,0,0
+UP,Kaushambi,delta7,0,0,0,28403,38263,1,0
+UP,Kaushambi,meta,0,0,1596909,0,0,0,0
+UP,Kaushambi,total,207064,4353,0,218775,760960,4424,70
+UP,Kushinagar,delta,0,0,0,585,211,0,0
+UP,Kushinagar,delta7,0,0,0,46465,16785,0,0
+UP,Kushinagar,meta,0,0,3560830,0,0,0,0
+UP,Kushinagar,total,314772,15389,0,458054,1632782,15617,228
+UP,Lakhimpur Kheri,delta,0,0,0,1370,1183,0,0
+UP,Lakhimpur Kheri,delta7,0,0,0,51586,46453,1,0
+UP,Lakhimpur Kheri,meta,0,0,4013634,0,0,0,0
+UP,Lakhimpur Kheri,total,368533,24117,0,382178,1829019,24410,292
+UP,Lalitpur,delta,0,0,0,8,4,0,0
+UP,Lalitpur,delta7,0,0,0,13539,8010,1,0
+UP,Lalitpur,meta,0,0,1218002,0,0,0,0
+UP,Lalitpur,total,21781,12613,0,143519,627553,12742,128
+UP,Lucknow,delta,0,0,0,11083,10826,0,0
+UP,Lucknow,delta7,0,10,0,107763,69404,10,0
+UP,Lucknow,meta,0,0,4588455,0,0,0,0
+UP,Lucknow,total,1237583,236165,0,1488333,3106658,238839,2651
+UP,Maharajganj,delta,0,0,0,316,53,0,0
+UP,Maharajganj,delta7,0,0,0,36312,20643,0,0
+UP,Maharajganj,meta,0,0,2665292,0,0,0,0
+UP,Maharajganj,total,334716,12300,0,372559,1283534,12440,140
+UP,Mahoba,delta,0,0,0,9,10,0,0
+UP,Mahoba,delta7,0,0,0,8960,4765,0,0
+UP,Mahoba,meta,0,0,876055,0,0,0,0
+UP,Mahoba,total,142992,4182,0,148388,444352,4268,86
+UP,Mainpuri,delta,0,0,0,1354,647,0,0
+UP,Mainpuri,delta7,0,0,0,37443,31507,0,0
+UP,Mainpuri,meta,0,0,1847194,0,0,0,0
+UP,Mainpuri,total,228496,9846,0,219990,860461,10028,182
+UP,Mathura,delta,0,0,0,164,63,0,0
+UP,Mathura,delta7,0,1,0,23027,10807,1,0
+UP,Mathura,meta,0,0,2541894,0,0,0,0
+UP,Mathura,total,198379,19893,0,418117,1207578,20297,402
+UP,Mau,delta,0,0,0,453,787,0,0
+UP,Mau,delta7,0,1,0,32390,25202,1,0
+UP,Mau,meta,0,0,2205170,0,0,0,0
+UP,Mau,total,281445,8252,0,307052,1017497,8333,80
+UP,Meerut,delta,0,0,0,79,25,1,0
+UP,Meerut,delta7,0,3,0,57600,25100,13,0
+UP,Meerut,meta,0,0,3447405,0,0,0,0
+UP,Meerut,total,798404,68567,0,842448,1764744,69480,898
+UP,Mirzapur,delta,0,1,0,419,787,0,0
+UP,Mirzapur,delta7,0,1,0,41785,24968,0,0
+UP,Mirzapur,meta,0,0,2494533,0,0,0,0
+UP,Mirzapur,total,312764,10972,0,462157,1335308,11088,116
+UP,Moradabad,delta,0,1,0,2357,3951,0,0
+UP,Moradabad,delta7,0,1,0,39070,52013,0,0
+UP,Moradabad,meta,0,0,4773138,0,0,0,0
+UP,Moradabad,total,400459,38752,0,443211,1390249,39102,349
+UP,Muzaffarnagar,delta,0,0,0,707,979,0,0
+UP,Muzaffarnagar,delta7,0,0,0,38924,15476,1,0
+UP,Muzaffarnagar,meta,0,0,4138605,0,0,0,0
+UP,Muzaffarnagar,total,161704,30737,0,467387,1264005,31009,269
+UP,Pilibhit,delta,0,0,0,1,2,0,0
+UP,Pilibhit,delta7,0,0,0,17989,9611,0,0
+UP,Pilibhit,meta,0,0,2037225,0,0,0,0
+UP,Pilibhit,total,291538,10838,0,256931,978332,11032,193
+UP,Pratapgarh,delta,0,0,0,1482,1796,0,0
+UP,Pratapgarh,delta7,0,0,0,47832,40603,0,0
+UP,Pratapgarh,meta,0,0,3173752,0,0,0,0
+UP,Pratapgarh,total,100500,15875,0,456869,1480021,16038,163
+UP,Prayagraj,delta,0,1,0,48,17,0,0
+UP,Prayagraj,delta7,0,6,0,79660,75719,1,0
+UP,Prayagraj,meta,0,0,5959798,0,0,0,0
+UP,Prayagraj,total,729300,77609,0,862244,2731341,78699,1088
+UP,Rae Bareli,delta,0,0,0,429,576,0,0
+UP,Rae Bareli,delta7,0,0,0,46996,33906,0,0
+UP,Rae Bareli,meta,0,0,3404004,0,0,0,0
+UP,Rae Bareli,total,387408,16761,0,344694,1436175,17104,343
+UP,Rampur,delta,0,0,0,1,3,0,0
+UP,Rampur,delta7,0,0,0,28753,23526,2,0
+UP,Rampur,meta,0,0,2335398,0,0,0,0
+UP,Rampur,total,274288,11676,0,250420,989666,11826,148
+UP,Saharanpur,delta,0,0,0,17,6,0,0
+UP,Saharanpur,delta7,0,0,0,33326,19216,0,0
+UP,Saharanpur,meta,0,0,3464228,0,0,0,0
+UP,Saharanpur,total,266387,32309,0,576986,1638111,32730,420
+UP,Sambhal,delta,0,0,0,411,1708,0,0
+UP,Sambhal,delta7,0,0,0,23914,27630,0,0
+UP,Sambhal,meta,0,0,2217020,0,0,0,0
+UP,Sambhal,total,309333,9331,0,204352,893786,9438,106
+UP,Sant Kabir Nagar,delta,0,0,0,202,82,0,0
+UP,Sant Kabir Nagar,delta7,0,0,0,26920,44511,0,0
+UP,Sant Kabir Nagar,meta,0,0,1714300,0,0,0,0
+UP,Sant Kabir Nagar,total,292606,8061,0,195105,799506,8159,98
+UP,Shahjahanpur,delta,0,0,0,969,3563,0,0
+UP,Shahjahanpur,delta7,0,0,0,79519,185421,0,0
+UP,Shahjahanpur,meta,0,0,3002376,0,0,0,0
+UP,Shahjahanpur,total,437195,19916,0,538827,1743273,20361,444
+UP,Shamli,delta,0,0,0,14,24,0,0
+UP,Shamli,delta7,0,0,0,16389,12602,0,0
+UP,Shamli,meta,0,0,1274815,0,0,0,0
+UP,Shamli,total,246597,12931,0,206438,604968,12976,45
+UP,Shrawasti,delta,0,0,0,120,37,0,0
+UP,Shrawasti,delta7,0,0,0,17808,7342,0,0
+UP,Shrawasti,meta,0,0,1114615,0,0,0,0
+UP,Shrawasti,total,221566,4353,0,181654,515155,4388,35
+UP,Siddharthnagar,delta,0,0,0,2209,250,0,0
+UP,Siddharthnagar,delta7,0,0,0,53973,18746,0,0
+UP,Siddharthnagar,meta,0,0,2553526,0,0,0,0
+UP,Siddharthnagar,total,295047,9273,0,479630,1225133,9373,100
+UP,Sitapur,delta,0,0,0,197,81,0,0
+UP,Sitapur,delta7,0,0,0,52112,33825,0,0
+UP,Sitapur,meta,0,0,4474446,0,0,0,0
+UP,Sitapur,total,289473,12211,0,497241,2139996,12398,185
+UP,Sonbhadra,delta,0,0,0,157,200,0,0
+UP,Sonbhadra,delta7,0,0,0,24430,21438,0,0
+UP,Sonbhadra,meta,0,0,1862612,0,0,0,0
+UP,Sonbhadra,total,306175,16556,0,236871,812891,16807,251
+UP,Sultanpur,delta,0,0,0,18,2,0,0
+UP,Sultanpur,delta7,0,0,0,31247,14962,0,0
+UP,Sultanpur,meta,0,0,3790922,0,0,0,0
+UP,Sultanpur,total,309395,14777,0,370998,1178195,14915,138
+UP,Unnao,delta,0,0,0,948,201,0,0
+UP,Unnao,delta7,0,0,0,41790,26506,0,0
+UP,Unnao,meta,0,0,3110595,0,0,0,0
+UP,Unnao,total,298886,14757,0,420513,1554190,15011,254
+UP,Varanasi,delta,0,0,0,441,159,0,0
+UP,Varanasi,delta7,0,1,0,55104,38187,2,0
+UP,Varanasi,meta,0,0,3682194,0,0,0,0
+UP,Varanasi,total,595510,84528,0,843905,2109381,85501,971
+UT,Almora,delta,0,0,0,416,37,0,0
+UT,Almora,delta7,0,7,0,10440,729,7,0
+UT,Almora,meta,0,0,621927,0,0,0,0
+UT,Almora,total,84443,11378,0,215715,378242,12190,196
+UT,Bageshwar,delta,0,0,0,1286,75,0,0
+UT,Bageshwar,delta7,0,0,0,6323,371,1,0
+UT,Bageshwar,meta,0,0,259840,0,0,0,0
+UT,Bageshwar,total,55626,5678,0,131244,183447,5764,60
+UT,Chamoli,delta,0,0,0,268,13,0,0
+UT,Chamoli,delta7,0,4,0,11652,822,4,0
+UT,Chamoli,meta,0,0,391114,0,0,0,0
+UT,Chamoli,total,90390,11972,0,191420,273850,12242,62
+UT,Champawat,delta,0,0,0,613,44,1,0
+UT,Champawat,delta7,0,0,0,6007,754,3,0
+UT,Champawat,meta,0,0,259315,0,0,0,0
+UT,Champawat,total,95068,7358,0,119870,183354,7603,53
+UT,Dehradun,delta,0,4,0,3611,308,3,0
+UT,Dehradun,delta7,0,24,0,49795,5963,30,0
+UT,Dehradun,meta,0,0,1698560,0,0,0,0
+UT,Dehradun,total,401496,108137,0,793803,1465464,112363,3521
+UT,Haridwar,delta,0,0,0,1907,224,1,0
+UT,Haridwar,delta7,0,8,0,52191,3960,10,1
+UT,Haridwar,meta,0,0,1927029,0,0,0,0
+UT,Haridwar,total,369542,49096,0,635360,1456257,51498,1019
+UT,Nainital,delta,0,3,0,288,31,0,0
+UT,Nainital,delta7,0,14,0,16850,2285,10,0
+UT,Nainital,meta,0,0,955128,0,0,0,0
+UT,Nainital,total,204422,38140,0,398680,722854,39232,944
+UT,Pauri Garhwal,delta,0,0,0,108,25,0,0
+UT,Pauri Garhwal,delta7,0,5,0,14253,2116,3,0
+UT,Pauri Garhwal,meta,0,0,686527,0,0,0,0
+UT,Pauri Garhwal,total,138878,16668,0,229262,431320,17686,315
+UT,Pithoragarh,delta,0,1,0,609,89,0,0
+UT,Pithoragarh,delta7,0,6,0,10608,930,3,0
+UT,Pithoragarh,meta,0,0,485993,0,0,0,0
+UT,Pithoragarh,total,72686,9962,0,183765,318644,10260,181
+UT,Rudraprayag,delta,0,1,0,326,30,0,0
+UT,Rudraprayag,delta7,0,3,0,6212,416,0,0
+UT,Rudraprayag,meta,0,0,236857,0,0,0,0
+UT,Rudraprayag,total,52378,8535,0,113480,170911,8800,106
+UT,Tehri Garhwal,delta,0,0,0,120,12,0,0
+UT,Tehri Garhwal,delta7,0,0,0,15658,2235,0,0
+UT,Tehri Garhwal,meta,0,0,616409,0,0,0,0
+UT,Tehri Garhwal,total,105111,14827,0,206527,381493,15835,108
+UT,Udham Singh Nagar,delta,0,0,0,3581,167,0,0
+UT,Udham Singh Nagar,delta7,0,3,0,48283,3588,0,0
+UT,Udham Singh Nagar,meta,0,0,1648367,0,0,0,0
+UT,Udham Singh Nagar,total,337292,36315,0,518326,1277738,37875,761
+UT,Uttarkashi,delta,0,0,0,83,12,0,0
+UT,Uttarkashi,delta7,0,0,0,9910,1063,4,0
+UT,Uttarkashi,meta,0,0,329686,0,0,0,0
+UT,Uttarkashi,total,120026,12129,0,160687,234425,12548,74
+WB,Alipurduar,delta,0,5,0,1298,579,4,0
+WB,Alipurduar,delta7,0,35,0,29790,38488,31,0
+WB,Alipurduar,meta,0,0,1700000,0,0,0,0
+WB,Alipurduar,total,0,15441,0,353666,949775,15589,102
+WB,Bankura,delta,0,21,0,5692,38854,30,0
+WB,Bankura,delta7,0,133,0,76120,220390,161,1
+WB,Bankura,meta,0,0,3596292,0,0,0,0
+WB,Bankura,total,0,35839,0,706177,2245147,36313,274
+WB,Birbhum,delta,0,20,0,2868,6911,20,0
+WB,Birbhum,delta7,0,102,0,84919,99629,176,0
+WB,Birbhum,meta,0,0,3502387,0,0,0,0
+WB,Birbhum,total,0,40727,0,846286,2152966,41197,286
+WB,Cooch Behar,delta,0,13,0,395,3386,10,0
+WB,Cooch Behar,delta7,0,93,0,26214,122592,77,0
+WB,Cooch Behar,meta,0,0,2822780,0,0,0,0
+WB,Cooch Behar,total,0,29060,0,421663,1444232,29275,97
+WB,Dakshin Dinajpur,delta,0,16,0,998,724,14,0
+WB,Dakshin Dinajpur,delta7,0,108,0,21657,53398,111,1
+WB,Dakshin Dinajpur,meta,0,0,1670931,0,0,0,0
+WB,Dakshin Dinajpur,total,0,17573,0,363056,1063493,17889,170
+WB,Darjeeling,delta,0,31,0,1844,945,23,0
+WB,Darjeeling,delta7,0,214,0,69087,21148,189,1
+WB,Darjeeling,meta,0,0,1842034,0,0,0,0
+WB,Darjeeling,total,0,56326,0,664306,1324555,57143,539
+WB,Hooghly,delta,0,74,0,9034,41006,58,0
+WB,Hooghly,delta7,0,497,0,105570,274722,472,2
+WB,Hooghly,meta,0,0,5520389,0,0,0,0
+WB,Hooghly,total,0,84650,0,1343978,3368156,86300,990
+WB,Howrah,delta,0,73,0,4502,14299,73,0
+WB,Howrah,delta7,0,473,0,95203,207351,518,2
+WB,Howrah,meta,0,0,4841638,0,0,0,0
+WB,Howrah,total,0,96567,0,1254076,2905925,98757,1524
+WB,Jalpaiguri,delta,0,17,0,3130,9642,16,1
+WB,Jalpaiguri,delta7,0,120,0,63773,53967,102,6
+WB,Jalpaiguri,meta,0,0,3869675,0,0,0,0
+WB,Jalpaiguri,total,0,41256,0,410719,1144138,41982,572
+WB,Jhargram,delta,0,5,0,700,477,3,0
+WB,Jhargram,delta7,0,39,0,19553,39020,25,0
+WB,Jhargram,meta,0,0,1136548,0,0,0,0
+WB,Jhargram,total,0,12063,0,211586,714456,12135,27
+WB,Kalimpong,delta,0,4,0,429,8,2,0
+WB,Kalimpong,delta7,0,28,0,10626,513,18,0
+WB,Kalimpong,meta,0,0,251642,0,0,0,0
+WB,Kalimpong,total,0,6950,0,124420,180713,7036,54
+WB,Kolkata,delta,0,244,0,1626,334,274,6
+WB,Kolkata,delta7,0,1553,0,206020,36977,1843,25
+WB,Kolkata,meta,0,0,4486679,0,0,0,0
+WB,Kolkata,total,0,315146,0,3039486,4784084,322541,5152
+WB,Malda,delta,0,8,0,1771,2191,32,0
+WB,Malda,delta7,0,51,0,55976,227391,77,0
+WB,Malda,meta,0,0,3997970,0,0,0,0
+WB,Malda,total,0,33121,0,590497,2029144,33406,186
+WB,Murshidabad,delta,0,8,0,1587,17667,5,0
+WB,Murshidabad,delta7,0,40,0,86224,621102,48,1
+WB,Murshidabad,meta,0,0,7102430,0,0,0,0
+WB,Murshidabad,total,0,33605,0,976111,3952659,33993,328
+WB,Nadia,delta,0,48,0,1863,15875,31,1
+WB,Nadia,delta7,0,326,0,89327,251739,302,8
+WB,Nadia,meta,0,0,5168488,0,0,0,0
+WB,Nadia,total,0,72054,0,884320,2798942,73333,859
+WB,North 24 Parganas,delta,0,147,0,7658,5231,144,6
+WB,North 24 Parganas,delta7,0,961,0,241201,235852,1066,27
+WB,North 24 Parganas,meta,0,0,10082852,0,0,0,0
+WB,North 24 Parganas,total,0,323097,0,2720315,6547702,329257,4833
+WB,Other State,total,0,63,0,0,0,66,3
+WB,Paschim Bardhaman,delta,0,25,0,786,286,32,0
+WB,Paschim Bardhaman,delta7,0,149,0,72103,94473,213,1
+WB,Paschim Bardhaman,meta,0,0,2882031,0,0,0,0
+WB,Paschim Bardhaman,total,0,57184,0,677747,1789611,57778,356
+WB,Paschim Medinipur,delta,0,28,0,1457,6512,26,0
+WB,Paschim Medinipur,delta7,0,198,0,66132,270458,181,1
+WB,Paschim Medinipur,meta,0,0,5094238,0,0,0,0
+WB,Paschim Medinipur,total,0,52820,0,877978,2758576,53581,507
+WB,Purba Bardhaman,delta,0,25,0,4002,17168,16,0
+WB,Purba Bardhaman,delta7,0,176,0,51741,260764,147,2
+WB,Purba Bardhaman,meta,0,0,4835532,0,0,0,0
+WB,Purba Bardhaman,total,0,41588,0,859528,2596246,42005,198
+WB,Purba Medinipur,delta,0,17,0,2226,5370,16,0
+WB,Purba Medinipur,delta7,0,120,0,144185,71724,94,1
+WB,Purba Medinipur,meta,0,0,4417377,0,0,0,0
+WB,Purba Medinipur,total,0,62549,0,1471674,3560589,63098,397
+WB,Purulia,delta,0,3,0,1866,13266,2,0
+WB,Purulia,delta7,0,21,0,40922,159111,17,0
+WB,Purulia,meta,0,0,2927965,0,0,0,0
+WB,Purulia,total,0,19283,0,492310,1679941,19419,113
+WB,South 24 Parganas,delta,0,74,0,3270,7086,75,1
+WB,South 24 Parganas,delta7,0,470,0,169231,310444,542,5
+WB,South 24 Parganas,meta,0,0,8153176,0,0,0,0
+WB,South 24 Parganas,total,0,98950,0,1832073,4850898,100957,1336
+WB,Uttar Dinajpur,delta,0,7,0,0,0,8,0
+WB,Uttar Dinajpur,delta7,0,46,0,44686,130243,43,2
+WB,Uttar Dinajpur,meta,0,0,3000849,0,0,0,0
+WB,Uttar Dinajpur,total,0,19559,0,436182,1341457,19858,238
